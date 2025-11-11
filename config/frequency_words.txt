@@ -8,6 +8,9 @@ gemini
 chatgpt
 openai
 
+币圈
+比特币
+
 金价
 
 黄金
