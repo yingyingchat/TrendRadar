@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T21:34:06.669428+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2025-11-12T22:21:38.445851+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -136,6 +136,17 @@
           "time_info": "[00时25分 ~ 06时19分]"
         },
         {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "特朗普回应高市早苗涉台错误言论",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D27%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E6%25B6%2589%25E5%258F%25B0%25E9%2594%2599%25E8%25AF%25AF%25E8%25A8%2580%25E8%25AE%25BA%2523%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26pos%3D26%26realpos%3D27%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762888037%26pre_seqid%3D1762888037354025322115&launchid=10000360-page_H5",
           "source": "微博",
@@ -186,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "据CBS：Citadel首席执行官肯·格里芬和软银集团创办人孙正义受邀参加特朗普与高管的晚宴。财长贝森特和商务部长卢特尼克也将出席。",
+          "url": "https://flash.jin10.com/detail/20251112221633642800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国总统特朗普：众议长约翰逊与参议院多数党领袖John Thune在临时开支草案协议上“取得重大胜利”。",
@@ -435,6 +457,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国总统特朗普：（被问及是否会起诉英国广播公司）我想我不得不这么做。",
           "url": "https://flash.jin10.com/detail/20251112083438495800",
           "source": "金十数据",
@@ -521,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -611,6 +655,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "美国财长：特朗普很快会采取降低咖啡和香蕉价格的重大措施",
+          "url": "https://wallstreetcn.com/livenews/3003461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
           "url": "https://wallstreetcn.com/livenews/3002928",
           "source": "华尔街见闻-快讯",
@@ -680,7 +735,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -713,7 +768,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -764,6 +819,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美股释放“不祥之兆” 标普500中创新低股票数量持续增加",
@@ -846,7 +912,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "摩根大通：将西方石油(OXY.N)目标股价从50美元上调至51美元。",
@@ -866,7 +932,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -896,6 +962,18 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
+          "title": "OPEC月报：2025年全球石油需求增长预期维持不变，预计为每日130万桶。 维持2026年全球石油需求增长预期不变，预计为每日138万桶。 尽管OPEC+达成了增产协议，OPEC+原油10月平均产量为每日4,302万桶，较9月减少7.3万桶。 预计2026年OPEC+原油的全球需求将平均为每日4,300万桶，较此前预期下调10万桶。",
+          "url": "https://wallstreetcn.com/livenews/3003452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时21分]"
+        },
+        {
           "title": "罗马尼亚能源部长表示，不会要求美国延长对卢克石油制裁设定的11月21日最后期限。",
           "url": "https://flash.jin10.com/detail/20251112030224408800",
           "source": "金十数据",
@@ -920,17 +998,6 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
-          "title": "OPEC月报：2025年全球石油需求增长预期维持不变，预计为每日130万桶。 维持2026年全球石油需求增长预期不变，预计为每日138万桶。 尽管OPEC+达成了增产协议，OPEC+原油10月平均产量为每日4,302万桶，较9月减少7.3万桶。 预计2026年OPEC+原油的全球需求将平均为每日4,300万桶，较此前预期下调10万桶。",
-          "url": "https://wallstreetcn.com/livenews/3003452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
           "title": "国际能源署：在当前政策情景下，认为石油需求在2050年前不会达到峰值。",
           "url": "https://flash.jin10.com/detail/20251112130122387800",
           "source": "金十数据",
@@ -940,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2198795",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "马来西亚国家石油公司：加强人工智能集成生态系统与高性能计算领域的全球合作，推动马来西亚上游产业的发展。",
@@ -984,12 +1062,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "哈萨克斯坦总统托卡耶夫：哈萨克斯坦和俄罗斯已同意加强在石油、石油产品及其他物资供应方面的伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20251112214952503800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -1100,6 +1189,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "OpenAI：继续提出上诉请求。",
+          "url": "https://flash.jin10.com/detail/20251112221354413800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "OpenAI：需求并未影响ChatGPT企业客户。",
+          "url": "https://flash.jin10.com/detail/20251112221303685800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "OpenAI：纽约时报要求移交对话内容侵犯了隐私。",
+          "url": "https://flash.jin10.com/detail/20251112221138478800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
@@ -1408,6 +1530,56 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗革命卫队情报部门称，美国-以色列间谍网络已被瓦解。",
+          "url": "https://flash.jin10.com/detail/20251112004024574800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部长阿拉格奇今天与俄罗斯外交部长拉夫罗夫通电话，讨论并交换了对地区和国际局势的最新看法。",
+          "url": "https://flash.jin10.com/detail/20251112220731567800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251112210345876800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "伊朗称：摧毁一个由美以领导的间谍网络",
+          "url": "https://wallstreetcn.com/livenews/3002889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1455,11 +1627,52 @@
           "source": "今日头条",
           "ranks": [
             30,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 22时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时26分 ~ 22时21分]"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
+          "url": "https://flash.jin10.com/detail/20251112220357212800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
@@ -1500,74 +1713,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗革命卫队情报部门称，美国-以色列间谍网络已被瓦解。",
-          "url": "https://flash.jin10.com/detail/20251112004024574800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251112210345876800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "伊朗称：摧毁一个由美以领导的间谍网络",
-          "url": "https://wallstreetcn.com/livenews/3002889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 21时34分]"
-        },
-        {
-          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/3003444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         }
       ]
     }
