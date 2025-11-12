@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:24:58.319138+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2025-11-12T18:22:37.722780+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -69,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -283,6 +283,18 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
+        },
+        {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
           "url": "https://wallstreetcn.com/livenews/3002989",
           "source": "华尔街见闻-快讯",
@@ -352,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "特朗普发2000美元关税红包但预算说不",
@@ -462,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112175252982800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -594,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "特朗普称没有稀土磁铁就什么都没有",
+          "url": "https://www.toutiao.com/trending/7571130765851443254/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普宣布：赦免75名支持者",
@@ -768,11 +791,12 @@
           "url": "https://wallstreetcn.com/livenews/3003320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -923,8 +947,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时22分]"
         },
         {
           "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
@@ -986,8 +1010,19 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "摩根大通：将西方石油(OXY.N)目标股价从50美元上调至51美元。",
+          "url": "https://flash.jin10.com/detail/20251112181359040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
         {
           "title": "墨西哥能源部长Luz Elena Gonzalez：墨方并没有在商业活动上青睐本国公司Pemex和CFE，而轻视那些美国石油公司。",
           "url": "https://wallstreetcn.com/livenews/3002917",
@@ -1074,7 +1109,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
@@ -1101,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "谷歌：支持美国国会通过的关键两党法案，以保护民众免受网络钓鱼侵害。",
+          "url": "https://flash.jin10.com/detail/20251112180704966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "谷歌宣布未来四年在德国投资55亿欧元",
@@ -1206,7 +1252,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
@@ -1246,22 +1292,24 @@
           "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
           "url": "https://www.toutiao.com/trending/7571465266493702187/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
         }
       ]
     },
@@ -1346,8 +1394,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 17时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 18时22分]"
         }
       ]
     }
