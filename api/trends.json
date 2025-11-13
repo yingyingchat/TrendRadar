@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T20:42:03.167338+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2025-11-13T21:33:32.567626+08:00",
+  "total_titles_processed": 1966,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时19分 ~ 20时42分]"
+          "appearance_count": 27,
+          "time_info": "[01时19分 ~ 21时33分]"
         },
         {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 21时33分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -617,7 +617,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -691,24 +691,25 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
+          "title": "随着美国制裁临近，俄罗斯石油贸易商Litasco启动裁员。",
+          "url": "https://wallstreetcn.com/livenews/3004190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时33分]"
+        },
+        {
           "title": "美国制裁生效在即 俄罗斯石油贸易商开始裁员",
           "url": "https://flash.jin10.com/detail/20251113202845750800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "随着美国制裁临近，俄罗斯石油贸易商Litasco启动裁员。",
-          "url": "https://wallstreetcn.com/livenews/3004190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -790,6 +791,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "夜盘期货开盘，沪银、沪金涨逾1%；纯碱、液化石油气、焦炭、橡胶等上涨；低硫燃油、原油、沪镍等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3004203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "消息人士称，俄罗斯卢克石油公司已向美国财政部申请延长11月21日之后禁止与该公司进行交易的最后期限。",
           "url": "https://flash.jin10.com/detail/20251113031143900800",
           "source": "金十数据",
@@ -807,7 +819,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -840,7 +852,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -859,7 +871,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -937,7 +949,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -997,6 +1009,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113210734667800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "京东美股盘前涨超3%，此前公布业绩数据。",
           "url": "https://wallstreetcn.com/livenews/3004076",
           "source": "华尔街见闻-快讯",
@@ -1043,8 +1066,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 20时42分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -1059,6 +1082,19 @@
           "time_info": "[16时27分 ~ 18时23分]"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 21时33分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
@@ -1070,19 +1106,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时27分 ~ 13时21分]"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 20时42分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -1144,6 +1167,19 @@
           "time_info": "[11时15分 ~ 13时21分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -1153,18 +1189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
