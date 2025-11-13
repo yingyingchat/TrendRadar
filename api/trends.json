@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:33:32.567626+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2025-11-13T22:20:36.962842+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时19分 ~ 21时33分]"
+          "appearance_count": 28,
+          "time_info": "[01时19分 ~ 22时20分]"
         },
         {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
@@ -617,7 +617,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -791,13 +791,24 @@
           "time_info": "06时19分"
         },
         {
+          "title": "南苏丹请求石油生产商预付25亿美元 用未来产量偿还",
+          "url": "https://flash.jin10.com/detail/20251113220435286800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "夜盘期货开盘，沪银、沪金涨逾1%；纯碱、液化石油气、焦炭、橡胶等上涨；低硫燃油、原油、沪镍等下跌。",
           "url": "https://wallstreetcn.com/livenews/3004203",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -871,7 +882,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -998,6 +1009,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "京东(JD.O)美股盘前涨幅扩大至近5%，此前第三季度营收超预期。",
           "url": "https://flash.jin10.com/detail/20251113174541985800",
           "source": "金十数据",
@@ -1015,7 +1037,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1066,8 +1088,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -1091,8 +1113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 21时33分]"
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 22时20分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -1176,8 +1198,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时33分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
