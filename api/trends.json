@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-15T04:22:39.443981+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2025-11-15T05:18:37.316331+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
-          "url": "https://wallstreetcn.com/livenews/3005021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
@@ -26,8 +15,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时18分]"
+        },
+        {
+          "title": "特朗普政府下调美国大豆出口前景预测",
+          "url": "https://wallstreetcn.com/livenews/3005036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
+          "url": "https://wallstreetcn.com/livenews/3005021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
@@ -43,6 +55,18 @@
           "time_info": "[02时28分 ~ 04时22分]"
         },
         {
+          "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
+          "url": "https://wallstreetcn.com/livenews/3005014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
           "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
           "url": "https://wallstreetcn.com/livenews/3004961",
           "source": "华尔街见闻-快讯",
@@ -55,6 +79,18 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
+          "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
+          "url": "https://wallstreetcn.com/livenews/3005012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
           "title": "民主党人要求特朗普政府解释削减航班的原因",
           "url": "https://flash.jin10.com/detail/20251115015954513800",
           "source": "金十数据",
@@ -65,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
+          "url": "https://flash.jin10.com/detail/20251115034601291800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
         },
         {
           "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
@@ -115,15 +163,16 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
-          "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
-          "url": "https://wallstreetcn.com/livenews/3005014",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普拟削减部分食品杂货的关税",
+          "url": "https://flash.jin10.com/detail/20251115032227823800",
+          "source": "金十数据",
           "ranks": [
-            8
+            26,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -137,17 +186,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
-          "url": "https://wallstreetcn.com/livenews/3005012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国总统特朗普：在特朗普政府的领导下，各项成本正在大幅下降，这在很大程度上得益于汽油和能源价格的下跌。",
           "url": "https://flash.jin10.com/detail/20251114235018798800",
           "source": "金十数据",
@@ -157,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
@@ -225,17 +252,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "特朗普拟削减部分食品杂货的关税",
-          "url": "https://flash.jin10.com/detail/20251115032227823800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
           "url": "https://wallstreetcn.com/livenews/3004985",
           "source": "华尔街见闻-快讯",
@@ -261,19 +277,8 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "WTI 12月原油期货收涨1.40美元，涨幅2.39%，报60.09美元/桶，本周累计上涨将近0.57%。 布伦特1月原油期货收涨1.38美元，涨幅2.19%，报64.39美元/桶，本周累涨超1.19%。 NYMEX 12月天然气期货收报4.5660美元/百万英热单位，本周累涨超5.81%。 NYMEX 12月汽油期货收报2.0116美元/加仑，NYMEX 12月取暖油期货收报2.5311美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3005019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
         {
           "title": "美国11月14日当周石油钻井数 417，前值 414。",
           "url": "https://wallstreetcn.com/livenews/3004995",
@@ -286,6 +291,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时22分]"
+        },
+        {
+          "title": "WTI 12月原油期货收涨1.40美元，涨幅2.39%，报60.09美元/桶，本周累计上涨将近0.57%。 布伦特1月原油期货收涨1.38美元，涨幅2.19%，报64.39美元/桶，本周累涨超1.19%。 NYMEX 12月天然气期货收报4.5660美元/百万英热单位，本周累涨超5.81%。 NYMEX 12月汽油期货收报2.0116美元/加仑，NYMEX 12月取暖油期货收报2.5311美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3005019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
         },
         {
           "title": "贝克休斯：美国钻井公司连续第二周增加石油和天然气钻井平台。",
@@ -330,9 +347,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美国允许一些与卢克石油公司有关的交易在俄罗斯境外进行",
+          "url": "https://wallstreetcn.com/livenews/3005016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "俄罗斯石油公司Lukoil：（即将面临美国制裁之际）与多家竞标人讨论国际资产的处置事宜。",
@@ -363,7 +391,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         }
@@ -381,8 +409,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -392,8 +420,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -403,8 +431,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时18分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -416,17 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -455,7 +483,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -466,8 +494,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -512,12 +540,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美股三大股指集体低开 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -528,19 +567,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时18分]"
+        },
+        {
+          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
+          "url": "https://wallstreetcn.com/livenews/3005032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
           "url": "https://wallstreetcn.com/livenews/3005015",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
         }
       ]
     },
@@ -558,6 +609,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数本周跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3005030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     }
