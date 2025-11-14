@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-14T07:19:18.915749+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2025-11-14T09:27:20.791741+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "韩国方面表示，特朗普为事实清单做出了理性的决定。",
+          "url": "https://flash.jin10.com/detail/20251114092336752800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
           "url": "https://flash.jin10.com/detail/20251114035500120800",
@@ -36,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -181,6 +192,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "市场消息：特朗普计划出席明年1月份的达沃斯会议。",
           "url": "https://flash.jin10.com/detail/20251114031554897800",
           "source": "金十数据",
@@ -242,7 +264,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -316,7 +338,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -338,11 +360,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时19分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时27分]"
         },
         {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
@@ -381,6 +404,17 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251114050523650800",
           "source": "金十数据",
@@ -409,7 +443,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -423,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
@@ -494,7 +539,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "EIA数据显示汽油库存降幅小于预期，美国汽油期货涨幅收窄。数据显示取暖油库存降幅小于预期，美国取暖油期货扩大跌幅。",
@@ -601,6 +646,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "早盘开盘，国内期货主力合约涨多跌少。液化石油气（LPG）涨近2%，PTA、乙二醇（EG）、PX、苯乙烯（EB）、烧碱、瓶片、塑料、豆一涨超1%；跌幅方面，集运欧线跌超1%，碳酸锂、沥青、沪锡、燃油、沪镍、低硫燃料油（LU）跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251114090002772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "美国至11月7日当周EIA汽油产量 10.2万桶/日，前值24.1万桶/日。",
           "url": "https://flash.jin10.com/detail/20251114010004515800",
           "source": "金十数据",
@@ -659,7 +715,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -670,8 +726,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时27分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -684,8 +740,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时27分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
+          "url": "https://flash.jin10.com/detail/20251114091237375800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
@@ -694,7 +761,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -705,7 +772,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -724,8 +791,19 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
+          "url": "https://wallstreetcn.com/articles/3759298",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
         {
           "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
           "url": "https://wallstreetcn.com/livenews/3004408",
