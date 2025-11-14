@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:22:33.582488+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-11-14T19:17:46.493397+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时23分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 19时17分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 19时17分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 19时17分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -106,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -898,7 +898,7 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -908,8 +908,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 19时17分]"
         },
         {
           "title": "比特币现货ETF单日资金流出近8.7亿美元，创历史第二高",
@@ -945,6 +945,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时30分]"
+        },
+        {
+          "title": "随着比特币价格跌至六个月以来新低，美股数字货币概念股盘前走低。Riot Platforms跌2.4%，Hut 8 Mining跌3.7%，Mara Holdings跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20251114183904894800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "比特币短线走低2000美元，跌破97000美元/枚，刷新5月8日以来新低，日内跌2.72%。",
@@ -983,7 +994,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -1012,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时24分 ~ 14时30分]"
+        },
+        {
+          "title": "OpenAI战略布局解读",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
@@ -1115,7 +1137,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
