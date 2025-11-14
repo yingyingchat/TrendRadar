@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T14:30:54.752076+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-11-14T15:19:40.107314+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时27分 ~ 14时30分]"
+        },
+        {
+          "title": "英国文化大臣南迪：BBC已经正确地接受了在特朗普纪录片中，它的表现未达最高标准。BBC是英国乃至全球一个极其重要的机构。BBC向美国总统特朗普道歉是正确的。",
+          "url": "https://flash.jin10.com/detail/20251114151513055800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "韩国方面表示，特朗普为事实清单做出了理性的决定。",
@@ -41,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 15时19分]"
         },
         {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
@@ -76,17 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时23分]"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 14时30分]"
         },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
@@ -299,7 +310,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -621,7 +632,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "EIA数据显示汽油库存降幅小于预期，美国汽油期货涨幅收窄。数据显示取暖油库存降幅小于预期，美国取暖油期货扩大跌幅。",
@@ -715,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。苹果、豆一涨超2%，苯乙烯（EB）、瓶片、PTA、液化石油气（LPG）、原木、乙二醇（EG）涨超1%；跌幅方面，甲醇跌超2%，玻璃、沪锡、焦煤、碳酸锂、工业硅、沪镍、集运欧线跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114150046623800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
@@ -829,8 +851,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 15时19分]"
         },
         {
           "title": "比特币现货ETF单日资金流出近8.7亿美元，创历史第二高",
@@ -839,7 +861,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -1002,7 +1024,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -1025,7 +1047,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         }
@@ -1056,6 +1078,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月14日（周五）上海金午盘价为951.06元/克，较国际金价(952.99元/克)，低1.93元/克",
+          "url": "https://flash.jin10.com/detail/20251114150805305800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
