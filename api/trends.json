@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-14T15:19:40.107314+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-11-14T16:27:06.467029+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 16时27分]"
+        },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
           "url": "https://www.cls.cn/detail/2200266",
@@ -27,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -52,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 15时19分]"
         },
         {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时19分 ~ 11时14分]"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "特朗普送叙利亚领导人香水还问有几个妻子，美网民：缺乏外交礼仪",
@@ -304,6 +315,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3004701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "外媒：受特朗普关税影响 加拿大将改变木材出口路线",
           "url": "https://flash.jin10.com/detail/20251114133112275800",
           "source": "金十数据",
@@ -412,6 +434,226 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "EIA数据显示汽油库存降幅小于预期，美国汽油期货涨幅收窄。数据显示取暖油库存降幅小于预期，美国取暖油期货扩大跌幅。",
+          "url": "https://flash.jin10.com/detail/20251114011346083800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "巴西国家石油公司正在考虑将其未来五年计划的资本支出削减至1060亿美元。",
+          "url": "https://flash.jin10.com/detail/20251114010855166800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美国私募Carlyle为买入俄罗斯石油公司Lukoil海外资产而探索若干选项。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3004324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时23分]"
+        },
+        {
+          "title": "美国11月7日当周EIA汽油库存变动 -94.5万桶，预期 -245.9万桶，前值 -472.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3004305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时29分]"
+        },
+        {
+          "title": "WTI 12月原油期货收涨0.20美元，涨幅0.34%，报58.69美元/桶。 布伦特1月原油期货收涨0.30美元，涨幅0.48%，报63.01美元/桶。 中东Abu Dhabi Murban原油期货涨0.76%，报65.07美元/桶。 NYMEX 12月天然气期货收报4.6460美元/百万英热单位。 NYMEX 12月汽油期货收报1.9597美元/加仑，NYMEX 12月取暖油期货收报2.4646美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3004353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时19分]"
+        },
+        {
+          "title": "巴西石油公司Petrobras计划2026-30年实施1060亿美元开支。",
+          "url": "https://wallstreetcn.com/livenews/3004315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时16分]"
+        },
+        {
+          "title": "市场消息：美国撤销了2024年关于阿拉斯加国家石油储备的规定。",
+          "url": "https://flash.jin10.com/detail/20251114050638457800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "EIA报告：上周美国东海岸汽油库存降至2022年11月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251114010627303800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。苹果、豆一涨超2%，苯乙烯（EB）、瓶片、PTA、液化石油气（LPG）、原木、乙二醇（EG）涨超1%；跌幅方面，甲醇跌超2%，玻璃、沪锡、焦煤、碳酸锂、工业硅、沪镍、集运欧线跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114150046623800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114113058283800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "美国至11月7日当周EIA战略石油储备库存 79.8万桶，前值49.8万桶。",
+          "url": "https://flash.jin10.com/detail/20251114010013170800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少。液化石油气（LPG）涨近2%，PTA、乙二醇（EG）、PX、苯乙烯（EB）、烧碱、瓶片、塑料、豆一涨超1%；跌幅方面，集运欧线跌超1%，碳酸锂、沥青、沪锡、燃油、沪镍、低硫燃料油（LU）跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251114090002772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "美国至11月7日当周EIA汽油产量 10.2万桶/日，前值24.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251114010004515800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美国至11月7日当周EIA新配方汽油库存 -0.3万桶，前值-0.2万桶。",
+          "url": "https://flash.jin10.com/detail/20251114010003720800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "印度石油部长：印度对原油和液化石油气的需求正在迅速增长；预计到2034年，印度石油天然气公司（ONGC）将需要100艘海上船舶。",
+          "url": "https://flash.jin10.com/detail/20251114122959195800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "两名消息人士：俄罗斯Novorossiysk黑海港口在遭遇无人机袭击后已暂停石油出口。",
+          "url": "https://flash.jin10.com/detail/20251114155718051800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美国至11月7日当周EIA汽油库存 -94.5万桶，预期-188.8万桶，前值-472.9万桶。",
+          "url": "https://flash.jin10.com/detail/20251114010003605800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "消息人士透露，凯雷集团正考虑收购俄罗斯卢克石油的海外资产。",
+          "url": "https://flash.jin10.com/detail/20251114015523318800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国至11月7日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251114005000001800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     },
@@ -631,215 +873,6 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "EIA数据显示汽油库存降幅小于预期，美国汽油期货涨幅收窄。数据显示取暖油库存降幅小于预期，美国取暖油期货扩大跌幅。",
-          "url": "https://flash.jin10.com/detail/20251114011346083800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "巴西国家石油公司正在考虑将其未来五年计划的资本支出削减至1060亿美元。",
-          "url": "https://flash.jin10.com/detail/20251114010855166800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国私募Carlyle为买入俄罗斯石油公司Lukoil海外资产而探索若干选项。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3004324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 04时23分]"
-        },
-        {
-          "title": "美国11月7日当周EIA汽油库存变动 -94.5万桶，预期 -245.9万桶，前值 -472.9万桶。",
-          "url": "https://wallstreetcn.com/livenews/3004305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时29分]"
-        },
-        {
-          "title": "WTI 12月原油期货收涨0.20美元，涨幅0.34%，报58.69美元/桶。 布伦特1月原油期货收涨0.30美元，涨幅0.48%，报63.01美元/桶。 中东Abu Dhabi Murban原油期货涨0.76%，报65.07美元/桶。 NYMEX 12月天然气期货收报4.6460美元/百万英热单位。 NYMEX 12月汽油期货收报1.9597美元/加仑，NYMEX 12月取暖油期货收报2.4646美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3004353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时19分]"
-        },
-        {
-          "title": "巴西石油公司Petrobras计划2026-30年实施1060亿美元开支。",
-          "url": "https://wallstreetcn.com/livenews/3004315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时16分]"
-        },
-        {
-          "title": "市场消息：美国撤销了2024年关于阿拉斯加国家石油储备的规定。",
-          "url": "https://flash.jin10.com/detail/20251114050638457800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "EIA报告：上周美国东海岸汽油库存降至2022年11月以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20251114010627303800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一。苹果、豆一涨超2%，苯乙烯（EB）、瓶片、PTA、液化石油气（LPG）、原木、乙二醇（EG）涨超1%；跌幅方面，甲醇跌超2%，玻璃、沪锡、焦煤、碳酸锂、工业硅、沪镍、集运欧线跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251114150046623800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251114113058283800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "美国至11月7日当周EIA战略石油储备库存 79.8万桶，前值49.8万桶。",
-          "url": "https://flash.jin10.com/detail/20251114010013170800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约涨多跌少。液化石油气（LPG）涨近2%，PTA、乙二醇（EG）、PX、苯乙烯（EB）、烧碱、瓶片、塑料、豆一涨超1%；跌幅方面，集运欧线跌超1%，碳酸锂、沥青、沪锡、燃油、沪镍、低硫燃料油（LU）跌近1%。",
-          "url": "https://flash.jin10.com/detail/20251114090002772800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "美国至11月7日当周EIA汽油产量 10.2万桶/日，前值24.1万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251114010004515800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国至11月7日当周EIA新配方汽油库存 -0.3万桶，前值-0.2万桶。",
-          "url": "https://flash.jin10.com/detail/20251114010003720800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "印度石油部长：印度对原油和液化石油气的需求正在迅速增长；预计到2034年，印度石油天然气公司（ONGC）将需要100艘海上船舶。",
-          "url": "https://flash.jin10.com/detail/20251114122959195800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国至11月7日当周EIA汽油库存 -94.5万桶，预期-188.8万桶，前值-472.9万桶。",
-          "url": "https://flash.jin10.com/detail/20251114010003605800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "消息人士透露，凯雷集团正考虑收购俄罗斯卢克石油的海外资产。",
-          "url": "https://flash.jin10.com/detail/20251114015523318800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "美国至11月7日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251114005000001800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "币圈 比特币",
       "match_count": 7,
       "titles": [
@@ -851,8 +884,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 16时27分]"
         },
         {
           "title": "比特币现货ETF单日资金流出近8.7亿美元，创历史第二高",
@@ -1092,7 +1125,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
