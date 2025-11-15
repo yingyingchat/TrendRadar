@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T20:35:52.779026+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-11-15T21:24:43.077083+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -19,16 +19,16 @@
           "time_info": "[00时26分 ~ 16时22分]"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            4
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 21时24分]"
         },
         {
           "title": "特朗普称对委内瑞拉“差不多下定决心”",
@@ -47,16 +47,17 @@
           "time_info": "[15时17分 ~ 20时35分]"
         },
         {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
-          "source": "凤凰网",
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8
+            1,
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
         },
         {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
@@ -148,6 +149,34 @@
           "time_info": "[16时22分 ~ 19时15分]"
         },
         {
+          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
+          "url": "https://flash.jin10.com/detail/20251115180815888800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时24分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
+          "url": "https://flash.jin10.com/detail/20251115180113833800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时24分]"
+        },
+        {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
           "url": "https://flash.jin10.com/detail/20251115034601291800",
           "source": "金十数据",
@@ -161,42 +190,30 @@
           "time_info": "[04时22分 ~ 09时24分]"
         },
         {
-          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
-          "url": "https://flash.jin10.com/detail/20251115180815888800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时35分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
-          "url": "https://flash.jin10.com/detail/20251115180113833800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时35分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
           "url": "https://flash.jin10.com/detail/20251115190723061800",
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
+        },
+        {
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
         },
         {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
@@ -221,18 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
-        },
-        {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
         },
         {
           "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
@@ -288,6 +293,19 @@
           "time_info": "[04时22分 ~ 07时18分]"
         },
         {
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
+        },
+        {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
           "url": "https://wallstreetcn.com/livenews/3005113",
           "source": "华尔街见闻-快讯",
@@ -324,18 +342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时18分 ~ 18时19分]"
-        },
-        {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
         },
         {
           "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
@@ -432,6 +438,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "专家谈特朗普重返白宫首次对台军售",
+          "url": "https://www.toutiao.com/trending/7571928334733541430/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时24分]"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -533,17 +551,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "专家谈特朗普重返白宫首次对台军售",
-          "url": "https://www.toutiao.com/trending/7571928334733541430/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
           "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
           "url": "https://wallstreetcn.com/livenews/3004985",
           "source": "华尔街见闻-快讯",
@@ -589,11 +596,12 @@
           "ranks": [
             3,
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时24分]"
         },
         {
           "title": "塞尔维亚能源部长：美国政府希望俄罗斯所有者退出受制裁的塞尔维亚石油公司（NIS）。",
@@ -601,11 +609,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
         },
         {
           "title": "美国11月14日当周石油钻井数 417，前值 414。",
@@ -633,6 +642,19 @@
           "time_info": "[04时22分 ~ 05时18分]"
         },
         {
+          "title": "塞尔维亚官员：受美国制裁的塞尔维亚大型石油天然气公司（NIS）获得为期三个月的暂缓执行期。",
+          "url": "https://flash.jin10.com/detail/20251115181107324800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
+        },
+        {
           "title": "贝克休斯：美国钻井公司连续第二周增加石油和天然气钻井平台。",
           "url": "https://flash.jin10.com/detail/20251115020140563800",
           "source": "金十数据",
@@ -657,16 +679,28 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
-          "title": "塞尔维亚官员：受美国制裁的塞尔维亚大型石油天然气公司（NIS）获得为期三个月的暂缓执行期。",
-          "url": "https://flash.jin10.com/detail/20251115181107324800",
+          "title": "塞尔维亚能源部长：塞尔维亚必须做出艰难的决定，包括接管俄罗斯拥有的石油公司。",
+          "url": "https://flash.jin10.com/detail/20251115192032550800",
           "source": "金十数据",
           "ranks": [
-            12,
-            24
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
+          "time_info": "[20时35分 ~ 21时24分]"
+        },
+        {
+          "title": "塞尔维亚能源部长：塞尔维亚石油公司（NIS）已获得美国为期三个月的批准，以确保其俄罗斯所有者退出。",
+          "url": "https://flash.jin10.com/detail/20251115191325792800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时24分]"
         },
         {
           "title": "美国至11月14日当周石油钻井总数将于十分钟后公布。",
@@ -690,28 +724,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "塞尔维亚能源部长：塞尔维亚必须做出艰难的决定，包括接管俄罗斯拥有的石油公司。",
-          "url": "https://flash.jin10.com/detail/20251115192032550800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "塞尔维亚能源部长：塞尔维亚石油公司（NIS）已获得美国为期三个月的批准，以确保其俄罗斯所有者退出。",
-          "url": "https://flash.jin10.com/detail/20251115191325792800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         },
         {
           "title": "美国允许一些与卢克石油公司有关的交易在俄罗斯境外进行",
@@ -761,7 +773,7 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
@@ -773,8 +785,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时23分 ~ 20时35分]"
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 21时24分]"
         },
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -809,8 +821,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 20时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 21时24分]"
+        },
+        {
+          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
+          "url": "https://wallstreetcn.com/articles/3759445",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 21时24分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -823,20 +850,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 14时27分]"
-        },
-        {
-          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
-          "url": "https://wallstreetcn.com/articles/3759445",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 20时35分]"
         },
         {
           "title": "比特币突破96000美元/枚，日内涨近1.5%。",
@@ -911,6 +924,17 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
+          "title": "黄金、科技股都有人抄底，只有比特币“一蹶不振”",
+          "url": "https://wallstreetcn.com/articles/3759450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "比特币跌势加剧：一天之内近9亿美元撤出相关ETF",
           "url": "https://wallstreetcn.com/livenews/3004936",
           "source": "华尔街见闻-快讯",
@@ -952,8 +976,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时18分 ~ 20时35分]"
+          "appearance_count": 17,
+          "time_info": "[07时18分 ~ 21时24分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -962,11 +986,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时07分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[11时07分 ~ 21时24分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -1096,8 +1121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时07分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[11时07分 ~ 21时24分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -1113,8 +1138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时23分 ~ 20时35分]"
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 21时24分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -1251,11 +1276,12 @@
           "url": "https://wallstreetcn.com/livenews/3005185",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时24分]"
         },
         {
           "title": "伊朗革命卫队：我们根据法院命令查封了“塔拉拉”号油轮，该油轮载有未经授权的货物。",
@@ -1263,11 +1289,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
@@ -1275,11 +1302,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时24分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1288,20 +1316,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时24分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
           "url": "https://flash.jin10.com/detail/20251115192311079800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时24分]"
         }
       ]
     },
@@ -1331,7 +1360,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
