@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T11:07:47.745201+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2025-11-15T12:22:31.841996+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,19 +15,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时22分]"
         },
         {
-          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
-          "url": "https://flash.jin10.com/detail/20251115094016472800",
-          "source": "金十数据",
+          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
+          "url": "https://wallstreetcn.com/livenews/3005141",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时07分"
+          "time_info": "12时22分"
         },
         {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
@@ -48,11 +48,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时22分]"
         },
         {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
@@ -79,6 +80,18 @@
           "time_info": "[05时18分 ~ 06时19分]"
         },
         {
+          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
+          "url": "https://flash.jin10.com/detail/20251115094016472800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时22分]"
+        },
+        {
           "title": "特朗普拟削减部分食品杂货的关税",
           "url": "https://flash.jin10.com/detail/20251115032227823800",
           "source": "金十数据",
@@ -89,6 +102,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
+          "url": "https://wallstreetcn.com/livenews/3005113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时22分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
@@ -102,18 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时22分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://wallstreetcn.com/livenews/3005113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时07分]"
         },
         {
           "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
@@ -200,6 +214,18 @@
           "time_info": "[01时18分 ~ 02时28分]"
         },
         {
+          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
+          "url": "https://wallstreetcn.com/livenews/3005121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时22分]"
+        },
+        {
           "title": "美国能源部官员拟劝阻特朗普恢复爆炸性核试验",
           "url": "https://flash.jin10.com/detail/20251115014832583800",
           "source": "金十数据",
@@ -267,17 +293,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
           "url": "https://flash.jin10.com/detail/20251115004419214800",
           "source": "金十数据",
@@ -333,6 +348,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "特朗普称美国将进行核试验",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%BF%9B%E8%A1%8C%E6%A0%B8%E8%AF%95%E9%AA%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "白宫官员：美国总统特朗普将出席明年的达沃斯论坛。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3004925",
           "source": "华尔街见闻-快讯",
@@ -356,11 +382,12 @@
           "ranks": [
             8,
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时22分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -372,8 +399,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 11时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 12时22分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -394,9 +421,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时22分]"
         },
         {
           "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
@@ -416,7 +443,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -427,7 +454,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -493,7 +520,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         }
@@ -501,7 +528,7 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -536,8 +563,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时22分]"
+        },
+        {
+          "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 12时22分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -549,17 +587,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 11时07分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -593,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "比特币突破96000美元/枚，日内涨近1.5%。",
+          "url": "https://flash.jin10.com/detail/20251115104155086800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "连遭血洗，币圈慌了，上一次“如此恐慌”后比特币特再跌25%",
@@ -645,8 +683,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时22分]"
+        },
+        {
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时22分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -658,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
         },
         {
           "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
@@ -683,6 +722,19 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 12时22分]"
+        },
+        {
           "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
           "url": "https://wallstreetcn.com/livenews/3005032",
           "source": "华尔街见闻-快讯",
@@ -695,16 +747,16 @@
           "time_info": "[05时18分 ~ 06时19分]"
         },
         {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
+          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
+          "url": "https://flash.jin10.com/detail/20251115093238774800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            8
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 11时07分]"
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时22分]"
         },
         {
           "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
@@ -752,17 +804,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
-          "url": "https://flash.jin10.com/detail/20251115093238774800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
         }
       ]
     },
@@ -897,11 +938,12 @@
           "url": "https://wallstreetcn.com/livenews/3005134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时22分]"
         },
         {
           "title": "金价",
