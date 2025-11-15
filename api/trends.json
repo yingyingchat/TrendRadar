@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T15:17:15.746735+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-11-15T16:22:53.864192+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 16时22分]"
         },
         {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
@@ -34,6 +34,21 @@
           "time_info": "[09时24分 ~ 14时27分]"
         },
         {
+          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
+          "url": "https://wallstreetcn.com/livenews/3005141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            13,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 16时22分]"
+        },
+        {
           "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
           "url": "https://flash.jin10.com/detail/20251115094016472800",
           "source": "金十数据",
@@ -49,29 +64,15 @@
           "time_info": "[11时07分 ~ 15时17分]"
         },
         {
-          "title": "特朗普称对委内瑞拉“差不多下定决心”",
-          "url": "https://wallstreetcn.com/livenews/3005157",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称对委内瑞拉差不多下定决心",
+          "url": "https://flash.jin10.com/detail/20251115151858037800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时17分]"
+          "time_info": "16时22分"
         },
         {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
@@ -87,6 +88,32 @@
           "time_info": "[04时22分 ~ 09时24分]"
         },
         {
+          "title": "特朗普称将向BBC索赔10亿到50亿美元",
+          "url": "https://flash.jin10.com/detail/20251115132619706800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
+          "url": "https://wallstreetcn.com/livenews/3005151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时22分]"
+        },
+        {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
           "url": "https://wallstreetcn.com/livenews/3005021",
           "source": "华尔街见闻-快讯",
@@ -99,30 +126,6 @@
           "time_info": "[04时22分 ~ 05时18分]"
         },
         {
-          "title": "特朗普称将向BBC索赔10亿到50亿美元",
-          "url": "https://flash.jin10.com/detail/20251115132619706800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
-          "url": "https://wallstreetcn.com/livenews/3005151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时17分]"
-        },
-        {
           "title": "特朗普政府下调美国大豆出口前景预测",
           "url": "https://wallstreetcn.com/livenews/3005036",
           "source": "华尔街见闻-快讯",
@@ -133,6 +136,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普称对委内瑞拉“差不多下定决心”",
+          "url": "https://wallstreetcn.com/livenews/3005157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时22分]"
         },
         {
           "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
@@ -185,6 +200,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
+          "url": "https://flash.jin10.com/detail/20251115141405832800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时22分]"
         },
         {
           "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
@@ -283,15 +310,15 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
-          "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
-          "url": "https://flash.jin10.com/detail/20251115141405832800",
-          "source": "金十数据",
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "16时22分"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -393,6 +420,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "特朗普抵制G20峰会 南非总统硬刚",
+          "url": "https://www.toutiao.com/trending/7572836123530739748/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
           "url": "https://wallstreetcn.com/livenews/3004985",
           "source": "华尔街见闻-快讯",
@@ -432,6 +470,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 16时22分]"
+        },
+        {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
           "url": "https://wallstreetcn.com/articles/3759298",
           "source": "华尔街见闻",
@@ -441,17 +490,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 15时17分]"
         },
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -475,8 +513,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 16时22分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -489,6 +527,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 14时27分]"
+        },
+        {
+          "title": "比特币突破96000美元/枚，日内涨近1.5%。",
+          "url": "https://flash.jin10.com/detail/20251115104155086800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 16时22分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -524,18 +577,16 @@
           "time_info": "07时18分"
         },
         {
-          "title": "比特币突破96000美元/枚，日内涨近1.5%。",
-          "url": "https://flash.jin10.com/detail/20251115104155086800",
-          "source": "金十数据",
+          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
+          "url": "https://wallstreetcn.com/articles/3759445",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            8,
-            11,
-            17
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时22分]"
         },
         {
           "title": "连遭血洗，币圈慌了，上一次“如此恐慌”后比特币特再跌25%",
@@ -547,17 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "11月，美国散户遭“定点打击”：指数跌幅不大、个股陷入“熊市”、币圈惨遭血洗",
-          "url": "https://wallstreetcn.com/articles/3759445",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -612,8 +652,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 16时22分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -624,8 +664,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时07分 ~ 16时22分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -745,18 +785,21 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
-          "url": "https://wallstreetcn.com/articles/3759409",
-          "source": "华尔街见闻",
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
           "ranks": [
-            9,
+            11,
             8,
             7,
+            5,
+            4,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 16时22分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -767,24 +810,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时07分 ~ 16时22分]"
         },
         {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
+          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
+          "url": "https://wallstreetcn.com/articles/3759409",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            9,
             8,
             7,
-            5,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 16时22分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
