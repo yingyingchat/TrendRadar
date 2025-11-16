@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:19:28.560554+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-11-16T18:18:58.188645+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -168,8 +168,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时18分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时19分]"
+          "time_info": "[17时19分 ~ 18时18分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -181,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "特朗普想发2000美元支票 钱从哪来",
@@ -273,11 +273,12 @@
           "ranks": [
             1,
             4,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 18时18分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -312,11 +313,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时18分]"
         }
       ]
     },
@@ -383,11 +385,12 @@
             5,
             10,
             13,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 18时18分]"
         }
       ]
     },
@@ -463,11 +466,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -480,8 +484,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -513,8 +517,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -532,11 +536,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时18分]"
         }
       ]
     }
