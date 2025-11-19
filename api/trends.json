@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T22:20:13.965210+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2025-11-19T23:21:52.819506+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时11分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[11时11分 ~ 23时21分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -59,8 +59,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时24分 ~ 23时21分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -70,8 +70,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时22分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 23时21分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时17分 ~ 23时21分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -86,17 +98,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时18分 ~ 13时20分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 22时20分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -480,6 +481,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
+          "url": "https://wallstreetcn.com/livenews/3007285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
           "url": "https://flash.jin10.com/detail/20251119020538614800",
           "source": "金十数据",
@@ -799,6 +811,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "特朗普缺席，美国警告南非不要在峰会上发表G20声明",
+          "url": "https://wallstreetcn.com/livenews/3007268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "被质疑为何不直接公开爱泼斯坦档案，特朗普发出威胁：吊销ABC电视台牌照",
           "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
@@ -819,6 +842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
+          "url": "https://wallstreetcn.com/livenews/3007265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -901,7 +935,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -1003,6 +1037,29 @@
           "time_info": "[11时12分 ~ 12时24分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
+        },
+        {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.18%，报292.90点。 纽约证交所ARCA金矿开采商指数收平，报2124.04点，北京时间22:30美股开盘之前跌至2110点下方，随后反弹至接近2140点的水平，之后出现V形反转——00:03曾跌至2093.40点刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3006750",
           "source": "华尔街见闻-快讯",
@@ -1014,15 +1071,26 @@
           "time_info": "06时20分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3007260",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时21分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
+          "url": "https://wallstreetcn.com/livenews/3007277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -1091,6 +1159,17 @@
           "time_info": "12时24分"
         },
         {
+          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251119225522376800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251119050517257800",
           "source": "金十数据",
@@ -1138,7 +1217,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1147,11 +1226,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时25分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时25分 ~ 23时21分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1165,8 +1245,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时11分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[11时11分 ~ 23时21分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -1233,8 +1313,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时30分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[14时30分 ~ 23时21分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1266,11 +1346,12 @@
           "url": "https://www.zhihu.com/question/1974273046480184125",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时21分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -1343,13 +1424,24 @@
           "time_info": "[02时30分 ~ 03时17分]"
         },
         {
+          "title": "谷歌A涨约6%创历史新高，纳指涨超1%，半导体指数涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3007282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "市场消息：OpenText深化与谷歌的合作，加速人工智能创新、数据安全及主权云解决方案的推进。",
           "url": "https://flash.jin10.com/detail/20251119220402180800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1391,8 +1483,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 23时21分]"
         },
         {
           "title": "WTI 12月原油期货收涨0.83美元，涨幅1.39%，报60.74美元/桶。 布伦特1月原油期货收报64.89美元/桶。 中东Abu Dhabi Murban原油期货涨1.06%，报66.46美元/桶。 NYMEX 12月天然气期货收报4.3710美元/百万英热单位。 NYMEX 12月汽油期货收报1.9993美元/加仑，NYMEX 12月取暖油期货收报2.7011美元/加仑。",
@@ -1507,8 +1599,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时25分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时25分 ~ 23时21分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -1752,8 +1844,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时25分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时25分 ~ 23时21分]"
         },
         {
           "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
@@ -1845,6 +1937,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     }
