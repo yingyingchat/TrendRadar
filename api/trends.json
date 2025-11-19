@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:41:44.295888+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-11-19T21:32:34.771591+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 21时32分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -58,8 +58,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 21时32分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -102,13 +102,24 @@
           "time_info": "[16时27分 ~ 20时41分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普怒怼提问记者",
           "url": "https://www.douyin.com/hot/2310914",
           "source": "抖音",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -122,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时41分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -224,6 +224,17 @@
           "time_info": "[02时30分 ~ 03时17分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 21时32分]"
+        },
+        {
           "title": "美国总统特朗普：我对普京感到有点惊讶。",
           "url": "https://flash.jin10.com/detail/20251119020840985800",
           "source": "金十数据",
@@ -234,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 03时17分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 20时41分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -270,6 +270,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
@@ -410,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "特朗普怒怼ABC女记者",
-          "url": "https://www.toutiao.com/trending/7574268540435136563/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -682,7 +683,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -939,6 +940,21 @@
           "time_info": "[06时20分 ~ 14时30分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 21时32分]"
+        },
+        {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
           "url": "https://wallstreetcn.com/livenews/3007175",
           "source": "华尔街见闻-快讯",
@@ -948,20 +964,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时41分]"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
@@ -1124,7 +1126,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1136,8 +1138,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 20时41分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 21时32分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1150,8 +1152,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 21时32分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -1167,11 +1169,12 @@
             19,
             20,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 21时32分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1241,8 +1244,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时30分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[14时30分 ~ 21时32分]"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -1329,7 +1343,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "市场消息：阿根廷政府将取消常规石油的出口税。",
@@ -1347,11 +1361,12 @@
           "url": "https://www.cls.cn/detail/2205124",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
         },
         {
           "title": "WTI 12月原油期货收涨0.83美元，涨幅1.39%，报60.74美元/桶。 布伦特1月原油期货收报64.89美元/桶。 中东Abu Dhabi Murban原油期货涨1.06%，报66.46美元/桶。 NYMEX 12月天然气期货收报4.3710美元/百万英热单位。 NYMEX 12月汽油期货收报1.9993美元/加仑，NYMEX 12月取暖油期货收报2.7011美元/加仑。",
@@ -1363,6 +1378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "中石油股价创十年新高！月涨幅跑赢93%个股，这些“超级大盘”也扛旗拉涨",
+          "url": "https://www.cls.cn/detail/2205165",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国至11月14日当周API汽油库存 154.6万桶，前值-138.5万桶。",
@@ -1415,7 +1441,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1426,7 +1452,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1437,7 +1463,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -1445,7 +1471,7 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -1455,8 +1481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 20时41分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 21时32分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -1499,7 +1525,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1513,6 +1539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "比特币大跌引发连锁反应 贝莱德旗下ETF遭遇创纪录资金赎回",
+          "url": "https://wallstreetcn.com/livenews/3007233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -1571,7 +1608,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1688,19 +1725,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 20时41分]"
-        },
-        {
-          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
-          "url": "https://wallstreetcn.com/livenews/3007227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 21时32分]"
         },
         {
           "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
@@ -1709,9 +1735,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时32分]"
         },
         {
           "title": "OpenAI与Target公司宣布合作伙伴关系。",
@@ -1720,7 +1758,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1731,7 +1769,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
