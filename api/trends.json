@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T14:31:18.285224+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2025-11-24T15:20:41.253243+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 15时20分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -230,9 +231,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
         },
         {
           "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
@@ -241,7 +242,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -296,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -347,6 +348,117 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "印度尼西亚国家石油公司：燃油零售商VIVO已同意从Pertamina购买10万桶汽油。",
+          "url": "https://flash.jin10.com/detail/20251124110413151800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时34分]"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，苯乙烯（EB）跌近3%，低硫燃料油（LU）、液化石油气（LPG）、纯苯跌超2%，合成橡胶跌近2%。涨幅方面，多晶硅涨超1%，玉米、淀粉、花生涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251124090002701800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，碳酸锂、纯苯、低硫燃料油（LU）跌超2%，液化石油气（LPG）、苯乙烯（EB）、SC原油跌近2%。涨幅方面，甲醇涨超3%，玉米、多晶硅、沪锡、乙二醇（EG）涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251124113034138800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一，甲醇涨超3%，玻璃涨近3%，乙二醇（EG）、玉米、棉纱、多晶硅涨超1%。跌幅方面，碳酸锂跌近3%，低硫燃料油（LU）、液化石油气（LPG）、纯苯跌超2%，苯乙烯（EB）、焦煤、棕榈油、尿素跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251124150051597800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            20,
+            16,
+            17,
+            23,
+            21,
+            28,
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 13时21分]"
+        },
+        {
+          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3009336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时21分]"
+        },
+        {
+          "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
+          "url": "https://flash.jin10.com/detail/20251124150257144800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
+          "url": "https://wallstreetcn.com/livenews/3009237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "币圈 比特币",
       "match_count": 3,
       "titles": [
@@ -359,8 +471,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 14时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 15时20分]"
         },
         {
           "title": "反弹难掩颓势，比特币创Terra崩盘后最大月跌幅，“极度恐慌”暗示跌势未止？",
@@ -379,11 +491,12 @@
           "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
         }
       ]
     },
@@ -470,97 +583,8 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "印度尼西亚国家石油公司：燃油零售商VIVO已同意从Pertamina购买10万桶汽油。",
-          "url": "https://flash.jin10.com/detail/20251124110413151800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约跌多涨少，苯乙烯（EB）跌近3%，低硫燃料油（LU）、液化石油气（LPG）、纯苯跌超2%，合成橡胶跌近2%。涨幅方面，多晶硅涨超1%，玉米、淀粉、花生涨近1%。",
-          "url": "https://flash.jin10.com/detail/20251124090002701800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，碳酸锂、纯苯、低硫燃料油（LU）跌超2%，液化石油气（LPG）、苯乙烯（EB）、SC原油跌近2%。涨幅方面，甲醇涨超3%，玉米、多晶硅、沪锡、乙二醇（EG）涨超1%。",
-          "url": "https://flash.jin10.com/detail/20251124113034138800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Gemini3.0炸裂玩法合集",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            20,
-            16,
-            17,
-            23,
-            21,
-            28,
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 13时21分]"
-        },
-        {
-          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3009336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时21分]"
-        },
-        {
-          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
-          "url": "https://wallstreetcn.com/livenews/3009237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
@@ -573,6 +597,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时34分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）上海金午盘价为926.34元/克，较国际金价(926.63元/克)，低0.29元/克",
+          "url": "https://flash.jin10.com/detail/20251124150234455800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     }
