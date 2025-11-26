@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-26T15:20:09.955534+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-11-26T16:28:16.458330+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "特朗普电话后，日本沮丧了三次",
+          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 16时28分]"
+        },
         {
           "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
@@ -16,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时20分 ~ 15时20分]"
+          "appearance_count": 12,
+          "time_info": "[06时20分 ~ 16时28分]"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -70,16 +83,18 @@
           "time_info": "[09时26分 ~ 15时20分]"
         },
         {
-          "title": "特朗普电话后，日本沮丧了三次",
-          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
-          "source": "凤凰网",
+          "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
+          "url": "https://www.cls.cn/detail/2210988",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            4
+            9,
+            6,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 16时28分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -120,19 +135,6 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
-          "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
-          "url": "https://www.cls.cn/detail/2210988",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 15时20分]"
-        },
-        {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
           "url": "https://www.cls.cn/detail/2210885",
           "source": "财联社热门",
@@ -170,6 +172,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时15分 ~ 15时20分]"
+        },
+        {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -243,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。 需要更多努力。 不会接受对乌克兰武装部队的限制。 和平条约需要保障长期安全。",
+          "url": "https://wallstreetcn.com/livenews/3010763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美财长：特朗普明年或来华出席APEC",
@@ -380,6 +415,18 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
+          "title": "美财长：特朗普明年或将两次访华",
+          "url": "https://www.douyin.com/hot/2318105",
+          "source": "抖音",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 16时28分]"
+        },
+        {
           "title": "特朗普主动和高市通话所为何事",
           "url": "https://www.toutiao.com/trending/7576615764908576275/",
           "source": "今日头条",
@@ -402,6 +449,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
@@ -575,6 +633,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部：没有更多信息提供",
+          "url": "https://wallstreetcn.com/livenews/3010730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "特朗普：认为我们正非常接近就乌克兰问题达成协议。",
           "url": "https://flash.jin10.com/detail/20251126012401595800",
           "source": "金十数据",
@@ -608,17 +677,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "美财长：特朗普明年或将两次访华",
-          "url": "https://www.douyin.com/hot/2318105",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "特朗普：想派国民警卫队进驻芝加哥。",
           "url": "https://flash.jin10.com/detail/20251126012021397800",
           "source": "金十数据",
@@ -639,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "斯洛伐克外交部：斯洛伐克支持美国总统特朗普的乌克兰和平计划，并呼吁欧洲伙伴在这一进程中充分合作。",
+          "url": "https://flash.jin10.com/detail/20251126153301745800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
@@ -666,7 +735,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -705,6 +774,18 @@
           "time_info": "[07时18分 ~ 15时20分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 16时28分]"
+        },
+        {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
@@ -717,16 +798,18 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
+          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
+          "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 16时28分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -753,17 +836,17 @@
           "time_info": "[11时15分 ~ 15时20分]"
         },
         {
-          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
-          "url": "https://wallstreetcn.com/articles/3760084",
-          "source": "华尔街见闻",
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
           "ranks": [
+            11,
             10,
-            9,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 16时28分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -803,16 +886,16 @@
           "time_info": "[03时17分 ~ 04时22分]"
         },
         {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时31分 ~ 15时20分]"
+          "time_info": "[13时20分 ~ 16时28分]"
         },
         {
           "title": "英伟达“市值神话”为何被谷歌击穿",
@@ -839,15 +922,15 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
+          "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
+          "url": "https://flash.jin10.com/detail/20251126154853273800",
+          "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "16时28分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -1046,6 +1129,93 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊拉克官员：伊拉克政府已安排向卢克石油西库尔纳-2油田的当地员工支付拖欠的工资，以维持产量。西库尔纳-2油田的石油产量保持稳定，日均约为46万至48万桶。",
+          "url": "https://flash.jin10.com/detail/20251126001100712800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "据知情人士透露，加拿大总理卡尼与石油重镇Alberta省长Danielle Smith准备宣布一项协议，有望推动铺设一条新的、通往加拿大西海岸（毗邻北太平洋的东侧）的石油输送管道。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3010311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3010409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时18分]"
+        },
+        {
+          "title": "俄罗斯石油公司Lukoil联席创始人Fedun将持股返售给公司。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3010342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "阿布扎比国家石油天然气公司：与EMSTEEL签署价值40亿美元、为期20年的天然气供应协议，助力阿联酋工业发展。",
+          "url": "https://flash.jin10.com/detail/20251126114905420800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "里海管道联盟：黑海码头的石油装运已恢复。",
+          "url": "https://flash.jin10.com/detail/20251126155146844800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "美国至11月21日当周API汽油库存 53.9万桶，前值154.6万桶。",
+          "url": "https://flash.jin10.com/detail/20251126053551639800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 6,
       "titles": [
@@ -1122,84 +1292,8 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊拉克官员：伊拉克政府已安排向卢克石油西库尔纳-2油田的当地员工支付拖欠的工资，以维持产量。西库尔纳-2油田的石油产量保持稳定，日均约为46万至48万桶。",
-          "url": "https://flash.jin10.com/detail/20251126001100712800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "据知情人士透露，加拿大总理卡尼与石油重镇Alberta省长Danielle Smith准备宣布一项协议，有望推动铺设一条新的、通往加拿大西海岸（毗邻北太平洋的东侧）的石油输送管道。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3010311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3010409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时18分]"
-        },
-        {
-          "title": "俄罗斯石油公司Lukoil联席创始人Fedun将持股返售给公司。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3010342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "阿布扎比国家石油天然气公司：与EMSTEEL签署价值40亿美元、为期20年的天然气供应协议，助力阿联酋工业发展。",
-          "url": "https://flash.jin10.com/detail/20251126114905420800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美国至11月21日当周API汽油库存 53.9万桶，前值154.6万桶。",
-          "url": "https://flash.jin10.com/detail/20251126053551639800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -1246,12 +1340,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年11月26日（周三）上海金早盘价为943.33元/克，较国际金价(947.78元/克)，低4.45元/克",
@@ -1263,6 +1368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）上海金午盘价为942.19元/克，较国际金价(946.47元/克)，低4.28元/克",
+          "url": "https://flash.jin10.com/detail/20251126155055720800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "金价攀升至近两周高点，因美国降息押注增加",
@@ -1301,8 +1417,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 16时28分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
