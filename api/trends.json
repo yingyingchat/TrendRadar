@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T21:35:14.714118+08:00",
-  "total_titles_processed": 1924,
+  "generated_at": "2025-11-26T22:21:40.582062+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时27分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 22时21分]"
         },
         {
           "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
@@ -323,6 +323,32 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时21分]"
+        },
+        {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
           "url": "https://wallstreetcn.com/livenews/3010336",
           "source": "华尔街见闻-快讯",
@@ -449,18 +475,6 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 21时35分]"
-        },
-        {
           "title": "美财长：特朗普明年或将两次访华",
           "url": "https://www.douyin.com/hot/2318105",
           "source": "抖音",
@@ -472,18 +486,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 21时35分]"
         },
         {
           "title": "特朗普作出让步",
@@ -886,8 +888,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时26分 ~ 21时35分]"
+          "appearance_count": 20,
+          "time_info": "[09时26分 ~ 22时21分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -918,6 +920,19 @@
           "time_info": "[14时31分 ~ 20时42分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 22时21分]"
+        },
+        {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
@@ -942,19 +957,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时15分 ~ 16时28分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时23分 ~ 21时35分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -996,6 +998,17 @@
           "time_info": "[11时15分 ~ 15时20分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时21分]"
+        },
+        {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
           "url": "https://wallstreetcn.com/livenews/3010363",
           "source": "华尔街见闻-快讯",
@@ -1033,17 +1046,6 @@
           "time_info": "[03时17分 ~ 04时22分]"
         },
         {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 21时35分]"
-        },
-        {
           "title": "英伟达“市值神话”为何被谷歌击穿",
           "url": "https://www.toutiao.com/trending/7576840187636878902/",
           "source": "今日头条",
@@ -1066,6 +1068,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3010908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
         },
         {
           "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
@@ -1100,17 +1114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
-        },
-        {
-          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3010908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
@@ -1149,7 +1152,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -1222,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
@@ -1331,6 +1345,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
           "url": "https://flash.jin10.com/detail/20251126050102870800",
           "source": "金十数据",
@@ -1367,7 +1392,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊拉克官员：伊拉克政府已安排向卢克石油西库尔纳-2油田的当地员工支付拖欠的工资，以维持产量。西库尔纳-2油田的石油产量保持稳定，日均约为46万至48万桶。",
@@ -1418,6 +1443,18 @@
           "time_info": "[02时31分 ~ 03时17分]"
         },
         {
+          "title": "夜盘期货开盘，焦炭、玻璃、沪银、焦煤涨逾1%，沪铝、液化石油气、国际铜等上涨；沥青、沪镍、塑料等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3010898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
+        },
+        {
           "title": "阿布扎比国家石油天然气公司：与EMSTEEL签署价值40亿美元、为期20年的天然气供应协议，助力阿联酋工业发展。",
           "url": "https://flash.jin10.com/detail/20251126114905420800",
           "source": "金十数据",
@@ -1427,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "英国政府：新的石油和天然气价格机制将取代能源利润税，该税预计将于2030年4月或更早结束。",
+          "url": "https://flash.jin10.com/detail/20251126220129671800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "里海管道联盟：黑海码头的石油装运已恢复。",
@@ -1449,17 +1497,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "夜盘期货开盘，焦炭、玻璃、沪银、焦煤涨逾1%，沪铝、液化石油气、国际铜等上涨；沥青、沪镍、塑料等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3010898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "沙特阿美据悉选定花旗负责其石油仓储终端股权出售事宜。（彭博）",
@@ -1488,8 +1525,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时22分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 22时21分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -1509,11 +1546,12 @@
           "url": "https://wallstreetcn.com/articles/3760166",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
@@ -1701,8 +1739,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时26分 ~ 21时35分]"
+          "appearance_count": 20,
+          "time_info": "[09时26分 ~ 22时21分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
