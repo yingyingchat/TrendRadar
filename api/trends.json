@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:20:20.578629+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-11-28T05:18:26.065144+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -19,39 +19,42 @@
           "time_info": "01时16分"
         },
         {
-          "title": "英国将对卢克石油公司的制裁推迟到明年2月",
-          "url": "https://flash.jin10.com/detail/20251128032318320800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "阿根廷与内乌肯省、圣克鲁斯省达成协议，将下调常规石油出口税。",
-          "url": "https://flash.jin10.com/detail/20251128031923379800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
           "title": "加拿大和艾伯塔省签署协议 将开放输向亚洲的石油管道并建立碳捕集战略",
           "url": "https://flash.jin10.com/detail/20251128014606047800",
           "source": "金十数据",
           "ranks": [
             4,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 05时18分]"
+        },
+        {
+          "title": "英国将对卢克石油公司的制裁推迟到明年2月",
+          "url": "https://flash.jin10.com/detail/20251128032318320800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时18分]"
+        },
+        {
+          "title": "阿根廷与内乌肯省、圣克鲁斯省达成协议，将下调常规石油出口税。",
+          "url": "https://flash.jin10.com/detail/20251128031923379800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时18分]"
         },
         {
           "title": "最终计划显示：安哥拉将1月石油出口规模压缩至96.6万桶/日。",
@@ -152,8 +155,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -164,8 +167,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -176,8 +179,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -185,11 +188,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
         },
         {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
@@ -227,11 +231,12 @@
           "ranks": [
             6,
             16,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 05时18分]"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：有关伊方间接地向美国发出讯息的传闻“完全是谎言”。",
@@ -240,11 +245,12 @@
           "ranks": [
             9,
             18,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 05时18分]"
         },
         {
           "title": "据华尔街日报：消息人士称，伊朗向真主党的资金正经由迪拜流动。",
@@ -252,11 +258,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
         }
       ]
     },
@@ -273,8 +280,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数上涨3.55%，暂报19017.39点，北京时间02:00过后出现一波短线拉升行情，之后持续高位震荡。 目前，比特币涨1.74%，暂报91435美元；以太坊涨0.04%，Solana跌0.9%，狗狗币跌1.39%。",
@@ -303,11 +310,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -317,8 +325,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         }
       ]
     },
@@ -351,8 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         }
       ]
     },
@@ -366,11 +374,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         }
       ]
     }
