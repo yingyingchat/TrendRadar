@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T21:31:24.312432+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2025-11-28T22:20:46.048424+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
@@ -33,8 +33,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时24分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时24分 ~ 22时20分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -371,6 +371,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "美国国土安全部在被问及特朗普认为哪些国家属于“第三世界”时，提到了旅行禁令中列出的19个国家。",
+          "url": "https://flash.jin10.com/detail/20251128212638656800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "深扒特朗普关税操盘手卢特尼克",
           "url": "https://www.toutiao.com/trending/7576615723494260762/",
           "source": "今日头条",
@@ -639,8 +650,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时18分 ~ 21时31分]"
+          "appearance_count": 19,
+          "time_info": "[07时18分 ~ 22时20分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -664,11 +675,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时19分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[15时19分 ~ 22时20分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -886,7 +898,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -898,8 +910,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时24分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时24分 ~ 22时20分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3012282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
@@ -1008,6 +1031,47 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20251128052349567800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "周四（11月27日）纽约尾盘，ICE美元指数跌0.04%，报99.558点，日内交投区间为99.709-99.406点，北京时间14:00-17:26出现一波持续上涨的行情。 彭博美元指数跌0.04%，报1219.40点，日内交投区间为1220.71-1217.89点。",
+          "url": "https://wallstreetcn.com/livenews/3011666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "芝商所旗下Globex开盘时，美元指数变化不大。",
+          "url": "https://flash.jin10.com/detail/20251128213332711800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "币圈 比特币",
       "match_count": 2,
       "titles": [
@@ -1069,32 +1133,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20251128052349567800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "周四（11月27日）纽约尾盘，ICE美元指数跌0.04%，报99.558点，日内交投区间为99.709-99.406点，北京时间14:00-17:26出现一波持续上涨的行情。 彭博美元指数跌0.04%，报1219.40点，日内交投区间为1220.71-1217.89点。",
-          "url": "https://wallstreetcn.com/livenews/3011666",
+          "title": "标普500指数期货、纳斯达克100指数期货、WTI原油、美债恢复交易",
+          "url": "https://wallstreetcn.com/livenews/3012277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            22
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     }
