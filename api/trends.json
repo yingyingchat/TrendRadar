@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T19:18:04.510934+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2025-11-28T20:40:00.248985+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时31分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 20时40分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -33,8 +33,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时24分 ~ 20时40分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -385,7 +385,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "加拿大将在石油重镇Alberta省暂停清洁电力监管。",
@@ -556,6 +556,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "哥伦比亚国家石油公司声明称，该公司在2026年将投资22万亿至27万亿比索。",
+          "url": "https://flash.jin10.com/detail/20251128195547842800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "据巴西《圣保罗页报》：巴西国家石油公司批准了2026至2030年期间的1090亿美元商业计划。",
           "url": "https://flash.jin10.com/detail/20251128083045108800",
           "source": "金十数据",
@@ -610,11 +621,12 @@
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[07时18分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -623,11 +635,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[07时18分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -669,8 +682,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -693,6 +706,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时21分]"
+        },
+        {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
+          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
+          "url": "https://flash.jin10.com/detail/20251128180023594800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
+          "url": "https://wallstreetcn.com/articles/3760220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
+          "url": "https://www.cls.cn/detail/2213392",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "印度阿达尼集团首席财务官：阿达尼集团将投资50亿美元于谷歌数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128200630059800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -785,82 +885,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
-          "url": "https://flash.jin10.com/detail/20251128161818417800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时21分]"
-        },
-        {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时18分]"
-        },
-        {
-          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
-          "url": "https://flash.jin10.com/detail/20251128180023594800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
-          "url": "https://wallstreetcn.com/articles/3760220",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
-          "url": "https://www.cls.cn/detail/2213392",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
@@ -874,8 +898,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时24分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时24分 ~ 20时40分]"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
