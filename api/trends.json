@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T20:37:33.886653+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2025-11-29T21:26:42.490399+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -159,15 +159,26 @@
           "time_info": "[03时16分 ~ 07时18分]"
         },
         {
-          "title": "美国总统特朗普：教育正在被带回美国，我们的军队和南部边境是有史以来最强大的。",
-          "url": "https://flash.jin10.com/detail/20251129202621810800",
+          "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
+          "url": "https://news.ifeng.com/c/8ogHVRMYZ4N",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉发出威胁信号",
+          "url": "https://flash.jin10.com/detail/20251129210108575800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "21时26分"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -184,39 +195,6 @@
           "time_info": "[03时15分 ~ 06时18分]"
         },
         {
-          "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
-          "url": "https://flash.jin10.com/detail/20251129202542922800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
-          "url": "https://flash.jin10.com/detail/20251129202442952800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "特朗普将赦免被判45年洪都拉斯前总统",
-          "url": "https://www.toutiao.com/trending/7577778970550386714/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
           "url": "https://flash.jin10.com/detail/20251129032541398800",
           "source": "金十数据",
@@ -230,15 +208,15 @@
           "time_info": "[04时22分 ~ 09时24分]"
         },
         {
-          "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
-          "url": "https://news.ifeng.com/c/8ogHVRMYZ4N",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：将委内瑞拉上空及周边空域视为禁飞区。",
+          "url": "https://flash.jin10.com/detail/20251129204723280800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "21时26分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-29）",
@@ -247,11 +225,47 @@
           "ranks": [
             2,
             11,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时26分]"
+        },
+        {
+          "title": "美国总统特朗普：教育正在被带回美国，我们的军队和南部边境是有史以来最强大的。",
+          "url": "https://flash.jin10.com/detail/20251129202621810800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
+          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时26分]"
+        },
+        {
+          "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
+          "url": "https://flash.jin10.com/detail/20251129202542922800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时26分]"
         },
         {
           "title": "特朗普：将赦免在美被判45年的洪都拉斯前总统埃尔南德斯",
@@ -265,6 +279,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时19分 ~ 20时37分]"
+        },
+        {
+          "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
+          "url": "https://flash.jin10.com/detail/20251129202442952800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普将赦免被判45年洪都拉斯前总统",
+          "url": "https://www.toutiao.com/trending/7577778970550386714/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时26分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -293,17 +331,6 @@
           "time_info": "[04时21分 ~ 06时18分]"
         },
         {
-          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
-          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时37分]"
-        },
-        {
           "title": "乌克兰代表团将赴美会见特朗普心腹和女婿，讨论和平计划",
           "url": "https://news.ifeng.com/c/8ofXQZzhOkY",
           "source": "凤凰网",
@@ -327,6 +354,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时19分 ~ 15时18分]"
+        },
+        {
+          "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32064050",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时26分]"
         },
         {
           "title": "曝特朗普已与马杜罗通话",
@@ -364,16 +403,15 @@
           "time_info": "[19时15分 ~ 20时37分]"
         },
         {
-          "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32064050",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
+          "url": "https://flash.jin10.com/detail/20251129202718380800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "马斯克特朗普共进感恩节晚餐",
@@ -438,11 +476,12 @@
             11,
             10,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[07时18分 ~ 21时26分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -608,7 +647,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国能源信息署（EIA）：美国9月份原油出口升至每日415.9万桶（8月份为352万桶），汽油出口降至77.2万桶/日（8月份为79万桶/日），精炼油出口降至137万桶/日（8月份为139.5万桶/日），成品油总出口升至每日321万桶（8月份为每日313.5万桶）。",
@@ -623,6 +662,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时28分 ~ 07时18分]"
+        },
+        {
+          "title": "哈萨克斯坦能源部就里海管道联盟（CPC）管道遇袭事件表示：已启动计划，对石油供应进行改道。",
+          "url": "https://flash.jin10.com/detail/20251129205105107800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "WTI 1月原油期货收报58.55美元/桶。 NYMEX 12月汽油期货收报1.8959美元/加仑，NYMEX 12月取暖油期货收报2.3330美元/加仑。",
@@ -650,6 +700,17 @@
           "time_info": "[16时25分 ~ 19时15分]"
         },
         {
+          "title": "普京回应美国“突然”宣布制裁两家俄石油企业：我不理解",
+          "url": "https://news.ifeng.com/c/8ogBM0qXAzG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时26分]"
+        },
+        {
           "title": "市场消息：哥伦比亚国家石油公司（Ecopetrol）拟在哥伦比亚收购七家公司；并就收购哥伦比亚高达88.2兆瓦的太阳能光伏项目组合进行谈判。",
           "url": "https://flash.jin10.com/detail/20251129094035194800",
           "source": "金十数据",
@@ -662,17 +723,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时12分 ~ 14时28分]"
-        },
-        {
-          "title": "普京回应美国“突然”宣布制裁两家俄石油企业：我不理解",
-          "url": "https://news.ifeng.com/c/8ogBM0qXAzG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时37分]"
         },
         {
           "title": "俄罗斯研发出从水中吸附石油产品的新型聚合物",
@@ -790,6 +840,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 21时26分]"
+        },
+        {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
@@ -801,22 +865,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 20时37分]"
-        },
-        {
-          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
-          "url": "https://wallstreetcn.com/articles/3760370",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 20时37分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 21时26分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -824,11 +874,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时37分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时26分]"
         }
       ]
     },
@@ -845,8 +896,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时24分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时24分 ~ 21时26分]"
         },
         {
           "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
@@ -881,8 +932,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 20时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 21时26分]"
         },
         {
           "title": "金价",
@@ -953,9 +1004,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时26分]"
         }
       ]
     },
