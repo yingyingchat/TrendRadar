@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T19:19:14.493001+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2025-12-01T20:42:36.024846+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -19,6 +19,19 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时51分 ~ 20时42分]"
+        },
+        {
           "title": "“特朗普交易”遭重创",
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
@@ -29,19 +42,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时51分 ~ 19时19分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -74,11 +74,12 @@
           "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 20时42分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -330,6 +331,17 @@
           "time_info": "[19时18分 ~ 19时19分]"
         },
         {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.douyin.com/hot/2322761",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
           "url": "https://flash.jin10.com/detail/20251201054410581800",
           "source": "金十数据",
@@ -427,12 +439,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "特朗普推动俄乌停火是为了商业利益吗",
+          "url": "https://www.toutiao.com/trending/7578832492363255338/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
@@ -446,6 +469,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时17分]"
+        },
+        {
+          "title": "俄罗斯外贸银行首席执行官：全球对俄罗斯石油需求旺盛，包括印度在内的客户将想方设法购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251201203049137800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "委内瑞拉向欧佩克抗议美方企图以武力控制其石油",
@@ -529,6 +563,93 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时50分]"
+        },
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            28,
+            22,
+            23,
+            21,
+            26,
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时29分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时24分]"
+        },
+        {
+          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
+          "url": "https://wallstreetcn.com/livenews/3012823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
@@ -537,11 +658,12 @@
           "url": "https://wallstreetcn.com/livenews/3013007",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时42分]"
         },
         {
           "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
@@ -572,7 +694,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -653,84 +775,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时50分]"
-        },
-        {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28,
-            22,
-            23,
-            21,
-            26,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 17时29分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时17分]"
-        },
-        {
-          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
-          "url": "https://www.cls.cn/detail/2215337",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 18时24分]"
-        },
-        {
-          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
-          "url": "https://wallstreetcn.com/livenews/3012823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "币圈 比特币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。",
@@ -754,6 +800,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时33分]"
+        },
+        {
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -786,6 +843,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
+          "url": "https://wallstreetcn.com/livenews/3013014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -805,11 +890,12 @@
           "url": "https://wallstreetcn.com/articles/3760419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 20时42分]"
         }
       ]
     },
@@ -827,23 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时18分]"
         }
       ]
     }
