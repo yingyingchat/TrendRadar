@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T21:35:40.257783+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2025-12-01T22:22:18.499049+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时51分 ~ 21时35分]"
+          "appearance_count": 15,
+          "time_info": "[11时51分 ~ 22时22分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 22时22分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -94,6 +94,30 @@
           "time_info": "[09时51分 ~ 15时23分]"
         },
         {
+          "title": "美国上诉法院维持原判，取消美国总统特朗普盟友阿丽娜·哈巴担任新泽西州代理联邦检察官的资格。",
+          "url": "https://flash.jin10.com/detail/20251201215649190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.douyin.com/hot/2322761",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普：已选定下任美联储主席",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
           "source": "百度热搜",
@@ -103,6 +127,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普将于周一晚就针对委内瑞拉的下一步行动举行会议。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3013095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -175,18 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.douyin.com/hot/2322761",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时35分]"
         },
         {
           "title": "特朗普：已敲定美联储主席人选",
@@ -343,6 +366,28 @@
           "time_info": "[19时18分 ~ 19时19分]"
         },
         {
+          "title": "美媒：特朗普拟召开国安团队会议 商讨对委内瑞拉“下一步行动”",
+          "url": "https://flash.jin10.com/detail/20251201214829785800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将在椭圆形办公室就委内瑞拉问题举行会议。",
+          "url": "https://flash.jin10.com/detail/20251201214102164800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
           "url": "https://flash.jin10.com/detail/20251201054410581800",
           "source": "金十数据",
@@ -407,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普称美乌很可能达成协议",
@@ -507,6 +563,18 @@
           "time_info": "[13时28分 ~ 14时33分]"
         },
         {
+          "title": "夜盘期货开盘，沪银、焦煤、焦炭、低硫燃油涨逾1%，纯碱、国际铜、沪金等上涨；沪锡、液化石油气、菜粕、豆粕等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3013077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全天走势分化，石油板块午后延续涨势",
           "url": "https://flash.jin10.com/detail/20251201150311817800",
           "source": "金十数据",
@@ -529,24 +597,13 @@
           "time_info": "14时33分"
         },
         {
-          "title": "夜盘期货开盘，沪银、焦煤、焦炭、低硫燃油涨逾1%，纯碱、国际铜、沪金等上涨；沪锡、液化石油气、菜粕、豆粕等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3013077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "夜盘开盘，沪银、焦煤、焦炭、低硫燃料油（LU）主力合约涨超1%；跌幅方面，沪锡、丙烯、液化石油气（LPG）、菜粕主力合约跌近1%。",
           "url": "https://flash.jin10.com/detail/20251201210002620800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -579,7 +636,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -590,7 +647,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -609,7 +666,7 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。",
@@ -623,15 +680,27 @@
           "time_info": "12时50分"
         },
         {
+          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2216342",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "Strategy盘前一度跌超6%，公司CEO暗示有可能卖出比特币",
           "url": "https://wallstreetcn.com/livenews/3013092",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时22分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
@@ -646,6 +715,30 @@
           "time_info": "[20时42分 ~ 21时35分]"
         },
         {
+          "title": "Strategy目前持有65万枚比特币。",
+          "url": "https://wallstreetcn.com/livenews/3013083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
+          "title": "比特币一度下跌6.1%，跌破8.5万美元关口。",
+          "url": "https://wallstreetcn.com/livenews/3013071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
           "url": "https://wallstreetcn.com/livenews/3012789",
           "source": "华尔街见闻-快讯",
@@ -658,15 +751,15 @@
           "time_info": "[13时28分 ~ 14时33分]"
         },
         {
-          "title": "Strategy目前持有65万枚比特币。",
-          "url": "https://wallstreetcn.com/livenews/3013083",
-          "source": "华尔街见闻-快讯",
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时22分"
         },
         {
           "title": "比特币一路狂泻至8.6万美元以下！市场刚企稳，抛售情绪再度迸发",
@@ -675,18 +768,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "比特币一度下跌6.1%，跌破8.5万美元关口。",
-          "url": "https://wallstreetcn.com/livenews/3013071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -694,7 +776,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
@@ -737,9 +819,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201214154979800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "新思科技美股盘前股价大涨8%，英伟达向其投资20亿美元。",
@@ -748,7 +841,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -778,7 +871,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -856,11 +949,97 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时22分]"
+        },
+        {
+          "title": "谷歌CEO警告：美国AI监管混乱 恐在全球竞争中落后",
+          "url": "https://www.cls.cn/detail/2215915",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时35分]"
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "开源最强，逼平闭源顶流！DeepSeek发布V3.2系列模型，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
+          "url": "https://wallstreetcn.com/livenews/3013014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -888,30 +1067,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时35分]"
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 22时22分]"
         },
         {
           "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
           "url": "https://flash.jin10.com/detail/20251201212133290800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时22分]"
         },
         {
           "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3013078",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时22分]"
         },
         {
           "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
@@ -920,7 +1101,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -931,7 +1112,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -1001,67 +1182,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "开源最强，逼平闭源顶流！DeepSeek发布V3.2系列模型，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
-          "url": "https://wallstreetcn.com/livenews/3013014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1086,6 +1206,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率升至盘中高位；10年期收益率逼近4.06%。",
+          "url": "https://flash.jin10.com/detail/20251201213622180800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
