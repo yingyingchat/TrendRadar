@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T20:42:47.047235+08:00",
-  "total_titles_processed": 1802,
+  "generated_at": "2025-12-03T21:36:20.090456+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 99,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -32,6 +32,17 @@
           "time_info": "[00时28分 ~ 09时28分]"
         },
         {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
           "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
@@ -41,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时27分 ~ 20时42分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 21时36分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -57,17 +68,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时17分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 20时42分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -89,8 +89,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 20时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 21时36分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -108,33 +136,6 @@
           "time_info": "[07时18分 ~ 14时32分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 20时42分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 20时42分]"
-        },
-        {
           "title": "中方回应特朗普签署涉台法案",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
           "source": "百度热搜",
@@ -142,11 +143,25 @@
             14,
             9,
             1,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时42分]"
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时36分]"
         },
         {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
@@ -158,18 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时42分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -214,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "特朗普政府考虑明年对机器人实施行政令。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3014468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌梅罗夫将在美国与美国总统特朗普的代表会面。",
@@ -447,6 +461,19 @@
           "time_info": "[03时19分 ~ 04时24分]"
         },
         {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普宣布拜登时期文件全部作废",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -482,18 +509,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时42分]"
         },
         {
           "title": "美特使与特朗普女婿漫步莫斯科红场",
@@ -1100,6 +1115,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "据Politico：特朗普政府考虑明年对机器人实施行政令。",
+          "url": "https://flash.jin10.com/detail/20251203210410043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "克里姆林宫：对美国总统特朗普寻求解决问题的政治意愿及他所作的努力表示感谢。",
           "url": "https://flash.jin10.com/detail/20251203173619981800",
           "source": "金十数据",
@@ -1147,7 +1173,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1158,8 +1184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时27分 ~ 20时42分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 21时36分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1256,6 +1282,18 @@
           "time_info": "[06时35分 ~ 07时19分]"
         },
         {
+          "title": "梅西百货第三季度总收入49.1亿美元，预期47.5亿美元。 第三季度净销售额47.1亿美元，预估45.6亿美元。 第三季度经调整后每股收益9美分，市场预期每股亏损14美分。 梅西百货预计全财年经调整后每股收益2-2.2美元，此前预计1.7-2.05美元，市场预估1.99美元。 梅西百货预计全财年净销售额214.8-216.3亿美元，此前预计211.5-214.5亿美元。 梅西百货美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3014443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时36分]"
+        },
+        {
           "title": "周二（12月2日）纽约尾盘，现货黄金跌0.57%，报4208.04美元/盎司，日内持续震荡下跌，北京时间22:30美股开盘之前反弹至4230美元上方——几乎完全收复日内稍早失地，随后又快速下挫，23:58刷新日低至4163.95美元。 COMEX黄金期货跌0.77%，报4241.90美元/盎司，全天处于下跌状态，23:58也刷新日低至4194.00美元。 现货白银涨0.85%，报58.4841美元/盎司，逼近12月1日所创历史最高位58.8434美元。 COMEX白银期货持平，报59.155美元/盎司，也逼近12月1日所创盘中历史最高位59.435美元。 COMEX铜期货跌1.13%，报5.2430美元/磅。 现货铂金跌1.34%，现货钯金涨2.47%。",
           "url": "https://wallstreetcn.com/livenews/3013927",
           "source": "华尔街见闻-快讯",
@@ -1266,6 +1304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时19分]"
+        },
+        {
+          "title": "市场静待美国数据，美股期货上扬，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美股收盘：三大股指收涨 小鹏跌近8%",
@@ -1301,17 +1350,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "梅西百货第三季度总收入49.1亿美元，预期47.5亿美元。 第三季度净销售额47.1亿美元，预估45.6亿美元。 第三季度经调整后每股收益9美分，市场预期每股亏损14美分。 梅西百货预计全财年经调整后每股收益2-2.2美元，此前预计1.7-2.05美元，市场预估1.99美元。 梅西百货预计全财年净销售额214.8-216.3亿美元，此前预计211.5-214.5亿美元。 梅西百货美股盘前涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3014443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251203013047632800",
           "source": "金十数据",
@@ -1343,6 +1381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前上涨1.8%；富国银行首次覆盖并给予“超配评级”。",
+          "url": "https://flash.jin10.com/detail/20251203205505663800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -1403,7 +1452,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1414,7 +1463,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1619,7 +1668,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1630,7 +1679,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         }
@@ -1649,8 +1698,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时27分 ~ 20时42分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 21时36分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -1783,11 +1832,12 @@
           "url": "https://www.zhihu.com/question/1979277813887551142",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时42分]"
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时36分]"
         },
         {
           "title": "比特币一度涨至93000美元上方，创近两周高位。",
@@ -2001,8 +2051,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时29分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时29分 ~ 21时36分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -2022,7 +2072,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         }
@@ -2051,7 +2101,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
