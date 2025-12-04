@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:19:41.294373+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-12-04T12:31:55.891327+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -26,11 +26,12 @@
             16,
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 12时31分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -41,8 +42,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 12时31分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时31分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 04时24分]"
-        },
-        {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时19分]"
         },
         {
           "title": "债券投资者们针对哈塞特出任美联储主席的可能性警告美国财政部。 他们担心，哈塞特将为了取悦美国总统特朗普而降息。 11月份，财长贝森特掌管的财政部曾集中征求意见。（英国金融时报）",
@@ -233,6 +234,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 02时31分]"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时31分]"
         },
         {
           "title": "特朗普提议大幅削减燃油经济性要求",
@@ -437,15 +450,15 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时31分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -454,7 +467,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -525,13 +538,24 @@
           "time_info": "06时21分"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "美国“小非农”爆冷，白银创新高后快速回落！贝森特或将兼任国家经济委员会主任一职，特朗普政府考虑明年加速机器人行业发展......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251204103112695800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -608,7 +632,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -632,6 +656,18 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 12时31分]"
+        },
+        {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2218814",
           "source": "财联社热门",
@@ -644,28 +680,18 @@
           "time_info": "[01时23分 ~ 11时19分]"
         },
         {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时19分]"
-        },
-        {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
           "url": "https://www.cls.cn/detail/2218975",
           "source": "财联社热门",
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时19分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时31分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.35%，报318.01点。 纽约证交所ARCA金矿开采商指数收跌0.47%，报2278.38点，美股开盘之前微幅上涨，随后快速走高至2321.09点——短时呈现出M形走势。",
@@ -857,7 +883,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "EIA报告：美国至11月28日当周美国战略石油储备（SPR）库存增加30万桶至4.117亿桶，增幅0.1%。",
@@ -882,6 +908,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "澳新银行：对俄乌持续相互攻击能源基础设施的担忧，将使布伦特原油价格维持在每桶60美元以上。 随着2026年供应超过需求，将石油市场推向过剩，布伦特原油价格的进一步上涨空间将受到限制。 炼油厂开工率降低，再加上OPEC+产量增加，全球原油库存将会增加，这可能会使2026年上半年的油价保持在每桶65美元以下。 2026年下半年全球经济复苏可能会支撑油价，随后油价将朝着每桶70美元迈进。 预计今年年底油价将稳定在每桶62美元。",
+          "url": "https://wallstreetcn.com/livenews/3014888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "美国施压未阻增长 委内瑞拉11月石油日出口超90万桶",
           "url": "https://flash.jin10.com/detail/20251204035606406800",
           "source": "金十数据",
@@ -904,6 +941,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时31分]"
+        },
+        {
+          "title": "澳新银行：我们预计对俄罗斯石油出口的任何冲击都将是相对短暂的。这应会限制油价的进一步上涨。",
+          "url": "https://flash.jin10.com/detail/20251204120109358800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "美国至11月28日当周EIA汽油产量 19.7万桶/日，前值28.6万桶/日。",
@@ -959,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、石油板块较昨日反弹，酿酒行业领跌",
+          "url": "https://flash.jin10.com/detail/20251204113236691800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -1052,8 +1111,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 11时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 12时31分]"
         },
         {
           "title": "比特币一度升破94000美元，日内涨超2%。",
@@ -1114,11 +1173,12 @@
           "url": "https://www.cls.cn/detail/2219026",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时31分]"
         }
       ]
     },
@@ -1133,7 +1193,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
