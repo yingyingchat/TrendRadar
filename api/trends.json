@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T07:20:12.107017+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2025-12-05T09:28:48.271864+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时28分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时28分]"
         },
         {
           "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
@@ -253,6 +253,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时20分]"
+        },
+        {
+          "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
+          "url": "https://flash.jin10.com/detail/20251205085517265800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "中信证券：特朗普这一轮支持率下滑具有普遍性",
+          "url": "https://flash.jin10.com/detail/20251205080946539800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
@@ -329,6 +351,18 @@
           "time_info": "[02时33分 ~ 04时23分]"
         },
         {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时28分]"
+        },
+        {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251205013016780800",
           "source": "金十数据",
@@ -340,17 +374,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时23分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.40%，报319.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.37%，报2284.55点；北京时间22:30美股开盘之前微跌、持稳于2270点上方，23:08刷新日低至2252.98点，之后快速转涨。",
@@ -437,7 +460,7 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -449,6 +472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "比特币向下跌破91000美元，过去24小时内下跌1.87%。",
@@ -499,11 +533,12 @@
             8,
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时28分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -656,7 +691,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -667,7 +702,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -721,8 +756,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时28分]"
         }
       ]
     }
