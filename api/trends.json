@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T06:19:00.667826+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2025-12-07T07:18:42.183680+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -51,8 +51,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         }
       ]
     },
@@ -66,11 +66,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -80,8 +81,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时15分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[03时15分 ~ 07时18分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -109,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "比特币升破90000美元，日内涨0.83%。",
@@ -120,8 +121,37 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
+          "url": "https://www.cls.cn/detail/2221625",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
+        },
+        {
+          "title": "美股三大指数小幅收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     },
@@ -137,8 +167,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "印度政府：印度11月柴油销量同比增长4.7%，汽油销量同比增长2.6%。",
@@ -148,25 +178,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时18分]"
         }
       ]
     },
@@ -184,8 +197,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         }
       ]
     },
