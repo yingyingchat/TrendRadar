@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T03:15:24.310885+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2025-12-07T04:21:07.587807+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -50,8 +50,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     },
@@ -68,8 +68,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 04时21分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
         }
       ]
     },
@@ -108,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "比特币升破90000美元，日内涨0.83%。",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     },
@@ -136,8 +136,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "印度政府：印度11月柴油销量同比增长4.7%，汽油销量同比增长2.6%。",
@@ -147,8 +147,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     },
@@ -164,8 +164,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     },
@@ -178,11 +178,12 @@
           "url": "https://wallstreetcn.com/articles/3760844",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     },
@@ -199,8 +200,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         }
       ]
     }
