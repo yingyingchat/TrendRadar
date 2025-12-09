@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T09:28:41.511714+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2025-12-09T11:19:10.115864+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -24,11 +24,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 09时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 11时19分]"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
@@ -48,7 +60,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -59,7 +71,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -73,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
+          "url": "https://wallstreetcn.com/livenews/3017324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -209,6 +232,17 @@
           "time_info": "[02时31分 ~ 04时23分]"
         },
         {
+          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1981651554999169255",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
           "url": "https://flash.jin10.com/detail/20251209001747407800",
           "source": "金十数据",
@@ -267,6 +301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时20分]"
+        },
+        {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
           "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
@@ -382,7 +427,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -459,7 +504,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -503,9 +548,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3017264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
@@ -548,8 +604,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时19分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -559,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 11时19分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -712,7 +768,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -755,8 +811,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时19分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -765,9 +821,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时19分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时19分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -827,17 +894,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
         },
         {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
@@ -918,6 +974,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
+          "url": "https://flash.jin10.com/detail/20251209110221893800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "策略师：金价2026年的涨势可能放缓",
+          "url": "https://flash.jin10.com/detail/20251209105812551800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251209104127597800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -928,9 +1023,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时19分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
