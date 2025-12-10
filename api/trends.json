@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T15:23:06.802741+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-12-10T16:29:14.481428+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 15时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 16时29分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -112,6 +112,18 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 16时29分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -125,17 +137,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 15时23分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -159,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
@@ -301,6 +313,17 @@
           "time_info": "[02时26分 ~ 03时16分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
           "title": "特朗普政府：维持大豆库存等预期不变",
           "url": "https://wallstreetcn.com/livenews/3017823",
           "source": "华尔街见闻-快讯",
@@ -370,6 +393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "特朗普谈泰柬冲突：我得打个电话",
+          "url": "https://www.toutiao.com/trending/7582060214204104755/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
@@ -606,7 +640,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "EIA上调今年美国石油产量预测至1361万桶/日",
@@ -680,6 +714,17 @@
           "time_info": "[00时27分 ~ 01时21分]"
         },
         {
+          "title": "IFX：哈萨克斯坦计划将部分原供里海管道的石油向中国出口",
+          "url": "https://wallstreetcn.com/livenews/3018301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "EIA短期能源展望报告：2025年美国二叠纪盆地的石油产量将增加26万桶/日，达到654万桶/日，创历史新高。",
           "url": "https://flash.jin10.com/detail/20251210020136492800",
           "source": "金十数据",
@@ -730,7 +775,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -943,6 +988,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 16时29分]"
+        },
+        {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
@@ -952,17 +1008,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 15时23分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -1070,6 +1115,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 16时29分]"
+        },
+        {
           "title": "比特币公司Twenty One Capital Inc.（XXI）美国上市首日盘初下跌24%，该公司此前“借壳上市”——与特殊目的收购公司（SPAC）Cantor Equity Partners Inc.合并。 比特币目前涨2.3%，以太坊涨3.7%，Solana涨3.1%，狗狗币涨2.1%，XRP涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3017798",
           "source": "华尔街见闻-快讯",
@@ -1080,17 +1137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时21分]"
-        },
-        {
-          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
-          "url": "https://www.zhihu.com/question/1981300590727356751",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
@@ -1132,8 +1178,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 15时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 16时29分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -1182,7 +1228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -1240,7 +1286,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         }
