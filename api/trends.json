@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:29:14.481428+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-12-10T17:25:06.350433+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,18 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -54,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 16时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 17时25分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -112,18 +124,6 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 16时29分]"
-        },
-        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -139,6 +139,18 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 17时25分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
           "url": "https://news.ifeng.com/c/8oxFNJttZN2",
           "source": "凤凰网",
@@ -151,6 +163,18 @@
           "time_info": "[00时27分 ~ 03时16分]"
         },
         {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普：泽连斯基要开始接受现实了",
           "url": "https://www.toutiao.com/trending/7581295755181424686/",
           "source": "今日头条",
@@ -160,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
@@ -311,17 +324,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "特朗普政府：维持大豆库存等预期不变",
@@ -720,7 +722,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -995,8 +997,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时48分 ~ 16时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时48分 ~ 17时25分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1123,8 +1125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "比特币公司Twenty One Capital Inc.（XXI）美国上市首日盘初下跌24%，该公司此前“借壳上市”——与特殊目的收购公司（SPAC）Cantor Equity Partners Inc.合并。 比特币目前涨2.3%，以太坊涨3.7%，Solana涨3.1%，狗狗币涨2.1%，XRP涨1.4%。",
@@ -1219,8 +1221,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "澳新银行：金价小幅回落，市场对美联储后续宽松步伐趋于谨慎",
+          "url": "https://flash.jin10.com/detail/20251210164920560800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
         {
           "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
           "url": "https://flash.jin10.com/detail/20251210150354627800",
