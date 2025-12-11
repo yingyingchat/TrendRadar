@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T11:25:23.316946+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2025-12-11T12:35:14.163707+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -43,6 +43,17 @@
           "time_info": "[09时39分 ~ 09时40分]"
         },
         {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
           "title": "高市早苗求见特朗普",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B1%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -52,6 +63,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 12时35分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -133,18 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 11时25分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -548,8 +560,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 11时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 12时35分]"
+        },
+        {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 12时35分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -562,29 +586,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 07时18分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 11时25分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3018895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -609,6 +610,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.43%，报326.61点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.50%，报2326.70点。",
@@ -647,6 +660,18 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
+          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
+          "url": "https://wallstreetcn.com/livenews/3018880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
+        },
+        {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
           "url": "https://flash.jin10.com/detail/20251211030239633800",
           "source": "金十数据",
@@ -664,18 +689,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
-          "url": "https://wallstreetcn.com/livenews/3018880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -744,6 +758,134 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "中石油经济技术研究院：全球天然气需求将于2040至2045年达到峰值，为5万亿立方米，较2024年展望水平增长11%。",
+          "url": "https://flash.jin10.com/detail/20251211121752106800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "中石油经济技术研究院：在可预见的未来，化工产品、原材料和喷气燃料的需求将持续增长。",
+          "url": "https://flash.jin10.com/detail/20251211121537086800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "中石油经济技术研究院：石油需求峰值预计将出现在2040年，而去年预测为2030年。",
+          "url": "https://flash.jin10.com/detail/20251211121343799800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "中石油经济技术研究院：石油需求峰值将推迟到来，且峰值水平将高于此前预测。",
+          "url": "https://flash.jin10.com/detail/20251211121253371800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "美国12月5日当周EIA汽油库存变动 639.7万桶，预期 204.3万桶，前值 451.8万桶。",
+          "url": "https://wallstreetcn.com/livenews/3018532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时22分]"
+        },
+        {
+          "title": "全球15%石油供应遭制裁",
+          "url": "https://www.toutiao.com/trending/7582409498107579954/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "中石油经济技术研究院：到2035年，化石能源需求将达到127亿吨标准油当量，较2025年增加4亿吨。",
+          "url": "https://flash.jin10.com/detail/20251211121244583800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "美国货币监理署（OCC）：九大银行在向包括石油、天然气和枪械企业在内的某些客户提供金融服务时，存在“不当区别对待”行为。",
+          "url": "https://flash.jin10.com/detail/20251211003723477800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "WTI 1月原油期货收报58.46美元/桶。 布伦特原油期货收报62.21美元/桶。 NYMEX 1月天然气期货收报4.5950美元/百万英热单位。 NYMEX 1月汽油期货收报1.7815美元/加仑，NYMEX 1月取暖油期货收报2.2730美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3018608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国财政部：允许俄罗斯石油公司LukOil某些交易持续至1月17日。",
+          "url": "https://wallstreetcn.com/livenews/3018522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "美国在委内瑞拉海岸扣押一艘油轮 委石油出口或变得更难",
+          "url": "https://flash.jin10.com/detail/20251211025217503800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -865,68 +1007,6 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国12月5日当周EIA汽油库存变动 639.7万桶，预期 204.3万桶，前值 451.8万桶。",
-          "url": "https://wallstreetcn.com/livenews/3018532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时22分]"
-        },
-        {
-          "title": "美国货币监理署（OCC）：九大银行在向包括石油、天然气和枪械企业在内的某些客户提供金融服务时，存在“不当区别对待”行为。",
-          "url": "https://flash.jin10.com/detail/20251211003723477800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "WTI 1月原油期货收报58.46美元/桶。 布伦特原油期货收报62.21美元/桶。 NYMEX 1月天然气期货收报4.5950美元/百万英热单位。 NYMEX 1月汽油期货收报1.7815美元/加仑，NYMEX 1月取暖油期货收报2.2730美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3018608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国财政部：允许俄罗斯石油公司LukOil某些交易持续至1月17日。",
-          "url": "https://wallstreetcn.com/livenews/3018522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国在委内瑞拉海岸扣押一艘油轮 委石油出口或变得更难",
-          "url": "https://flash.jin10.com/detail/20251211025217503800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -947,11 +1027,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
@@ -960,7 +1041,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -1072,17 +1153,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "黎巴嫩外长：暂时无法接受邀请访问伊朗",
-          "url": "https://wallstreetcn.com/livenews/3018897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
           "title": "伊朗驻俄罗斯大使表示，伊朗总统将在土库曼斯坦会见俄罗斯总统普京。",
           "url": "https://flash.jin10.com/detail/20251211020149364800",
           "source": "金十数据",
@@ -1104,6 +1174,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时18分]"
+        },
+        {
+          "title": "黎巴嫩外长：暂时无法接受邀请访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3018897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
         }
       ]
     },
@@ -1130,7 +1212,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
