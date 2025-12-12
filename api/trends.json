@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T18:22:54.855756+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-12-12T19:20:05.778687+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -29,11 +29,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 19时20分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -45,8 +46,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 19时20分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -73,6 +74,30 @@
           "time_info": "[12时33分 ~ 15时23分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 19时20分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 19时20分]"
+        },
+        {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
           "url": "https://flash.jin10.com/detail/20251212062505540800",
           "source": "金十数据",
@@ -95,6 +120,18 @@
           "time_info": "13时21分"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普政府在加州边境建立新的军事化区域",
           "url": "https://flash.jin10.com/detail/20251212061317117800",
           "source": "金十数据",
@@ -105,18 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
@@ -180,18 +205,6 @@
           "time_info": "[04时23分 ~ 05时22分]"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时22分]"
-        },
-        {
           "title": "特朗普政府据悉计划加大企业减税力度",
           "url": "https://flash.jin10.com/detail/20251212035256895800",
           "source": "金十数据",
@@ -236,18 +249,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时39分 ~ 12时33分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时22分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -404,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时23分]"
+        },
+        {
+          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251212184015295800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -652,8 +664,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 19时20分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -896,6 +908,237 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "液化石油气（LPG）主力合约日内大跌4.00%，现报4093.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20251212092151255800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "港交所文件显示：12月12日，中国石油化工股份(00386.HK)回购了67.8万股H股，耗资290万港元。",
+          "url": "https://flash.jin10.com/detail/20251212174335067800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "数据显示：俄罗斯11月份海运石油产品出口量较10月份下降0.8%。",
+          "url": "https://flash.jin10.com/detail/20251212164958846800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "美国在委内瑞拉附近海域扣押运输委石油的油轮，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3019752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时25分]"
+        },
+        {
+          "title": "WTI 1月原油期货收跌0.86美元，跌幅1.47%，报57.60美元/桶。 布伦特2月原油期货收跌0.93美元，跌幅1.49%，报61.28美元/桶。 NYMEX 1月天然气期货收报4.2310美元/百万英热单位。 NYMEX 1月汽油期货收报1.7598美元/加仑，NYMEX 1月取暖油期货收报2.2289美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3019391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时22分]"
+        },
+        {
+          "title": "巴克莱：维持我们对2026年布伦特原油价格60美元区间中段左右的预测。我们的石油供需平衡预期在2026年将略微宽松。",
+          "url": "https://flash.jin10.com/detail/20251212054658247800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "巴克莱：预计布伦特原油2026年均价预计为每桶65美元。预计明年石油供应将过剩190万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251212054533378800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "美国白宫新闻秘书Leavitt在新闻发布会上宣称：将依法对截获的委内瑞拉石油进行处置。 不允许被制裁的油轮航行。",
+          "url": "https://wallstreetcn.com/livenews/3019373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时23分]"
+        },
+        {
+          "title": "中石油研究部：未来五年，工业部门将成为中国天然气需求增长的最大贡献者。",
+          "url": "https://flash.jin10.com/detail/20251212105042822800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "市场消息：委内瑞拉总统马杜罗称，美国扣押的油轮载有190万桶石油。",
+          "url": "https://flash.jin10.com/detail/20251212090844371800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "中石油研究部：中国新增燃气发电装机容量将于2025年达到超过20吉瓦的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251212104542197800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "中石油研究部：2025年1-9月，中国车用LNG消费量同比增长22%，达到2027万吨，主要受物流需求驱动。",
+          "url": "https://flash.jin10.com/detail/20251212104222549800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "中石油经济技术研究院：预计2026年中国天然气消费量同比增长5%。",
+          "url": "https://flash.jin10.com/detail/20251212103955649800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "据路透测算：俄罗斯2025年的石油和天然气收入预计将从2024年的11.13万亿卢布降至8.44万亿卢布，低于其计划的8.65万亿卢布。",
+          "url": "https://flash.jin10.com/detail/20251212182429491800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "阿塞拜疆统计局：1月至11月石油产量达2530万吨。",
+          "url": "https://flash.jin10.com/detail/20251212172708669800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "据路透测算：俄罗斯的石油和天然气收入在12月份预计将几乎减半至52亿美元，创下自2020年8月以来的月度最低水平。",
+          "url": "https://flash.jin10.com/detail/20251212182410133800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "据印度斯坦时报：美国贸易代表格里尔在参议院委员会会议上表示，华盛顿希望对印度购买俄罗斯石油而征收的25%关税能够尽快取消。",
+          "url": "https://flash.jin10.com/detail/20251212135849000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒成分股涨跌不一，半导体、石油、证券全线下跌",
+          "url": "https://flash.jin10.com/detail/20251212113512428800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "马杜罗：委内瑞拉将诉诸法律和外交途径保证石油贸易",
+          "url": "https://wallstreetcn.com/livenews/3019537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "马杜罗：委内瑞拉将诉诸法律和外交途径保证石油贸易",
+          "url": "https://flash.jin10.com/detail/20251212095718787800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
@@ -1106,217 +1349,8 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "液化石油气（LPG）主力合约日内大跌4.00%，现报4093.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20251212092151255800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "港交所文件显示：12月12日，中国石油化工股份(00386.HK)回购了67.8万股H股，耗资290万港元。",
-          "url": "https://flash.jin10.com/detail/20251212174335067800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "数据显示：俄罗斯11月份海运石油产品出口量较10月份下降0.8%。",
-          "url": "https://flash.jin10.com/detail/20251212164958846800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "美国在委内瑞拉附近海域扣押运输委石油的油轮，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3019752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时25分]"
-        },
-        {
-          "title": "WTI 1月原油期货收跌0.86美元，跌幅1.47%，报57.60美元/桶。 布伦特2月原油期货收跌0.93美元，跌幅1.49%，报61.28美元/桶。 NYMEX 1月天然气期货收报4.2310美元/百万英热单位。 NYMEX 1月汽油期货收报1.7598美元/加仑，NYMEX 1月取暖油期货收报2.2289美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3019391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时22分]"
-        },
-        {
-          "title": "巴克莱：维持我们对2026年布伦特原油价格60美元区间中段左右的预测。我们的石油供需平衡预期在2026年将略微宽松。",
-          "url": "https://flash.jin10.com/detail/20251212054658247800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "巴克莱：预计布伦特原油2026年均价预计为每桶65美元。预计明年石油供应将过剩190万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251212054533378800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "美国白宫新闻秘书Leavitt在新闻发布会上宣称：将依法对截获的委内瑞拉石油进行处置。 不允许被制裁的油轮航行。",
-          "url": "https://wallstreetcn.com/livenews/3019373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时23分]"
-        },
-        {
-          "title": "中石油研究部：未来五年，工业部门将成为中国天然气需求增长的最大贡献者。",
-          "url": "https://flash.jin10.com/detail/20251212105042822800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "市场消息：委内瑞拉总统马杜罗称，美国扣押的油轮载有190万桶石油。",
-          "url": "https://flash.jin10.com/detail/20251212090844371800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "中石油研究部：中国新增燃气发电装机容量将于2025年达到超过20吉瓦的历史新高。",
-          "url": "https://flash.jin10.com/detail/20251212104542197800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "中石油研究部：2025年1-9月，中国车用LNG消费量同比增长22%，达到2027万吨，主要受物流需求驱动。",
-          "url": "https://flash.jin10.com/detail/20251212104222549800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "中石油经济技术研究院：预计2026年中国天然气消费量同比增长5%。",
-          "url": "https://flash.jin10.com/detail/20251212103955649800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "阿塞拜疆统计局：1月至11月石油产量达2530万吨。",
-          "url": "https://flash.jin10.com/detail/20251212172708669800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "据印度斯坦时报：美国贸易代表格里尔在参议院委员会会议上表示，华盛顿希望对印度购买俄罗斯石油而征收的25%关税能够尽快取消。",
-          "url": "https://flash.jin10.com/detail/20251212135849000800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "金十图示：2025年12月12日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒成分股涨跌不一，半导体、石油、证券全线下跌",
-          "url": "https://flash.jin10.com/detail/20251212113512428800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "马杜罗：委内瑞拉将诉诸法律和外交途径保证石油贸易",
-          "url": "https://wallstreetcn.com/livenews/3019537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "马杜罗：委内瑞拉将诉诸法律和外交途径保证石油贸易",
-          "url": "https://flash.jin10.com/detail/20251212095718787800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1329,8 +1363,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 19时20分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -1339,7 +1373,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1390,6 +1424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时23分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
@@ -1630,7 +1675,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗外交部谴责美国违背联合国东道国义务",
@@ -1643,6 +1688,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时23分]"
+        },
+        {
+          "title": "俄罗斯与伊朗两国总统举行会谈 讨论伊核问题等议题",
+          "url": "https://wallstreetcn.com/livenews/3019890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "消息人士：美国正准备扣押更多运输委内瑞拉石油的船只，美国的行动将针对可能运输过其他受制裁原油（如伊朗原油）的油轮。",
