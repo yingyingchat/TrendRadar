@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:42:44.106448+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-12-12T21:35:10.936665+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时21分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[13时21分 ~ 21时35分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -52,18 +52,6 @@
           "time_info": "[11时23分 ~ 20时42分]"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时19分]"
-        },
-        {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
           "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
           "source": "凤凰网",
@@ -73,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 21时35分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -85,8 +73,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 21时35分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -667,8 +667,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时33分 ~ 21时35分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -912,7 +912,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "液化石油气（LPG）主力合约日内大跌4.00%，现报4093.00元/吨。",
@@ -1127,6 +1127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：俄罗斯11月原油产量环比增长。 俄罗斯石油公司增加投资，以应对OPEC+增产。",
+          "url": "https://wallstreetcn.com/livenews/3019969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "马杜罗：委内瑞拉将诉诸法律和外交途径保证石油贸易",
@@ -1366,8 +1377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 20时42分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 21时35分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -1390,6 +1401,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时35分]"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -1415,18 +1438,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时25分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时42分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1719,8 +1730,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价延续涨势 德商银行：预计美联储降息幅度将超过市场预期",
+          "url": "https://flash.jin10.com/detail/20251212212056056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
         {
           "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
           "url": "https://flash.jin10.com/detail/20251212102205776800",
