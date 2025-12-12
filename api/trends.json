@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:23:43.061585+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-12T12:33:42.233924+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时19分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -141,6 +152,17 @@
           "time_info": "[03时19分 ~ 04时23分]"
         },
         {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 12时33分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -151,17 +173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 02时30分]"
-        },
-        {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时23分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -248,6 +259,28 @@
           "time_info": "[03时19分 ~ 04时23分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
           "url": "https://flash.jin10.com/detail/20251212054106500800",
           "source": "金十数据",
@@ -329,28 +362,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
           "url": "https://flash.jin10.com/detail/20251212045820378800",
           "source": "金十数据",
@@ -401,7 +412,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -450,6 +461,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "特朗普称美对委行动很快将延伸至陆地",
+          "url": "https://www.toutiao.com/trending/7582515717653315611/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普已了解乌克兰的最新提议。",
           "url": "https://flash.jin10.com/detail/20251212023406084800",
           "source": "金十数据",
@@ -459,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
+          "url": "https://flash.jin10.com/detail/20251212111451238800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "特朗普称赞股市再创新高",
@@ -486,7 +519,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -494,11 +527,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 12时33分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -548,6 +582,18 @@
           "time_info": "[00时30分 ~ 01时25分]"
         },
         {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
           "url": "https://wallstreetcn.com/livenews/3019318",
           "source": "华尔街见闻-快讯",
@@ -566,7 +612,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -588,7 +634,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -615,6 +661,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
           "url": "https://flash.jin10.com/detail/20251212020239589800",
           "source": "金十数据",
@@ -635,17 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -762,8 +808,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时33分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -988,6 +1034,17 @@
           "time_info": "[00时30分 ~ 01时25分]"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3019371",
           "source": "华尔街见闻-快讯",
@@ -1020,17 +1077,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
@@ -1113,7 +1159,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "液化石油气（LPG）主力合约日内大跌4.00%，现报4093.00元/吨。",
@@ -1181,7 +1227,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1203,7 +1249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1214,7 +1260,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1225,9 +1271,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、酿酒成分股涨跌不一，半导体、石油、证券全线下跌",
+          "url": "https://flash.jin10.com/detail/20251212113512428800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "马杜罗：委内瑞拉将诉诸法律和外交途径保证石油贸易",
@@ -1236,7 +1293,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -1247,7 +1304,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -1270,6 +1327,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "中国“台湾央行”称，比特币不适合作为外汇储备。",
+          "url": "https://wallstreetcn.com/livenews/3019574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
           "url": "https://wallstreetcn.com/articles/3761175",
           "source": "华尔街见闻",
@@ -1280,17 +1349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时20分]"
-        },
-        {
-          "title": "中国“台湾央行”称，比特币不适合作为外汇储备。",
-          "url": "https://wallstreetcn.com/livenews/3019574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         }
       ]
     },
@@ -1388,7 +1446,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
