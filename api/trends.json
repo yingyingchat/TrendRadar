@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:25:14.512261+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-12-12T18:22:54.855756+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             3,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 18时22分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -40,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 18时22分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -103,6 +105,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
@@ -166,6 +180,18 @@
           "time_info": "[04时23分 ~ 05时22分]"
         },
         {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普政府据悉计划加大企业减税力度",
           "url": "https://flash.jin10.com/detail/20251212035256895800",
           "source": "金十数据",
@@ -201,18 +227,6 @@
           "time_info": "[11时23分 ~ 14时32分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时25分]"
-        },
-        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
@@ -224,16 +238,16 @@
           "time_info": "[09时39分 ~ 12时33分]"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            9
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时25分]"
+          "time_info": "[17时24分 ~ 18时22分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -342,17 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时23分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
@@ -649,8 +652,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 18时22分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -1104,7 +1107,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "液化石油气（LPG）主力合约日内大跌4.00%，现报4093.00元/吨。",
@@ -1118,13 +1121,24 @@
           "time_info": "09时39分"
         },
         {
+          "title": "港交所文件显示：12月12日，中国石油化工股份(00386.HK)回购了67.8万股H股，耗资290万港元。",
+          "url": "https://flash.jin10.com/detail/20251212174335067800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "数据显示：俄罗斯11月份海运石油产品出口量较10月份下降0.8%。",
           "url": "https://flash.jin10.com/detail/20251212164958846800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1244,6 +1258,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "阿塞拜疆统计局：1月至11月石油产量达2530万吨。",
+          "url": "https://flash.jin10.com/detail/20251212172708669800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "据印度斯坦时报：美国贸易代表格里尔在参议院委员会会议上表示，华盛顿希望对印度购买俄罗斯石油而征收的25%关税能够尽快取消。",
           "url": "https://flash.jin10.com/detail/20251212135849000800",
           "source": "金十数据",
@@ -1291,7 +1316,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1300,11 +1325,23 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 18时22分]"
+        },
+        {
+          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251212174133299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1490,7 +1527,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
