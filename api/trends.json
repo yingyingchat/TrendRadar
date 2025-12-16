@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T14:33:47.374610+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-12-16T15:23:23.428736+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -31,6 +31,18 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
+          "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
+          "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 15时23分]"
+        },
+        {
           "title": "日媒爆特朗普警告高市早苗别添乱",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -46,18 +58,6 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
-          "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
-          "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 14时33分]"
-        },
-        {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
@@ -67,8 +67,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 15时23分]"
+        },
+        {
+          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://news.ifeng.com/c/8p7htngCHQD",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 15时23分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -86,17 +99,32 @@
           "time_info": "[00时31分 ~ 05时20分]"
         },
         {
-          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://news.ifeng.com/c/8p7htngCHQD",
-          "source": "凤凰网",
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
+            15,
+            13,
             12,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时43分 ~ 14时33分]"
+          "time_info": "[11时24分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -108,32 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时33分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -501,6 +503,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "美特使和特朗普女婿疑似没认出德总理",
+          "url": "https://www.toutiao.com/trending/7584270560197099539/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
           "url": "https://flash.jin10.com/detail/20251215234849282800",
           "source": "金十数据",
@@ -575,6 +588,19 @@
           "time_info": "[00时31分 ~ 06时20分]"
         },
         {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时20分 ~ 15时23分]"
+        },
+        {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
@@ -588,19 +614,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 09时43分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时20分 ~ 14时33分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -698,7 +711,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "墨西哥国家石油公司Pemex：正全力控制在塔巴斯科州兰切里亚奇科萨波特地区报告的一处燃油管道泄漏事件。",
@@ -752,7 +765,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -777,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约跌多涨少。钯涨超4%，铂、聚氯乙烯（PVC）涨超2%，多晶硅、液化石油气（LPG）、焦炭、纯碱涨超1%；跌幅方面，沪锡跌超3%，沪镍、低硫燃料油（LU）、沥青、菜油跌超2%，不锈钢（SS）、白糖、沪锌、SC原油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251216150110307800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "巴西石油公司工会：工人罢工已影响到六家炼油厂和16个石油平台。",
@@ -815,7 +839,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
@@ -839,6 +863,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 11时25分]"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）上海金午盘价为966.73元/克，较国际金价(969.85元/克)，低3.12元/克",
+          "url": "https://flash.jin10.com/detail/20251216150904661800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "金价三年大涨近150%，能否更进一步？",
@@ -921,9 +956,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
