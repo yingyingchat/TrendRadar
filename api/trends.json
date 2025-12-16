@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T16:31:18.888113+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-12-16T17:26:35.656801+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时20分]"
+        },
+        {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 17时26分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -58,19 +71,6 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 16时31分]"
-        },
-        {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://news.ifeng.com/c/8p7htngCHQD",
           "source": "凤凰网",
@@ -82,6 +82,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时43分 ~ 15时23分]"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 17时26分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -97,20 +112,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 05时20分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 16时31分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -422,7 +434,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -935,7 +947,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -971,6 +983,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -1051,7 +1074,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -1088,8 +1111,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
         {
           "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
           "url": "https://www.zhihu.com/question/1974950875228308388",
@@ -1100,6 +1134,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：伊朗外长抵达莫斯科。",
+          "url": "https://flash.jin10.com/detail/20251216170133253800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         }
       ]
     },
