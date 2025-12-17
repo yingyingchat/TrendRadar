@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:23:15.629648+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2025-12-17T16:31:09.764802+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -114,6 +114,18 @@
           "time_info": "[00时29分 ~ 07时19分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
           "url": "https://flash.jin10.com/detail/20251217031120622800",
           "source": "金十数据",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 15时23分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -275,6 +276,18 @@
           "time_info": "[05时21分 ~ 06时20分]"
         },
         {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 16时31分]"
+        },
+        {
           "title": "马斯克又要给特朗普花钱了",
           "url": "https://www.toutiao.com/trending/7584667287097986610/",
           "source": "今日头条",
@@ -319,6 +332,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时23分]"
+        },
+        {
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普：12月17日美东时间21:00（18日北京时间10:00）将发表全国讲话。",
@@ -379,17 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
@@ -628,7 +641,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "恒指高开0.03%，报25243.59点；恒生科技指数涨0.09%。翰森制药、紫金矿业、吉利汽车涨超1%，小米涨0.9%；中国海洋石油、恒安国际跌超1%。",
@@ -702,6 +715,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "“女子被前男友泼汽油烧伤”案发回重审，男方获刑12年被检方抗诉",
+          "url": "https://news.ifeng.com/c/8p9tybvJJnS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "美国至12月12日当周API汽油库存 483.5万桶，预期210万桶，前值695.5万桶。",
