@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:21:32.917111+08:00",
-  "total_titles_processed": 2188,
+  "generated_at": "2025-12-19T23:22:34.177178+08:00",
+  "total_titles_processed": 2298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -112,8 +112,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时39分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[09时39分 ~ 23时22分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -144,6 +144,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时24分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -182,18 +197,19 @@
           "time_info": "20时41分"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15,
-            13,
-            11
+            10,
+            25,
+            23,
+            20,
+            28
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "time_info": "[19时19分 ~ 23时22分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -229,18 +245,17 @@
           "time_info": "19时19分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            25,
-            23,
-            20
+            19,
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时19分 ~ 22时21分]"
+          "time_info": "[20时40分 ~ 23时22分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -304,18 +319,6 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时21分]"
-        },
-        {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
           "url": "https://wallstreetcn.com/livenews/3023295",
           "source": "华尔街见闻-快讯",
@@ -327,6 +330,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时22分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -517,17 +531,6 @@
           "time_info": "20时41分"
         },
         {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -600,7 +603,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -858,6 +861,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "特朗普：“奥巴马医改”太贵，会自动消亡",
+          "url": "https://flash.jin10.com/detail/20251219225548281800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
           "url": "https://flash.jin10.com/detail/20251218234017856800",
           "source": "金十数据",
@@ -996,7 +1010,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1018,9 +1032,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
@@ -1081,7 +1106,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1117,8 +1142,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时24分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[11时24分 ~ 23时22分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1132,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时31分 ~ 06时20分]"
+        },
+        {
+          "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
+          "url": "https://wallstreetcn.com/livenews/3024062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1280,7 +1316,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1360,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "美股延续涨势，纳指上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251219224535097800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
@@ -1630,7 +1677,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1704,7 +1751,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
@@ -1763,6 +1810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
+          "url": "https://wallstreetcn.com/articles/3761670",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "10年期美债收益率跌约4个基点，在美国CPI通胀数据出炉时刷新日低，逼近4.1%",
@@ -1899,7 +1957,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -1963,6 +2021,17 @@
           "time_info": "[02时31分 ~ 03时17分]"
         },
         {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
           "url": "https://flash.jin10.com/detail/20251219022756138800",
           "source": "金十数据",
@@ -1986,7 +2055,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -2034,6 +2103,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "币圈 比特币",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为何币圈总在爆仓",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E5%B8%81%E5%9C%88%E6%80%BB%E5%9C%A8%E7%88%86%E4%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
+          "url": "https://wallstreetcn.com/livenews/3023366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
+          "url": "https://wallstreetcn.com/livenews/3023271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时31分]"
+        },
+        {
+          "title": "比特币涨超3%，刷新日高至88467美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3024041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
@@ -2086,48 +2208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "币圈 比特币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为何币圈总在爆仓",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E5%B8%81%E5%9C%88%E6%80%BB%E5%9C%A8%E7%88%86%E4%BB%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时32分]"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
-          "url": "https://wallstreetcn.com/livenews/3023366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
-          "url": "https://wallstreetcn.com/livenews/3023271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时31分]"
         }
       ]
     },
