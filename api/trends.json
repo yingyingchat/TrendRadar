@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T21:33:48.542614+08:00",
-  "total_titles_processed": 2092,
+  "generated_at": "2025-12-19T22:21:32.917111+08:00",
+  "total_titles_processed": 2188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -112,8 +112,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时39分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时39分 ~ 22时21分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -182,6 +182,20 @@
           "time_info": "20时41分"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 22时21分]"
+        },
+        {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
           "url": "https://flash.jin10.com/detail/20251219035207198800",
           "source": "金十数据",
@@ -215,17 +229,18 @@
           "time_info": "19时19分"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15,
-            13
+            10,
+            25,
+            23,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时23分 ~ 21时33分]"
+          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -289,18 +304,16 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            25,
-            23,
-            20
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时19分 ~ 21时33分]"
+          "time_info": "[20时40分 ~ 22时21分]"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -314,18 +327,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时21分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -516,6 +517,17 @@
           "time_info": "20时41分"
         },
         {
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -580,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美国白宫新闻秘书Leavitt：特朗普下午1点的活动将涉及药品和制药行业。",
+          "url": "https://wallstreetcn.com/livenews/3024008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
@@ -918,7 +941,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -967,6 +990,17 @@
           "time_info": "12时34分"
         },
         {
+          "title": "白宫新闻秘书莱维特：总统特朗普将于周五宣布更多“将降低药品和制药产品价格的协议”。",
+          "url": "https://flash.jin10.com/detail/20251219215016593800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国白宫：总统特朗普今日签署了一项行政命令，旨在加强对大麻及大麻二酚医疗用途的认知与提升，通过改进相关医学研究，为患者和医生提供更科学的参考依据。",
           "url": "https://flash.jin10.com/detail/20251219041650596800",
           "source": "金十数据",
@@ -976,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：总统特朗普下午1点的活动将聚焦于药品和制药业。",
+          "url": "https://flash.jin10.com/detail/20251219214948801800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
@@ -1036,7 +1081,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1072,8 +1117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 22时21分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1229,6 +1274,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3024010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
           "url": "https://wallstreetcn.com/livenews/3023371",
           "source": "华尔街见闻-快讯",
@@ -1246,7 +1302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1301,7 +1357,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         }
@@ -1498,7 +1554,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "市场消息：乌克兰据悉隔夜袭击了里海的卢克石油油田。",
@@ -1507,7 +1563,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1568,13 +1624,24 @@
           "time_info": "05时18分"
         },
         {
+          "title": "据路透测算，俄罗斯石油开采税收入将于2026年1月跌至三年低点。",
+          "url": "https://flash.jin10.com/detail/20251219221014763800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "市场消息：美国能源信息署（EIA）将原定于12月24日公布的石油状况报告推迟至12月29日发布。",
           "url": "https://flash.jin10.com/detail/20251219210439145800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1585,7 +1652,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1596,7 +1663,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1909,6 +1976,68 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://wallstreetcn.com/livenews/3024016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
+          "url": "https://flash.jin10.com/detail/20251219170952082800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "中联部部长刘海星会见伊朗驻华大使法兹里",
+          "url": "https://wallstreetcn.com/livenews/3023912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时41分]"
+        },
+        {
+          "title": "美国签发与伊朗相关的通用许可证。",
+          "url": "https://wallstreetcn.com/livenews/3023236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "受美国制裁和通货膨胀影响，伊朗里亚尔跌至历史新低",
+          "url": "https://flash.jin10.com/detail/20251218233831538800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1957,57 +2086,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
-          "url": "https://flash.jin10.com/detail/20251219170952082800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "中联部部长刘海星会见伊朗驻华大使法兹里",
-          "url": "https://wallstreetcn.com/livenews/3023912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时41分]"
-        },
-        {
-          "title": "美国签发与伊朗相关的通用许可证。",
-          "url": "https://wallstreetcn.com/livenews/3023236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "受美国制裁和通货膨胀影响，伊朗里亚尔跌至历史新低",
-          "url": "https://flash.jin10.com/detail/20251218233831538800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
         }
       ]
     },
