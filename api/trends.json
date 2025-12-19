@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T19:19:20.304021+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2025-12-19T20:41:17.257255+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 19时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时39分 ~ 20时41分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 11时24分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 20时41分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -84,21 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 19时19分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时24分 ~ 20时41分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -111,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 19时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时39分 ~ 20时41分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -170,6 +170,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普和美联储理事沃勒讨论了劳动力市场。贝莱德高管Rieder将在海湖庄园接受美联储主席职位面试。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
           "url": "https://flash.jin10.com/detail/20251219035207198800",
           "source": "金十数据",
@@ -198,7 +209,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -264,6 +275,19 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时41分]"
+        },
+        {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
           "url": "https://wallstreetcn.com/livenews/3023295",
           "source": "华尔街见闻-快讯",
@@ -275,6 +299,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时41分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -419,18 +456,6 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时19分]"
-        },
-        {
           "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
           "url": "https://flash.jin10.com/detail/20251219051647002800",
           "source": "金十数据",
@@ -441,6 +466,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "特朗普摊牌了：委内瑞拉夺走石油，美国必须要回来",
@@ -464,6 +500,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "沃勒获特朗普面试 重点讨论就业市场 鲍曼疑似出局",
+          "url": "https://flash.jin10.com/detail/20251219201628845800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
@@ -499,15 +546,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "据CNBC：特朗普和美联储理事沃勒讨论了劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20251219200708179800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "20时41分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -543,13 +590,24 @@
           "time_info": "07时20分"
         },
         {
+          "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
+          "url": "https://flash.jin10.com/detail/20251219200442362800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "普京：特朗普采取措施结束乌克兰战争。 说俄罗斯拒绝任何方案是错误的。 准备好就结束乌克兰战争进行谈判。",
           "url": "https://wallstreetcn.com/livenews/3023908",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -593,7 +651,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -618,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "据CNBC：美联储理事沃勒与美国总统特朗普进行了“一次强有力的美联储主席面试”。",
+          "url": "https://flash.jin10.com/detail/20251219200400455800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "据AXIOS：美国总统特朗普考虑宣布平安夜和12月26日为假日。",
@@ -818,6 +887,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "俄罗斯总统普京：（谈BBC诉讼案）美国总统特朗普是对的。",
+          "url": "https://flash.jin10.com/detail/20251219194958548800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国总统特朗普：（关于美联储面试）昨天见了美联储理事沃勒，他很棒。正在与三四个人交谈。",
           "url": "https://flash.jin10.com/detail/20251219031012439800",
           "source": "金十数据",
@@ -978,8 +1058,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时24分 ~ 20时41分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1489,6 +1569,100 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "俄罗斯总统普京：乌克兰对油轮的袭击不会损害石油供应。",
+          "url": "https://flash.jin10.com/detail/20251219201845235800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "台北现歹徒扔汽油弹并持刀伤人",
+          "url": "https://www.douyin.com/hot/2341552",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3023317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "数十年来阿塞拜疆首次向亚美尼亚出口石油产品",
+          "url": "https://wallstreetcn.com/livenews/3023448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "消息人士：墨西哥国家石油公司勘探与生产部门主管Angel Cid预计将在未来几天辞职。",
+          "url": "https://flash.jin10.com/detail/20251219045207295800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 布伦特2月原油期货收报59.82美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3023317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "巴西石油工人全国联盟（FNP）主席表示，巴西国家石油公司罢工已蔓延至巴西桑托斯盆地盐下层的海上石油平台作业人员。",
+          "url": "https://flash.jin10.com/detail/20251219011549609800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "欧洲央行：预计2026年一季度通胀率将低于2%，2026年三季度至2027年四季度也将那样。 预计2025年石油价格为69.20美元/桶，预计2026年为62.50美元，预计2027-28年分别为62.60美元、64.00美元。 预计2025年（欧元兑美元）汇率为1.13。 预计欧元区2025年薪资增速为4%，2026年料增3.2%，预计2027-28年将先后增长2.9%和3.0%。",
+          "url": "https://wallstreetcn.com/livenews/3023227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -1572,78 +1746,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石油 汽油",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3023317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "数十年来阿塞拜疆首次向亚美尼亚出口石油产品",
-          "url": "https://wallstreetcn.com/livenews/3023448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "消息人士：墨西哥国家石油公司勘探与生产部门主管Angel Cid预计将在未来几天辞职。",
-          "url": "https://flash.jin10.com/detail/20251219045207295800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 布伦特2月原油期货收报59.82美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3023317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "巴西石油工人全国联盟（FNP）主席表示，巴西国家石油公司罢工已蔓延至巴西桑托斯盆地盐下层的海上石油平台作业人员。",
-          "url": "https://flash.jin10.com/detail/20251219011549609800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "欧洲央行：预计2026年一季度通胀率将低于2%，2026年三季度至2027年四季度也将那样。 预计2025年石油价格为69.20美元/桶，预计2026年为62.50美元，预计2027-28年分别为62.60美元、64.00美元。 预计2025年（欧元兑美元）汇率为1.13。 预计欧元区2025年薪资增速为4%，2026年料增3.2%，预计2027-28年将先后增长2.9%和3.0%。",
-          "url": "https://wallstreetcn.com/livenews/3023227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
         }
       ]
     },
@@ -1797,11 +1899,12 @@
           "url": "https://wallstreetcn.com/livenews/3023912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时41分]"
         },
         {
           "title": "美国签发与伊朗相关的通用许可证。",
