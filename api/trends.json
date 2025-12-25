@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T02:29:34.725748+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-12-26T03:16:37.511189+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -15,19 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
           "url": "https://wallstreetcn.com/livenews/3026815",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
+          "url": "https://flash.jin10.com/detail/20251226025244857800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "03时16分"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -35,28 +47,30 @@
           "source": "金十数据",
           "ranks": [
             10,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
           "url": "https://flash.jin10.com/detail/20251226013420505800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时16分]"
         }
       ]
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国封锁下，委内瑞拉主要石油产区仍有油轮进出港",
@@ -65,11 +79,23 @@
           "ranks": [
             2,
             3,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "据库尔德媒体鲁达瓦援引国有石油公司官员消息报道，伊拉克、库尔德地区与国际公司达成协议，延长石油出口协议三个月至明年3月31日。",
+          "url": "https://flash.jin10.com/detail/20251226025711691800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克11月原油总出口量为1.065亿桶。",
@@ -111,40 +137,31 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "伊朗",
+      "match_count": 4,
       "titles": [
         {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
-        },
-        {
-          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3026784",
+          "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
+          "url": "https://wallstreetcn.com/livenews/3026820",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            17,
-            24
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
+          "url": "https://flash.jin10.com/detail/20251226023120622800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
         {
           "title": "以军称在黎巴嫩打死一名伊朗“圣城旅”关键武装人员",
           "url": "https://wallstreetcn.com/livenews/3026799",
@@ -152,11 +169,12 @@
           "ranks": [
             14,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "以色列国防军：今天早些时候，以色列国防军与辛贝特在黎巴嫩纳萨里耶地区击毙了“圣城旅”第840作战单位的关键分子哈辛·马哈茂德·马尔沙德·阿勒-乔哈利。过去数年，他一直参与推动在叙黎战区针对以色列国的恐怖行动。哈辛在伊朗革命卫队服役，参与了伊朗指挥的针对以色列国和安全部队的恐怖活动。",
@@ -172,6 +190,38 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "币圈 比特币",
       "match_count": 1,
       "titles": [
@@ -182,11 +232,12 @@
           "ranks": [
             4,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时16分]"
         }
       ]
     },
@@ -203,8 +254,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         }
       ]
     },
@@ -220,8 +271,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         }
       ]
     },
@@ -237,8 +288,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         }
       ]
     }
