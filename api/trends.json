@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T11:27:20.200540+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2025-12-25T12:38:20.010025+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 11时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时38分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -140,7 +151,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -151,7 +162,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -180,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 12时38分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -194,8 +205,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[06时20分 ~ 12时38分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -295,7 +306,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -325,7 +336,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "地区当局称，乌克兰无人机袭击俄罗斯特姆留克港（Temryuk）后，两个石油产品储罐起火。",
@@ -421,9 +432,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "美军将聚焦对委封锁与石油制裁管控",
+          "url": "https://www.toutiao.com/trending/7586591528605302830/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -500,22 +522,24 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 12时38分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时38分]"
         },
         {
           "title": "金价又创历史新高",
@@ -535,7 +559,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
