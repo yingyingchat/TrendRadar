@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T17:20:59.253599+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-12-27T18:20:31.280247+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -42,6 +42,22 @@
           "time_info": "[09时28分 ~ 12时33分]"
         },
         {
+          "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3027528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            7,
+            13,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 18时20分]"
+        },
+        {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
           "url": "https://flash.jin10.com/detail/20251227010749216800",
           "source": "金十数据",
@@ -70,19 +86,30 @@
           "time_info": "[01时18分 ~ 07时20分]"
         },
         {
-          "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
-          "url": "https://wallstreetcn.com/livenews/3027528",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：未经我批准 泽连斯基一无所有",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            5,
-            7,
-            13,
-            18
+            28,
+            22,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时33分 ~ 17时20分]"
+          "time_info": "[14时31分 ~ 18时20分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时20分]"
         },
         {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
@@ -124,31 +151,6 @@
           "time_info": "[13时21分 ~ 16时26分]"
         },
         {
-          "title": "特朗普：未经我批准 泽连斯基一无所有",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时20分]"
-        },
-        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -157,8 +159,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时20分]"
         },
         {
           "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
@@ -167,11 +169,12 @@
           "ranks": [
             6,
             13,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 18时20分]"
         },
         {
           "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -248,6 +251,17 @@
           "time_info": "[12时32分 ~ 12时33分]"
         },
         {
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -294,8 +308,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 18时20分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -306,8 +320,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 18时20分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -329,11 +343,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 18时20分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -347,8 +362,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 18时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -460,19 +475,8 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "据国际文传电讯社：俄罗斯将汽油出口禁令延长至2月底。",
-          "url": "https://flash.jin10.com/detail/20251227170215707800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
         {
           "title": "WTI 2月原油期货收跌1.61美元，跌幅2.76%，报56.74美元/桶。 NYMEX 1月天然气期货收报4.3660美元/百万英热单位。 NYMEX 1月汽油期货收报1.6971美元/加仑，NYMEX 1月取暖油期货收报2.1070美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3027450",
@@ -483,6 +487,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "俄罗斯延长汽油及柴油出口禁令至2026年2月",
+          "url": "https://flash.jin10.com/detail/20251227172054371800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯将汽油出口禁令延长至2月底。",
+          "url": "https://flash.jin10.com/detail/20251227170215707800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
+          "title": "美为何要“隔离”委内瑞拉石油2个月",
+          "url": "https://www.toutiao.com/trending/7588404079982808617/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.61美元，跌幅2.76%，报56.74美元/桶。 布伦特2月原油期货收跌2.57%，报60.64美元/桶。 NYMEX 1月天然气期货收报4.3660美元/百万英热单位。 NYMEX 1月汽油期货收报1.6971美元/加仑，NYMEX 1月取暖油期货收报2.1070美元/加仑。",
@@ -497,15 +536,15 @@
           "time_info": "[05时18分 ~ 06时20分]"
         },
         {
-          "title": "美为何要“隔离”委内瑞拉石油2个月",
-          "url": "https://www.toutiao.com/trending/7588404079982808617/",
-          "source": "今日头条",
+          "title": "俄罗斯将汽油出口禁令延长至2月底。",
+          "url": "https://wallstreetcn.com/livenews/3027549",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时20分"
         }
       ]
     },
