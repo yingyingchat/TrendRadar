@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T14:33:45.701494+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-01-01T15:23:13.505170+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时50分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时23分]"
         },
         {
           "title": "WTI原油期货转跌，美国能源部披露最新EIA原油库存周报。 虽然原油库存减少超190万桶，但成品油汽油库存激增超580万桶、精炼油库存激增约500万桶，意味着圣诞节当周需求低迷。",
@@ -239,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 15时23分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -476,8 +476,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 15时23分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -706,8 +706,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 15时23分]"
         }
       ]
     }
