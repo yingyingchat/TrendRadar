@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:48:16.385176+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-01-01T13:27:22.832188+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,17 @@
           "time_info": "[01时19分 ~ 03时17分]"
         },
         {
+          "title": "美国宣布制裁4家涉委内瑞拉石油贸易的公司",
+          "url": "https://news.ifeng.com/c/8pY8nvn8Rcm",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时27分]"
+        },
+        {
           "title": "美国制裁委内瑞拉“影子船队”，直击马杜罗政权“石油输血管”",
           "url": "https://flash.jin10.com/detail/20260101034056445800",
           "source": "金十数据",
@@ -59,17 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时19分]"
-        },
-        {
-          "title": "美国宣布制裁4家涉委内瑞拉石油贸易的公司",
-          "url": "https://news.ifeng.com/c/8pY8nvn8Rcm",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时48分]"
         },
         {
           "title": "美国能源信息署（EIA）数据显示，美国10月石油产量1387万桶/日，创历史新高。 9月修正后为1383.9万桶/日。",
@@ -239,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时27分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -269,6 +269,19 @@
           "time_info": "05时19分"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普称“凯旋门”将于两个月内开建",
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
@@ -280,18 +293,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时17分]"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时48分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -475,8 +476,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时27分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -704,8 +705,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时27分]"
         }
       ]
     }
