@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-01T13:27:22.832188+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-01T14:33:45.701494+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "石油 汽油",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美国宣布制裁4家涉委内瑞拉石油贸易的公司",
+          "url": "https://news.ifeng.com/c/8pY8nvn8Rcm",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 14时33分]"
+        },
         {
           "title": "WTI原油期货转跌，美国能源部披露最新EIA原油库存周报。 虽然原油库存减少超190万桶，但成品油汽油库存激增超580万桶、精炼油库存激增约500万桶，意味着圣诞节当周需求低迷。",
           "url": "https://wallstreetcn.com/livenews/3029427",
@@ -47,17 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时17分]"
-        },
-        {
-          "title": "美国宣布制裁4家涉委内瑞拉石油贸易的公司",
-          "url": "https://news.ifeng.com/c/8pY8nvn8Rcm",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 13时27分]"
         },
         {
           "title": "美国制裁委内瑞拉“影子船队”，直击马杜罗政权“石油输血管”",
@@ -239,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时33分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -476,8 +476,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时33分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -702,11 +702,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时33分]"
         }
       ]
     }
