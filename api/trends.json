@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:33:49.312064+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-01-02T15:24:47.151912+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -104,6 +104,18 @@
           "time_info": "[00时26分 ~ 01时19分]"
         },
         {
+          "title": "特朗普承认手上瘀伤是服用药物造成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时24分]"
+        },
+        {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
           "url": "https://flash.jin10.com/detail/20260102083147084800",
           "source": "金十数据",
@@ -137,15 +149,26 @@
           "time_info": "09时42分"
         },
         {
-          "title": "特朗普承认手上瘀伤是服用药物造成",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
-          "source": "百度热搜",
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            29
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "15时24分"
+        },
+        {
+          "title": "特朗普的关税大棒挥不下去了吗",
+          "url": "https://www.toutiao.com/trending/7590646791305956874/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -153,6 +176,19 @@
       "keyword_group": "伊朗",
       "match_count": 7,
       "titles": [
+        {
+          "title": "伊朗多省示威致6死，总统发声",
+          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 15时24分]"
+        },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
           "url": "https://news.ifeng.com/c/8pZJzBvxf8X",
@@ -163,18 +199,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗多省示威致6死，总统发声",
-          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 14时33分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
@@ -255,8 +279,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 14时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 15时24分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 15时24分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 15时24分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -266,11 +316,12 @@
             12,
             9,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 14时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 15时24分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -287,38 +338,12 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时33分]"
-        },
-        {
-          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
-          "url": "https://www.zhihu.com/question/1990084005744362243",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时33分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -330,8 +355,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 14时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 15时24分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -356,6 +381,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时26分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -485,6 +521,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     }
