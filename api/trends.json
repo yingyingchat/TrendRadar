@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T09:51:32.759682+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-01-05T11:56:21.615511+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -64,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 09时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 11时56分]"
         },
         {
           "title": "特朗普称美国将管理委内瑞拉",
@@ -133,7 +133,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -144,7 +144,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -200,6 +200,30 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
+          "url": "https://www.cls.cn/detail/2247373",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32315820",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时56分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普在委内瑞拉行动上始终拥有多种选择",
           "url": "https://flash.jin10.com/detail/20260105042758533800",
           "source": "金十数据",
@@ -226,6 +250,41 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
+          "url": "https://news.ifeng.com/c/8peoOMfJqxB",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普威胁委代总统：或付出更惨代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%A7%94%E4%BB%A3%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%88%96%E4%BB%98%E5%87%BA%E6%9B%B4%E6%83%A8%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普称“绝对需要格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E7%BB%9D%E5%AF%B9%E9%9C%80%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时56分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普在委内瑞拉的行为虽属非法，但符合其一贯捍卫美国利益的作风。",
           "url": "https://flash.jin10.com/detail/20260104225319283800",
           "source": "金十数据",
@@ -239,6 +298,29 @@
           "time_info": "[00时24分 ~ 02时29分]"
         },
         {
+          "title": "特朗普威胁委代总统或付“沉重代价”",
+          "url": "https://www.toutiao.com/trending/7591475606379154985/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时56分]"
+        },
+        {
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
           "title": "美国总统特朗普在《大西洋》月刊采访中表示，委内瑞拉副总统德尔茜·罗德里格斯“若不行正道”将付出比马杜罗更惨痛代价。",
           "url": "https://flash.jin10.com/detail/20260105012834419800",
           "source": "金十数据",
@@ -249,6 +331,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时16分]"
+        },
+        {
+          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
+          "url": "https://wallstreetcn.com/articles/3762521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普称美方正与委代总统接触",
+          "url": "https://www.toutiao.com/trending/7591367635717373988/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
+          "url": "https://www.cls.cn/detail/2247429",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统",
@@ -281,7 +407,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -292,18 +418,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
-          "url": "https://www.cls.cn/detail/2247373",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -314,40 +429,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32315820",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
-          "url": "https://news.ifeng.com/c/8peoOMfJqxB",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普威胁委代总统：或付出更惨代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%A7%94%E4%BB%A3%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%88%96%E4%BB%98%E5%87%BA%E6%9B%B4%E6%83%A8%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -358,18 +440,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普威胁委代总统或付“沉重代价”",
-          "url": "https://www.toutiao.com/trending/7591475606379154985/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -380,7 +451,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -402,7 +473,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -413,7 +484,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -424,18 +495,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普称“绝对需要格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E7%BB%9D%E5%AF%B9%E9%9C%80%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -446,7 +506,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -457,7 +517,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -465,7 +525,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "不仅仅是石油！美国瞄准委内瑞拉有两大目的",
@@ -484,11 +544,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 09时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 11时56分]"
         },
         {
           "title": "美国国务卿卢比奥：预计美国石油企业对（投资）委内瑞拉的兴趣较高。 预计委内瑞拉民众将从（美国）石油行业获得石油开采特许权使用费。 （美国）能源部长Wright和内政部长Burgum将对（多家美国）石油公司讲话。",
@@ -576,6 +637,17 @@
           "time_info": "[02时29分 ~ 03时16分]"
         },
         {
+          "title": "美军空袭委内瑞拉首都加拉加斯，是看中了委内瑞拉的石油吗？",
+          "url": "https://www.zhihu.com/question/1980387261406282560",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
           "title": "美国国务卿鲁比奥强调美炼油厂处理委内瑞拉石油的独特能力",
           "url": "https://flash.jin10.com/detail/20260105022941742800",
           "source": "金十数据",
@@ -594,7 +666,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -605,9 +677,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "机构：委内瑞拉石油业复苏或需千亿美元成本且耗费数年时间",
+          "url": "https://flash.jin10.com/detail/20260105103958701800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "美国周末“闪击”委内瑞拉，后者庞大的石油储备已成“待宰羔羊”？行业人士称这将面临重重阻碍。同时欧佩克+八国同意第一季度暂停增产，会议未谈及委内瑞拉问题。当前美油多头占比高达91%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260105103312741800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "摩根士丹利下调布伦特原油未来三个季度的价格预测。 摩根士丹利将第二季度布伦特原油价格预测下调至55美元/桶。 摩根士丹利预计全球石油过剩局面将在年中见顶。",
@@ -616,7 +710,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -646,7 +740,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
@@ -704,6 +798,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "人权组织称伊朗一周的抗议活动至少造成16人死亡",
+          "url": "https://flash.jin10.com/detail/20260105104432340800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     },
