@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T21:37:54.137643+08:00",
-  "total_titles_processed": 1936,
+  "generated_at": "2026-01-06T22:22:46.988517+08:00",
+  "total_titles_processed": 2016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时25分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[13时25分 ~ 22时22分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -93,6 +93,21 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 22时22分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -140,8 +155,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时27分 ~ 21时37分]"
+          "appearance_count": 33,
+          "time_info": "[00时27分 ~ 22时22分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -158,20 +173,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[11时29分 ~ 18时24分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 21时37分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -256,6 +257,20 @@
           "time_info": "[16时31分 ~ 17时27分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普“跨国绑架”，露出了帝国獠牙",
           "url": "https://news.ifeng.com/c/8phPV8FjZWC",
           "source": "凤凰网",
@@ -322,17 +337,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "美国总统特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3031704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
           "title": "墨总统回应特朗普：合作可以干预不行",
           "url": "https://www.toutiao.com/trending/7591151766478290986/",
           "source": "今日头条",
@@ -343,20 +347,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 11时29分]"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 21时37分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
@@ -452,6 +442,18 @@
           "time_info": "[02时32分 ~ 03时21分]"
         },
         {
+          "title": "美国总统特朗普称赞股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3031704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
+        },
+        {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
           "url": "https://flash.jin10.com/detail/20260106050326397800",
           "source": "金十数据",
@@ -462,6 +464,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时22分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -485,18 +500,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时29分 ~ 12时40分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时37分]"
         },
         {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
@@ -533,6 +536,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "特朗普称西半球是我们的半球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
         },
         {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
@@ -658,6 +673,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美联储理事米兰：预计数据将支持更多降息。 美联储今年应降息超过100个基点。 核心通胀接近美联储目标。 美联储政策具有限制性，正在拖累经济发展。 尚未与特朗普讨论成为美联储主席一事。 美联储主席候选名单上的所有人都很有资历。",
+          "url": "https://wallstreetcn.com/livenews/3031716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
           "url": "https://flash.jin10.com/detail/20260105234304273800",
           "source": "金十数据",
@@ -691,6 +717,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
+          "url": "https://wallstreetcn.com/livenews/3031714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3031110",
           "source": "华尔街见闻-快讯",
@@ -700,17 +737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普称西半球是我们的半球",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -730,7 +756,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -785,7 +811,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -818,7 +844,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -829,9 +855,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "美国总统特朗普对众议院共和党人的讲话将于上午10点左右（北京时间23:00）进行现场直播。",
+          "url": "https://flash.jin10.com/detail/20260106214535298800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普在变成第二个拜登吗",
@@ -854,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "美联储理事米兰：尚未就美联储主席职位与特朗普总统交谈。",
+          "url": "https://flash.jin10.com/detail/20260106214218662800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普说美需要格陵兰岛 欧洲怎么想",
@@ -892,7 +940,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国是否会继续进口委内瑞拉石油？外交部回应",
@@ -977,6 +1025,18 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "夜盘期货开盘多数上涨，沪镍涨近5%，沪银涨近3%，沪锡涨逾2%，焦煤、烧碱、甲醇、玻璃、纯碱、沪铜、液化石油气涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3031693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
+        },
+        {
           "title": "埃及签署两项谅解备忘录，向叙利亚供应天然气以发电并满足其石油产品需求。",
           "url": "https://flash.jin10.com/detail/20260106005156465800",
           "source": "金十数据",
@@ -1021,15 +1081,15 @@
           "time_info": "05时21分"
         },
         {
-          "title": "夜盘期货开盘多数上涨，沪镍涨近5%，沪银涨近3%，沪锡涨逾2%，焦煤、烧碱、甲醇、玻璃、纯碱、沪铜、液化石油气涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3031693",
-          "source": "华尔街见闻-快讯",
+          "title": "政治红利叠加成本优势 加拿大总理称加国石油中长期地位稳固",
+          "url": "https://flash.jin10.com/detail/20260106214841502800",
+          "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "22时22分"
         },
         {
           "title": "据报道，委内瑞拉当局已宣布动员军队，并对石油行业和其他行业的员工实施“军事管制”。",
@@ -1090,7 +1150,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -1101,8 +1161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时20分 ~ 21时37分]"
+          "appearance_count": 20,
+          "time_info": "[07时20分 ~ 22时22分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -1141,6 +1201,17 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时27分 ~ 13时25分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3031726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -1224,6 +1295,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
           "url": "https://wallstreetcn.com/livenews/3031108",
           "source": "华尔街见闻-快讯",
@@ -1271,7 +1353,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1284,11 +1366,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时34分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[14时34分 ~ 22时22分]"
         },
         {
           "title": "据美联社：伊朗警方在德黑兰大巴扎集市与抗议者发生冲突。",
@@ -1393,6 +1476,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "伊朗军队向德黑兰的辛纳医院内部庭院投掷了催泪瓦斯。",
+          "url": "https://flash.jin10.com/detail/20260106214840519800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
           "url": "https://flash.jin10.com/detail/20260106050824120800",
           "source": "金十数据",
@@ -1429,7 +1523,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
@@ -1501,6 +1595,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
           "url": "https://wallstreetcn.com/livenews/3031092",
           "source": "华尔街见闻-快讯",
@@ -1541,6 +1646,18 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
+          "url": "https://wallstreetcn.com/livenews/3031699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
+        },
+        {
           "title": "美债收益率普遍跌超2个基点",
           "url": "https://wallstreetcn.com/livenews/3031089",
           "source": "华尔街见闻-快讯",
@@ -1551,17 +1668,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
-          "url": "https://wallstreetcn.com/livenews/3031699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "美债收益率走高 分析师称曲线有趋陡的空间",
@@ -1581,7 +1687,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1621,7 +1727,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1666,8 +1772,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时42分 ~ 21时37分]"
+          "appearance_count": 19,
+          "time_info": "[09时42分 ~ 22时22分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
