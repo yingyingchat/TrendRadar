@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:32:09.144850+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-06T17:27:00.288698+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时29分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[11时29分 ~ 17时27分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时42分 ~ 17时27分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -80,6 +80,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时39分 ~ 17时27分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -107,11 +121,12 @@
             13,
             20,
             23,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 16时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时27分 ~ 17时27分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -123,6 +138,21 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14,
+            29,
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时29分 ~ 17时27分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -162,31 +192,16 @@
           "time_info": "[11时29分 ~ 15时26分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            29,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时29分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时39分 ~ 16时32分]"
+          "time_info": "[13时25分 ~ 17时27分]"
         },
         {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
@@ -215,11 +230,12 @@
           "url": "https://www.toutiao.com/trending/7592114928259285042/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时27分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
@@ -231,18 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 16时32分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -334,6 +338,19 @@
           "time_info": "[00时27分 ~ 02时32分]"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 17时27分]"
+        },
+        {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
           "url": "https://wallstreetcn.com/livenews/3031051",
           "source": "华尔街见闻-快讯",
@@ -392,18 +409,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 11时29分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时32分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -700,6 +705,182 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中国是否会继续进口委内瑞拉石油？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317763",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时39分 ~ 16时32分]"
+        },
+        {
+          "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3031081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）富时中国A50指数成分股今日收盘行情一览：保险、酿酒、石油等多数板块维持涨势，通信设备、电池股下跌。",
+          "url": "https://flash.jin10.com/detail/20260106150317469800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "美国计划拦截一艘运载委内瑞拉石油的油轮。",
+          "url": "https://flash.jin10.com/detail/20260106035024949800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "一位知情人士透露，美国能源部长赖特计划本周与石油行业领导人会面，讨论“重启”委内瑞拉能源部门的问题。",
+          "url": "https://flash.jin10.com/detail/20260106020633583800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 03时21分]"
+        },
+        {
+          "title": "委内瑞拉当局已宣布动员军队，并对石油行业和其他行业的员工实施“军事管制”。",
+          "url": "https://wallstreetcn.com/livenews/3031014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时32分]"
+        },
+        {
+          "title": "储量全球第一，产量却仅占1%？四张图回看委内瑞拉石油产业兴衰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32236546",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "埃及签署两项谅解备忘录，向叙利亚供应天然气以发电并满足其石油产品需求。",
+          "url": "https://flash.jin10.com/detail/20260106005156465800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "阿塞拜疆总统：阿塞拜疆石油基金通过黄金投资已赚取逾100亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "阿塞拜疆总统：阿塞拜疆石油基金通过黄金投资已赚取逾100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260106045521971800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "据报道，委内瑞拉当局已宣布动员军队，并对石油行业和其他行业的员工实施“军事管制”。",
+          "url": "https://flash.jin10.com/detail/20260106004733075800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "WTI 2月原油期货收涨1.00美元，涨幅1.74%，报58.32美元/桶。 布伦特3月原油期货收涨1.01美元，涨幅1.66%，报61.76美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3031081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "委石油已成囊中物？美油企高管持异议",
+          "url": "https://wallstreetcn.com/livenews/3031538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "美国能源部长将与石油高管会谈 聚焦委内瑞拉能源“复兴”",
+          "url": "https://flash.jin10.com/detail/20260106022508214800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "万斯承认打击委内瑞拉是为石油",
+          "url": "https://www.toutiao.com/trending/7591445517293551657/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
@@ -712,8 +893,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 17时27分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -870,173 +1051,8 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "中国是否会继续进口委内瑞拉石油？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317763",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时39分 ~ 16时32分]"
-        },
-        {
-          "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3031081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "金十图示：2026年01月06日（周二）富时中国A50指数成分股今日收盘行情一览：保险、酿酒、石油等多数板块维持涨势，通信设备、电池股下跌。",
-          "url": "https://flash.jin10.com/detail/20260106150317469800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "美国计划拦截一艘运载委内瑞拉石油的油轮。",
-          "url": "https://flash.jin10.com/detail/20260106035024949800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "一位知情人士透露，美国能源部长赖特计划本周与石油行业领导人会面，讨论“重启”委内瑞拉能源部门的问题。",
-          "url": "https://flash.jin10.com/detail/20260106020633583800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时21分]"
-        },
-        {
-          "title": "委内瑞拉当局已宣布动员军队，并对石油行业和其他行业的员工实施“军事管制”。",
-          "url": "https://wallstreetcn.com/livenews/3031014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时32分]"
-        },
-        {
-          "title": "储量全球第一，产量却仅占1%？四张图回看委内瑞拉石油产业兴衰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32236546",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "埃及签署两项谅解备忘录，向叙利亚供应天然气以发电并满足其石油产品需求。",
-          "url": "https://flash.jin10.com/detail/20260106005156465800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "阿塞拜疆总统：阿塞拜疆石油基金通过黄金投资已赚取逾100亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "阿塞拜疆总统：阿塞拜疆石油基金通过黄金投资已赚取逾100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260106045521971800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "据报道，委内瑞拉当局已宣布动员军队，并对石油行业和其他行业的员工实施“军事管制”。",
-          "url": "https://flash.jin10.com/detail/20260106004733075800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "WTI 2月原油期货收涨1.00美元，涨幅1.74%，报58.32美元/桶。 布伦特3月原油期货收涨1.01美元，涨幅1.66%，报61.76美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3031081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国能源部长将与石油高管会谈 聚焦委内瑞拉能源“复兴”",
-          "url": "https://flash.jin10.com/detail/20260106022508214800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "万斯承认打击委内瑞拉是为石油",
-          "url": "https://www.toutiao.com/trending/7591445517293551657/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1045,11 +1061,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 17时27分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1132,6 +1149,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "情报称伊朗最高领袖哈梅内伊已制定应急逃亡方案，目的地或是莫斯科",
+          "url": "https://flash.jin10.com/detail/20260106170222977800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
           "url": "https://flash.jin10.com/detail/20260106050824120800",
           "source": "金十数据",
@@ -1160,6 +1188,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
+          "url": "https://www.cls.cn/detail/2248953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 17时27分]"
+        },
+        {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
           "url": "https://flash.jin10.com/detail/20260106150838647800",
           "source": "金十数据",
@@ -1169,18 +1210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        },
-        {
-          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
-          "url": "https://www.cls.cn/detail/2248953",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 16时32分]"
         },
         {
           "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
@@ -1306,8 +1335,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时42分 ~ 17时27分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
