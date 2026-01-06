@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:40:20.473124+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-01-06T13:25:32.870586+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -83,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 12时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 13时25分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -130,8 +130,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时25分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -245,15 +256,15 @@
           "time_info": "[00时27分 ~ 02时32分]"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时25分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -267,6 +278,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时25分]"
         },
         {
           "title": "墨西哥总统回应特朗普：合作可以，干预不行",
@@ -305,26 +327,16 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
           "ranks": [
-            6
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时40分]"
-        },
-        {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时25分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -338,16 +350,15 @@
           "time_info": "[09时42分 ~ 11时29分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            29
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "time_info": "[12时39分 ~ 13时25分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -396,17 +407,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
@@ -475,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -657,8 +668,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时25分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时25分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -670,20 +694,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 12时40分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -803,7 +815,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
@@ -827,6 +839,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "中国是否会继续进口委内瑞拉石油？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317763",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时25分]"
         },
         {
           "title": "一位知情人士透露，美国能源部长赖特计划本周与石油行业领导人会面，讨论“重启”委内瑞拉能源部门的问题。",
@@ -862,17 +885,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "中国是否会继续进口委内瑞拉石油？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317763",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "埃及签署两项谅解备忘录，向叙利亚供应天然气以发电并满足其石油产品需求。",
@@ -939,12 +951,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "万斯承认打击委内瑞拉是为石油",
+          "url": "https://www.toutiao.com/trending/7591445517293551657/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1005,6 +1028,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "市场消息：一名以色列官员称伊朗进口用于离心机和弹道导弹的零部件。",
+          "url": "https://flash.jin10.com/detail/20260106125456607800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
           "url": "https://flash.jin10.com/detail/20260106050824120800",
           "source": "金十数据",
@@ -1042,8 +1076,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
