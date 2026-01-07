@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T04:25:41.857066+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-08T05:20:15.525198+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,30 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
-        },
-        {
-          "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3032666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普质疑北约在美国需要时会否给予支持",
-          "url": "https://flash.jin10.com/detail/20260108034118954800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -51,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -62,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -73,8 +51,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普：Raytheon必须停止回购股票。",
+          "url": "https://wallstreetcn.com/livenews/3032696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国总统特朗普将于2月24日发表国情咨文演讲。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3032693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -101,6 +101,30 @@
           "time_info": "[01时26分 ~ 02时33分]"
         },
         {
+          "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3032666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://flash.jin10.com/detail/20260108034118954800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -112,6 +136,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普向国防承包商回购股票的做法发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3032663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
@@ -138,6 +174,18 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260108032933903800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "预测市场认为：特朗普今年拿下格陵兰的胜算不高",
           "url": "https://wallstreetcn.com/livenews/3032615",
           "source": "华尔街见闻-快讯",
@@ -160,6 +208,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时20分]"
+        },
+        {
+          "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
+          "url": "https://flash.jin10.com/detail/20260108032629292800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
@@ -198,6 +258,18 @@
           "time_info": "[02时33分 ~ 03时20分]"
         },
         {
+          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
+          "url": "https://flash.jin10.com/detail/20260108031728568800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
           "url": "https://flash.jin10.com/detail/20260108015016701800",
           "source": "金十数据",
@@ -234,15 +306,16 @@
           "time_info": "[02时33分 ~ 03时20分]"
         },
         {
-          "title": "特朗普向国防承包商回购股票的做法发出威胁",
-          "url": "https://wallstreetcn.com/livenews/3032663",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
+          "url": "https://flash.jin10.com/detail/20260108031010315800",
+          "source": "金十数据",
           "ranks": [
-            6
+            19,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
@@ -256,39 +329,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
-          "url": "https://flash.jin10.com/detail/20260108032933903800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
-          "url": "https://flash.jin10.com/detail/20260108032629292800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
-          "url": "https://flash.jin10.com/detail/20260108031728568800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：（谈格陵兰岛）特朗普和国家安全团队正在积极讨论。",
           "url": "https://flash.jin10.com/detail/20260108010947191800",
           "source": "金十数据",
@@ -298,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
-          "url": "https://flash.jin10.com/detail/20260108031010315800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
         },
         {
           "title": "特朗普声称接收委内瑞拉石油 导致加拿大油价暴跌",
@@ -325,7 +354,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
@@ -336,8 +365,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
+        },
+        {
+          "title": "美能源部长宣称将“无限期”控制委内瑞拉石油销售",
+          "url": "https://flash.jin10.com/detail/20260108044130836800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美国悄无声息地降低对委内瑞拉的石油制裁行径。",
@@ -357,7 +397,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -407,6 +447,30 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "白宫：企业高管渴望投资委内瑞拉石油",
+          "url": "https://flash.jin10.com/detail/20260108031310722800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "美国能源部长赖特：埃克森美孚石油(XOM.N)和康菲石油(COP.N)的债务未来需要进一步偿还。",
+          "url": "https://flash.jin10.com/detail/20260108031231662800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "美国已开始在全球兜售委内瑞拉石油",
           "url": "https://wallstreetcn.com/livenews/3032626",
           "source": "华尔街见闻-快讯",
@@ -419,13 +483,25 @@
           "time_info": "[02时33分 ~ 03时20分]"
         },
         {
+          "title": "美国能源部长赖特：将立即看到与石油公司的合作。在马杜罗被俘发生后立即与三大石油公司通话。",
+          "url": "https://flash.jin10.com/detail/20260108030923254800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
           "url": "https://wallstreetcn.com/livenews/3032662",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -452,17 +528,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "白宫：企业高管渴望投资委内瑞拉石油",
-          "url": "https://flash.jin10.com/detail/20260108031310722800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
           "title": "美国1月2日当周EIA汽油库存变动 770.2万桶，前值 584.5万桶。",
           "url": "https://wallstreetcn.com/livenews/3032582",
           "source": "华尔街见闻-快讯",
@@ -474,26 +539,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美国能源部长赖特：埃克森美孚石油(XOM.N)和康菲石油(COP.N)的债务未来需要进一步偿还。",
-          "url": "https://flash.jin10.com/detail/20260108031231662800",
-          "source": "金十数据",
+          "title": "美能源部长宣称：将“无限期”控制委内瑞拉石油销售",
+          "url": "https://wallstreetcn.com/livenews/3032678",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国能源部长赖特：将立即看到与石油公司的合作。在马杜罗被俘发生后立即与三大石油公司通话。",
-          "url": "https://flash.jin10.com/detail/20260108030923254800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "05时20分"
         },
         {
           "title": "美国悄无声息地撤销对委内瑞拉的石油制裁行径。",
@@ -535,9 +589,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "WTI 2月原油期货收跌2%，报55.99美元/桶。 布伦特3月原油期货收跌0.74美元，跌幅1.22%，报59.96美元/桶。 NYMEX 2月天然气期货收报3.525-美元/百万英热单位。 NYMEX 2月汽油期货收报1.6945美元/加仑，NYMEX 2月取暖油期货收报2.0567美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3032670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "委内瑞拉国家石油公司董事会成员：如果美国想要获得委内瑞拉的石油供应，就必须按照国际价格支付货物费用。",
@@ -546,7 +611,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
@@ -564,8 +629,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
         },
         {
           "title": "伊朗",
@@ -578,8 +643,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
         },
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -590,8 +655,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时20分]"
         },
         {
           "title": "伊朗谴责以色列外长进入索马里兰",
@@ -658,7 +723,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         }
@@ -666,7 +731,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -678,6 +743,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "10年期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3032682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
@@ -741,11 +828,12 @@
           "url": "https://flash.jin10.com/detail/20260108030510490800",
           "source": "金十数据",
           "ranks": [
-            21
+            21,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         }
       ]
     },
@@ -768,6 +856,23 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨0.1%",
+          "url": "https://wallstreetcn.com/livenews/3032675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -776,11 +881,12 @@
           "url": "https://flash.jin10.com/detail/20260108033431215800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         }
       ]
     }
