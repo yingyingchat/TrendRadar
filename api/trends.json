@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T21:40:05.070901+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-01-07T22:24:11.949773+08:00",
+  "total_titles_processed": 2096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时42分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[09时42分 ~ 22时24分]"
         },
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -67,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时29分 ~ 21时40分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 22时24分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -146,6 +146,31 @@
           "time_info": "[17时28分 ~ 20时44分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 22时24分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -170,6 +195,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 22时24分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -202,31 +241,6 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时40分]"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 21时40分]"
-        },
-        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -249,19 +263,6 @@
           "time_info": "17时28分"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 21时40分]"
-        },
-        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -273,6 +274,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 22时24分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -358,18 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时40分]"
         },
         {
           "title": "美国国务卿卢比奥告知议员们：总统特朗普希望能收购格陵兰岛。（华尔街日报）",
@@ -765,6 +766,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "白宫官员称，特朗普将与美国石油公司高管于周五会面。",
+          "url": "https://flash.jin10.com/detail/20260107213851943800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "特朗普称必须赢得中期选举",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BF%85%E9%A1%BB%E8%B5%A2%E5%BE%97%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -886,6 +898,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "据CNBC：美国将从委内瑞拉获得超过5000万桶石油。（此前特朗普表示，委内瑞拉将向美国移交3000至5000万桶石油）",
+          "url": "https://flash.jin10.com/detail/20260107213246753800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "特朗普模仿举重动作嘲讽跨性别运动员",
           "url": "https://www.toutiao.com/trending/7592416851683033142/",
           "source": "今日头条",
@@ -999,7 +1022,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 25,
+      "match_count": 40,
       "titles": [
         {
           "title": "一图看懂：美国凭什么说委内瑞拉“盗窃”了石油？",
@@ -1027,15 +1050,15 @@
           "time_info": "[09时42分 ~ 15时26分]"
         },
         {
-          "title": "据CNBC：委内瑞拉石油销售将无限期持续，相关制裁措施将放宽。",
-          "url": "https://flash.jin10.com/detail/20260107212805475800",
-          "source": "金十数据",
+          "title": "美国国防部长海格塞斯：委内瑞拉石油封锁在全球任何地方都有效。",
+          "url": "https://wallstreetcn.com/livenews/3032519",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时40分"
+          "time_info": "22时24分"
         },
         {
           "title": "据英国金融时报：雪佛龙与量子能源合作伙伴公司联手竞购卢克石油价值220亿美元的资产。",
@@ -1047,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "美国能源部长赖特：如果控制委内瑞拉石油，美国将拥有巨大影响力。",
+          "url": "https://flash.jin10.com/detail/20260107214702099800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "一图看懂｜美国凭什么说委内瑞拉“盗窃”了石油？",
@@ -1075,6 +1109,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "据CNBC：委内瑞拉石油销售将无限期持续，相关制裁措施将放宽。",
+          "url": "https://flash.jin10.com/detail/20260107212805475800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时24分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.19美元，跌幅2.04%，报57.13美元/桶。 布伦特3月原油期货收跌1.06美元，跌幅1.772%，报60.70美元/桶。 NYMEX 2月天然气期货收报3.35美元/百万英热单位。 NYMEX 2月汽油期货收报1.7006美元/加仑，NYMEX 2月取暖油期货收报2.0830美元/加仑。",
@@ -1125,6 +1171,17 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "美国能源部长赖特：美国希望进口零部件、设备和服务，以重建委内瑞拉的石油工业。",
+          "url": "https://flash.jin10.com/detail/20260107214455033800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "壳牌签署协议，从雪佛龙旗下部门手中收购安哥拉近海两个石油区块的35%股权。",
           "url": "https://flash.jin10.com/detail/20260107005231411800",
           "source": "金十数据",
@@ -1134,6 +1191,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美国能源部长赖特：估计委内瑞拉的石油产量在短期至中期内可能增加数十万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260107214409249800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国能源部长Wright：委内瑞拉石油销售收入将进入美国账户。 石油销售所得将“造福”委内瑞拉民众。",
+          "url": "https://wallstreetcn.com/livenews/3032513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "加拿大丰业银行首席执行官汤姆森：委内瑞拉的持续局势及其对加拿大石油的潜在影响，有望为加拿大总理卡尼的“建设加拿大”计划提供更多动力。",
@@ -1156,6 +1235,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "美国能源部长赖特：美国必须控制石油销售才能改变委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260107214159895800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国能源部长赖特：美国政府希望向美国炼油厂出售委内瑞拉石油。",
+          "url": "https://flash.jin10.com/detail/20260107214149129800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国能源部长赖特：美国政府希望委内瑞拉的石油供应能够恢复。",
+          "url": "https://flash.jin10.com/detail/20260107214129699800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "行业周报：美国上周API原油库存减超270万桶，汽油库存再增超440万桶、馏分油库存增约500万桶",
@@ -1191,6 +1303,28 @@
           "time_info": "17时28分"
         },
         {
+          "title": "美国能源部长赖特：希望为美国石油公司进入委内瑞拉创造条件。",
+          "url": "https://flash.jin10.com/detail/20260107214121217800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国能源部长赖特：美国政府希望出售委内瑞拉石油，并将资金存入由美国控制的账户。 美国政府希望将委内瑞拉石油出售给美国炼油厂，让委内瑞拉石油重新流通起来。 希望为美国石油公司进入委内瑞拉创造条件。 他正在与美国石油公司沟通，了解什么条件能够让他们进入委内瑞拉。 他估计委内瑞拉石油产量在短期到中期内有望增加数十万桶。",
+          "url": "https://wallstreetcn.com/livenews/3032506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "英国首相斯塔默：我们将继续向俄罗斯施压，包括对支持俄罗斯的石油交易商和影子船队运营商采取进一步措施。",
           "url": "https://flash.jin10.com/detail/20260107025054974800",
           "source": "金十数据",
@@ -1202,6 +1336,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美国能源部长赖特：出售委内瑞拉石油所得资金将回流，以惠及委内瑞拉公民。",
+          "url": "https://flash.jin10.com/detail/20260107214113990800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "委内瑞拉作为全球石油储量第一国，此轮局势动荡会引发国际油价暴涨吗？「马杜罗被抓」事件后续会如何发展？",
           "url": "https://www.zhihu.com/question/1991101426651402591",
           "source": "知乎",
@@ -1211,6 +1356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "美国能源部长赖特：正在与美国石油公司对话，以了解在何种条件下它们能够进入委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260107214058520800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1257,6 +1413,28 @@
           "time_info": "05时21分"
         },
         {
+          "title": "美国能源部长赖特在高盛会议上表示，美国政府希望出售委内瑞拉石油，并将资金存入由美国控制的账户。",
+          "url": "https://flash.jin10.com/detail/20260107213842915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "国际油价短线走低，美、布两油下挫超0.5美元，据CNBC消息，委内瑞拉的石油销售将无限期继续。",
+          "url": "https://wallstreetcn.com/livenews/3032499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "巴西石油公司表示，钻井液流失已得到立即控制并被隔离。",
           "url": "https://flash.jin10.com/detail/20260107013724265800",
           "source": "金十数据",
@@ -1266,6 +1444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "据CNBC援引接近白宫的消息人士称，美国有选择地取消对委内瑞拉石油的制裁，石油销售立即开始。",
+          "url": "https://flash.jin10.com/detail/20260107213614435800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "消息人士称，巴西国家石油公司出于预防性措施已暂停在亚马孙河口的钻探作业。",
@@ -1293,7 +1482,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -1499,6 +1688,28 @@
           "time_info": "15时26分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3032511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107214121257800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.1%，苹果跌超1.8%，亚马逊涨约3.4%",
           "url": "https://wallstreetcn.com/livenews/3031904",
           "source": "华尔街见闻-快讯",
@@ -1575,8 +1786,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 21时40分]"
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 22时24分]"
         },
         {
           "title": "消息人士称，阿曼外交部长将访问伊朗。",
@@ -1864,7 +2075,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
