@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:44:29.088449+08:00",
-  "total_titles_processed": 1913,
+  "generated_at": "2026-01-07T21:40:05.070901+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,26 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 20时44分]"
+          "appearance_count": 15,
+          "time_info": "[09时42分 ~ 21时40分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 21时40分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -52,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[11时29分 ~ 21时40分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -131,19 +146,6 @@
           "time_info": "[17时28分 ~ 20时44分]"
         },
         {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时44分]"
-        },
-        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -200,6 +202,31 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时40分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 21时40分]"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -222,6 +249,19 @@
           "time_info": "17时28分"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 21时40分]"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -233,30 +273,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时42分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时44分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -344,17 +360,16 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            17,
-            14
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时40分]"
         },
         {
           "title": "美国国务卿卢比奥告知议员们：总统特朗普希望能收购格陵兰岛。（华尔街日报）",
@@ -695,17 +710,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
           "url": "https://flash.jin10.com/detail/20260107032038128800",
           "source": "金十数据",
@@ -995,7 +999,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "一图看懂：美国凭什么说委内瑞拉“盗窃”了石油？",
@@ -1021,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时42分 ~ 15时26分]"
+        },
+        {
+          "title": "据CNBC：委内瑞拉石油销售将无限期持续，相关制裁措施将放宽。",
+          "url": "https://flash.jin10.com/detail/20260107212805475800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "据英国金融时报：雪佛龙与量子能源合作伙伴公司联手竞购卢克石油价值220亿美元的资产。",
@@ -1193,7 +1208,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1560,8 +1575,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 20时44分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 21时40分]"
         },
         {
           "title": "消息人士称，阿曼外交部长将访问伊朗。",
@@ -1570,7 +1585,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1649,7 +1664,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1682,7 +1697,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -1690,7 +1705,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1727,6 +1742,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -1829,8 +1855,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美债收益率在ADP数据公布后维持早盘跌势；10年期收益率最新下跌3.9个基点，报4.14%。",
+          "url": "https://flash.jin10.com/detail/20260107212025200800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
         {
           "title": "美债收益率普遍涨超1个基点",
           "url": "https://wallstreetcn.com/livenews/3031877",
