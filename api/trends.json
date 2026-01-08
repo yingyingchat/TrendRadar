@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T12:39:58.684978+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-01-08T13:25:18.615807+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -25,11 +25,12 @@
           "ranks": [
             16,
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -66,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时25分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -75,11 +76,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -124,6 +126,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时25分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -199,16 +214,28 @@
           "time_info": "[02时33分 ~ 04时25分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
           "ranks": [
             10,
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时25分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -233,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时25分]"
         },
         {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
@@ -281,18 +319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时39分]"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -367,6 +393,18 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
+          "url": "https://flash.jin10.com/detail/20260108114002884800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时25分]"
+        },
+        {
           "title": "特朗普推动禁止机构投资者购房",
           "url": "https://wallstreetcn.com/livenews/3032633",
           "source": "华尔街见闻-快讯",
@@ -377,17 +415,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时39分]"
         },
         {
           "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
@@ -472,6 +499,17 @@
           "time_info": "[09时42分 ~ 09时43分]"
         },
         {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
           "url": "https://flash.jin10.com/detail/20260108062001008800",
           "source": "金十数据",
@@ -527,24 +565,13 @@
           "time_info": "07时20分"
         },
         {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "学者：特朗普把美国往绝路上带",
           "url": "https://www.toutiao.com/trending/7592771781304258098/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -602,17 +629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
-          "url": "https://flash.jin10.com/detail/20260108114002884800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
@@ -817,8 +833,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "美国悄无声息地降低对委内瑞拉的石油制裁行径。",
@@ -907,8 +923,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 13时25分]"
         },
         {
           "title": "美军扣押俄潜艇护航的油轮，该油轮原计划在委内瑞拉装载石油，此举意在传递什么信号？可能带来哪些影响？",
@@ -920,6 +936,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
+          "title": "5000万桶石油只是开始？美国宣称：将“无限期”控制委内瑞拉石油销售",
+          "url": "https://www.cls.cn/detail/2251321",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时25分]"
         },
         {
           "title": "委内瑞拉国家石油公司：正与美国谈判出售原油",
@@ -1002,17 +1030,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "5000万桶石油只是开始？美国宣称：将“无限期”控制委内瑞拉石油销售",
-          "url": "https://www.cls.cn/detail/2251321",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "雪佛龙与美国（政府）洽谈扩大委内瑞拉（石油贸易）许可。（路透）",
@@ -1196,8 +1213,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时25分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -1334,11 +1351,12 @@
           "ranks": [
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -1460,8 +1478,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时25分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1573,9 +1591,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时25分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
