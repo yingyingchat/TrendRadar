@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T18:23:35.427364+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-01-09T19:19:54.024920+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 132,
+      "match_count": 134,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 19时19分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -57,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 19时19分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 19时19分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -141,6 +141,23 @@
           "time_info": "[00时29分 ~ 07时19分]"
         },
         {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            14,
+            11,
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时40分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
           "url": "https://www.cls.cn/detail/2252430",
           "source": "财联社热门",
@@ -164,22 +181,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时39分 ~ 17时28分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 18时23分]"
         },
         {
           "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
@@ -225,6 +226,17 @@
           "time_info": "[09时43分 ~ 15时26分]"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普退群“弃子”都有哪些",
           "url": "https://www.toutiao.com/trending/7592986570223799834/",
           "source": "今日头条",
@@ -236,6 +248,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时26分 ~ 07时19分]"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时19分]"
         },
         {
           "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
@@ -265,15 +289,15 @@
           "time_info": "[12时40分 ~ 16时31分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
+          "title": "据纽约时报：美国总统特朗普表示，他确实相信外交礼节。",
+          "url": "https://flash.jin10.com/detail/20260109190330044800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "19时19分"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：房地美和房利美有工具来执行总统特朗普的住房命令。",
@@ -323,16 +347,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
+          "title": "特朗普称他认为自己始终会与欧洲相处融洽，拥有格陵兰具有心理层面的重要意义。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3034077",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "俄外交部：特朗普已下令释放被扣押油轮上的俄公民",
@@ -341,7 +364,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -357,6 +380,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
           "url": "https://wallstreetcn.com/livenews/3033738",
           "source": "华尔街见闻-快讯",
@@ -368,6 +402,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时25分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时19分]"
         },
         {
           "title": "美参院推进限制特朗普对委动武决议",
@@ -502,17 +548,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时43分 ~ 12时40分]"
-        },
-        {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时23分]"
         },
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -734,7 +769,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -756,7 +791,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -767,7 +802,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -814,17 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "美国总统特朗普：共和党人应该为那些在战争权力法案上与民主党人投票一致的参议员感到羞耻。",
@@ -1053,7 +1077,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1075,7 +1099,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1097,7 +1121,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1174,7 +1198,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1482,7 +1506,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1545,7 +1569,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "一觉醒来，伊朗采取极端措施了",
@@ -1600,6 +1624,21 @@
           "time_info": "[14时34分 ~ 15时26分]"
         },
         {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时19分]"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：有一些暴乱分子希望通过破坏公共财产来取悦美国总统。",
           "url": "https://flash.jin10.com/detail/20260109171528958800",
           "source": "金十数据",
@@ -1642,20 +1681,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时23分]"
         },
         {
           "title": "伊朗外长：已为任何可能发生的情况做好战争准备",
@@ -1761,6 +1786,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "声明显示，迪拜航空将继续密切关注伊朗局势，并据此调整航班时刻表。",
+          "url": "https://flash.jin10.com/detail/20260109185108825800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "伊朗大范围断网",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91",
           "source": "百度热搜",
@@ -1852,8 +1888,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时19分]"
         },
         {
           "title": "按现在的消耗，石油还够全世界用多少年？",
@@ -1867,6 +1903,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 04时25分]"
+        },
+        {
+          "title": "中石油等多家能源央企负责人2024年薪酬披露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32350082",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时19分]"
         },
         {
           "title": "高盛：投资者对石油的悲观情绪接近10年来的最高点。",
@@ -1891,19 +1941,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 03时20分]"
-        },
-        {
-          "title": "中石油等多家能源央企负责人2024年薪酬披露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32350082",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时23分]"
         },
         {
           "title": "金十图示：2026年01月09日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股全线下跌，酿酒、半导体、石油等板块涨跌不一，有色金属、煤炭股上涨",
@@ -2112,7 +2149,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -2122,8 +2159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -2210,6 +2247,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "Oklo美股盘前涨超20%，此前Oklo、Meta宣布达成协议，支持在俄亥俄州南部开发1.2吉瓦的核能项目。",
+          "url": "https://wallstreetcn.com/livenews/3034065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260109050534682800",
           "source": "金十数据",
@@ -2219,6 +2267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "阿斯麦股价在阿姆斯特丹交易所上涨5%，创历史新高。该股美股盘前涨3.9%。",
+          "url": "https://flash.jin10.com/detail/20260109184602011800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
@@ -2338,8 +2397,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 19时19分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
