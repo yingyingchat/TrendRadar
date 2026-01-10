@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T05:18:35.170908+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-11T06:20:14.677622+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -62,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -71,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
@@ -88,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -100,11 +101,45 @@
             21,
             24,
             20,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 06时20分]"
+        },
+        {
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -116,39 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "意大利总理说很多问题上不同意特朗普做法",
-          "url": "https://wallstreetcn.com/livenews/3034549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
-        },
-        {
-          "title": "G7峰会据悉系为特朗普而改期",
-          "url": "https://flash.jin10.com/detail/20260110203044449800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
-        },
-        {
-          "title": "特朗普：很快打击墨境内",
-          "url": "https://wallstreetcn.com/livenews/3034537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -170,8 +172,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 06时20分]"
         }
       ]
     },
@@ -187,8 +189,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
+        },
+        {
+          "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
+          "url": "https://www.zhihu.com/question/1993449447351349768",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 06时20分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
+          "url": "https://flash.jin10.com/detail/20260110220521103800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "记者报道伊朗现状",
@@ -202,30 +229,6 @@
           "time_info": "[00时24分 ~ 04时22分]"
         },
         {
-          "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
-          "url": "https://www.zhihu.com/question/1993449447351349768",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时18分]"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
-          "url": "https://flash.jin10.com/detail/20260110220521103800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
-        },
-        {
           "title": "伊朗军方表示将捍卫国家利益",
           "url": "https://wallstreetcn.com/livenews/3034551",
           "source": "华尔街见闻-快讯",
@@ -233,8 +236,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -244,8 +247,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -275,8 +278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -289,8 +292,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -302,8 +305,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -313,8 +316,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -323,11 +326,12 @@
           "ranks": [
             21,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 06时20分]"
         }
       ]
     },
@@ -346,8 +350,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "据油轮追踪网站TankerTrackers和委内瑞拉国家石油公司的消息，至少四艘曾以“隐蔽模式”驶离委内瑞拉的油轮已返回该国水域。",
@@ -357,8 +361,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     },
@@ -376,8 +380,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         }
       ]
     },
@@ -394,8 +398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         }
       ]
     }
