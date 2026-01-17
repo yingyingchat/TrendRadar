@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T02:28:43.681676+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-01-18T03:15:47.064558+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
+          "url": "https://news.ifeng.com/c/8q00jeWUQBa",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
         },
         {
           "title": "英媒：特朗普羡慕中国",
@@ -30,26 +41,15 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
-          "url": "https://news.ifeng.com/c/8q00jeWUQBa",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
           "url": "https://news.ifeng.com/c/8pzs9jMHF4O",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -72,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "哈梅内伊：特朗普应被视为犯罪",
@@ -94,11 +94,12 @@
             21,
             20,
             17,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -109,8 +110,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "哈梅内伊：特朗普是罪犯",
@@ -124,6 +125,28 @@
           "time_info": "[00时23分 ~ 01时18分]"
         },
         {
+          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
+          "url": "https://flash.jin10.com/detail/20260117220514244800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
+          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
+          "url": "https://wallstreetcn.com/livenews/3039132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
           "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32405652",
           "source": "澎湃新闻",
@@ -135,28 +158,6 @@
           "time_info": "[00时23分 ~ 01时18分]"
         },
         {
-          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
-          "url": "https://flash.jin10.com/detail/20260117220514244800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
-          "url": "https://wallstreetcn.com/livenews/3039132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
           "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
           "url": "https://flash.jin10.com/detail/20260117201033719800",
           "source": "金十数据",
@@ -164,8 +165,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
@@ -175,8 +176,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
@@ -186,8 +187,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
@@ -197,8 +198,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "得罪特朗普的福特员工获众筹80万美元",
@@ -210,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "特朗普谈中加签协议",
+          "url": "https://www.douyin.com/hot/2370724",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -225,8 +237,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
@@ -236,8 +248,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -247,8 +259,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "伊朗谴责七国集团干涉伊朗内政",
@@ -258,8 +270,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -269,8 +281,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         }
       ]
     },
@@ -286,8 +298,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         }
       ]
     },
@@ -303,8 +315,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         }
       ]
     },
@@ -321,8 +333,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时15分]"
         }
       ]
     }
