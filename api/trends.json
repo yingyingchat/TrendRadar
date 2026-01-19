@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T20:49:44.858040+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-01-19T21:45:43.898853+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 83,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时48分 ~ 20时49分]"
+          "appearance_count": 15,
+          "time_info": "[09时48分 ~ 21时45分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 20时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时52分 ~ 21时45分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -278,6 +278,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
           "url": "https://wallstreetcn.com/articles/3763529",
           "source": "华尔街见闻",
@@ -335,6 +346,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "特朗普为何对欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 21时45分]"
         },
         {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
@@ -488,20 +524,6 @@
           "time_info": "[18时28分 ~ 19时21分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 20时49分]"
-        },
-        {
           "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
           "url": "https://wallstreetcn.com/livenews/3039672",
           "source": "华尔街见闻-快讯",
@@ -623,6 +645,18 @@
           "time_info": "[18时28分 ~ 19时21分]"
         },
         {
+          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时45分]"
+        },
+        {
           "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
           "url": "https://wallstreetcn.com/livenews/3039516",
           "source": "华尔街见闻-快讯",
@@ -739,17 +773,6 @@
           "time_info": "19时21分"
         },
         {
-          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3039760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
           "url": "https://flash.jin10.com/detail/20260119141748687800",
           "source": "金十数据",
@@ -767,9 +790,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
+          "url": "https://wallstreetcn.com/livenews/3039789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "据媒体报道，哈萨克斯坦表示，美国总统特朗普邀请哈萨克斯坦总统托卡耶夫加入“和平委员会”，托卡耶夫已同意。",
@@ -838,6 +872,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "普京收到加入特朗普和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596940910904573978/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "据泰国《民族报》：泰国外交部周一表示，泰国已受邀加入特朗普的“和平委员会”，参与加沙和平计划。泰国正在研究相关细节。",
           "url": "https://flash.jin10.com/detail/20260119154552660800",
           "source": "金十数据",
@@ -899,7 +944,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -910,9 +955,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "德国总理默茨：我们知道，美国总统特朗普威胁要征收关税，但谈判也促使他放弃实施这些关税。这一直是我的策略，我将继续坚持这一策略。",
+          "url": "https://flash.jin10.com/detail/20260119210126922800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "法国财长Lescure：朋友之间勒索不可接受。 将在未来几天召集七国集团会议。 特朗普的言论代表着维度的转变。",
@@ -940,7 +996,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -1066,7 +1122,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1091,12 +1147,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "伊朗总统：美以在中东发挥破坏性作用",
+          "url": "https://wallstreetcn.com/livenews/3039772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国石油集团董事长戴厚良拜会加拿大总理马克·卡尼",
@@ -1117,7 +1184,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1128,7 +1195,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1139,9 +1206,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "夜盘期货开盘，沪银涨逾3%，沪镍、沪金涨逾1%；玻璃、沪锡、原油、甲醇跌逾1%，焦炭、燃油、液化石油气等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3039782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "政府网站显示，日本国际石油开发帝石（INPEX）已撤回其在澳大利亚年处理能力为1,000万吨的博纳帕特碳捕集与封存（CCS）项目的环境方案。",
@@ -1161,7 +1239,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1172,9 +1250,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "哥伦比亚财政部长：哥伦比亚将于2月份下调汽油价格约300哥伦比亚比索。",
+          "url": "https://flash.jin10.com/detail/20260119211549343800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "印度国有炼油企业MRPL高管：购买委内瑞拉石油取决于商业条款。",
@@ -1205,7 +1294,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         }
@@ -1213,7 +1302,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -1248,6 +1337,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
@@ -1365,11 +1465,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时45分]"
         }
       ]
     },
