@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T11:44:29.009995+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-01-20T12:44:40.008379+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 11时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 12时44分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -99,11 +99,12 @@
           "ranks": [
             11,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 11时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时44分]"
         },
         {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
@@ -114,8 +115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时44分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -164,6 +165,30 @@
           "time_info": "[04时24分 ~ 06时22分]"
         },
         {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时44分]"
+        },
+        {
           "title": "特朗普拒绝说明是否会以武力夺取格陵兰",
           "url": "https://wallstreetcn.com/livenews/3039855",
           "source": "华尔街见闻-快讯",
@@ -186,30 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时24分]"
-        },
-        {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时44分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时44分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -236,6 +237,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时24分]"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时44分]"
         },
         {
           "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
@@ -272,6 +285,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时44分]"
         },
         {
           "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
@@ -332,26 +357,26 @@
           "time_info": "[02时32分 ~ 03时19分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时44分"
+          "time_info": "12时44分"
         },
         {
-          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
-          "url": "https://wallstreetcn.com/livenews/3040101",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时44分"
+          "time_info": "12时44分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -442,6 +467,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "特朗普重返白宫1周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB1%E5%91%A8%E5%B9%B4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
           "url": "https://wallstreetcn.com/livenews/3039827",
           "source": "华尔街见闻-快讯",
@@ -470,7 +506,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         }
@@ -564,19 +600,8 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "金十图示：2026年01月20日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、石油等板块走强，通信设备股回调",
-          "url": "https://flash.jin10.com/detail/20260120113239322800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂涨近8%，沪银涨超3%，沪锡涨超2%，棕榈油、沪金涨超1%。跌幅方面，玻璃、氧化铝、焦煤、焦炭、液化石油气（LPG）、生猪跌超2%。",
           "url": "https://flash.jin10.com/detail/20260120113043017800",
@@ -584,9 +609,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、保险、石油等板块走强，通信设备股回调",
+          "url": "https://flash.jin10.com/detail/20260120113239322800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时44分]"
         },
         {
           "title": "匈牙利石油和天然气有限公司：正与阿联酋石油集团ADNOC就其作为少数股东加入NIS股东行列进行谈判，同时本公司将保留对NIS的多数股权和控制权。",
@@ -611,6 +648,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时32分]"
+        },
+        {
+          "title": "阿曼石油营销公司：签署协议，出售在苏丹国能源公司100%的股权。",
+          "url": "https://flash.jin10.com/detail/20260120114716284800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌不一。焦炭、玻璃、合成橡胶、烧碱跌超2%，焦煤、纯碱跌近2%，甲醇、液化石油气（LPG）、20号胶跌超1%；涨幅方面，沪银涨超4%，沪锡涨超2%，集运指数（欧线）、碳酸锂、沪镍、不锈钢、沪金、沪铝涨超1%。",
@@ -646,11 +694,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时44分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时44分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -662,17 +723,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -703,8 +753,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 11时44分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 12时44分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -729,7 +779,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         }
@@ -758,8 +808,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 11时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时44分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -810,7 +860,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         }
@@ -829,8 +879,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 11时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 12时44分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
