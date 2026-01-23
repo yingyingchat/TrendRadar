@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T14:35:39.004600+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-01-23T15:25:59.393575+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 99,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 15时25分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 14时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 15时25分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -163,17 +163,6 @@
           "time_info": "[00时36分 ~ 09时44分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普为啥时隔一天态度变了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -211,8 +200,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时25分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时25分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -224,6 +225,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 01时29分]"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时25分]"
         },
         {
           "title": "特朗普提出动用北约保护美国南部边境",
@@ -295,15 +308,15 @@
           "time_info": "09时44分"
         },
         {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "15时25分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -616,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -1446,7 +1470,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1493,6 +1517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "两年期美债收益率涨超2个基点",
@@ -1545,22 +1580,24 @@
             13,
             21,
             10,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 15时25分]"
         },
         {
           "title": "美国正调集重兵前往伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时25分]"
         },
         {
           "title": "伊朗议长称该国所有城市已恢复和平",
@@ -1580,7 +1617,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1594,6 +1631,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
+          "url": "https://wallstreetcn.com/livenews/3042190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
+          "url": "https://flash.jin10.com/detail/20260123000407972800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
+          "url": "https://wallstreetcn.com/livenews/3042255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时28分]"
+        },
+        {
+          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
+          "url": "https://flash.jin10.com/detail/20260123151617900800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
+          "url": "https://flash.jin10.com/detail/20260123000148990800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
+          "url": "https://flash.jin10.com/detail/20260123150451290800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -1723,57 +1833,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
-          "url": "https://wallstreetcn.com/livenews/3042190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
-          "url": "https://flash.jin10.com/detail/20260123000407972800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
-          "url": "https://wallstreetcn.com/livenews/3042255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时28分]"
-        },
-        {
-          "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
-          "url": "https://flash.jin10.com/detail/20260123000148990800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1826,8 +1885,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 15时25分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
