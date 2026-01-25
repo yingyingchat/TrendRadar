@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T17:21:54.420996+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-25T18:22:24.863324+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 18时22分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -67,11 +67,26 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 18时22分]"
+        },
+        {
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时54分 ~ 18时22分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -108,22 +123,26 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 18时22分]"
         },
         {
-          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://wallstreetcn.com/articles/3764087",
-          "source": "华尔街见闻",
+          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3043338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            7,
-            6
+            3,
+            12,
+            17,
+            18,
+            19,
+            21,
+            24,
+            25
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时54分 ~ 17时21分]"
+          "time_info": "[09时53分 ~ 18时22分]"
         },
         {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
@@ -150,21 +169,21 @@
           "time_info": "[00时24分 ~ 09时53分]"
         },
         {
-          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3043338",
+          "title": "特朗普称已获取7艘扣押油轮石油",
+          "url": "https://wallstreetcn.com/livenews/3043341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            12,
-            17,
+            9,
+            14,
+            15,
+            16,
             18,
-            19,
             21,
-            24
+            22
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时53分 ~ 17时21分]"
+          "time_info": "[11时54分 ~ 18时22分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -202,6 +221,22 @@
           "time_info": "[00时24分 ~ 07时20分]"
         },
         {
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            7,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 18时22分]"
+        },
+        {
           "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
           "url": "https://wallstreetcn.com/livenews/3043311",
           "source": "华尔街见闻-快讯",
@@ -232,46 +267,27 @@
           "time_info": "[12时52分 ~ 17时21分]"
         },
         {
-          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
-          "url": "https://wallstreetcn.com/livenews/3043350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时21分]"
-        },
-        {
-          "title": "特朗普称已获取7艘扣押油轮石油",
-          "url": "https://wallstreetcn.com/livenews/3043341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            15,
-            16,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 17时21分]"
-        },
-        {
           "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
           "url": "https://news.ifeng.com/c/8qCeJxu5emm",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时22分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-25）",
+          "url": "https://flash.jin10.com/detail/20260125175340876800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血",
@@ -283,6 +299,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时32分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时22分]"
         },
         {
           "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
@@ -298,6 +327,19 @@
           "time_info": "[11时54分 ~ 15时22分]"
         },
         {
+          "title": "特朗普称赞前ICE局长 称其揭露明尼苏达州事件“动机”",
+          "url": "https://flash.jin10.com/detail/20260125150515491800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
           "url": "https://www.zhihu.com/question/1997928471431750878",
           "source": "知乎",
@@ -308,18 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普称赞前ICE局长 称其揭露明尼苏达州事件“动机”",
-          "url": "https://flash.jin10.com/detail/20260125150515491800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时21分]"
         },
         {
           "title": "挪威首相批评特朗普北约言论“有失尊重”",
@@ -333,18 +363,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时53分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时21分]"
         },
         {
           "title": "特朗普上任一年为何引起各方不满",
@@ -394,6 +412,18 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
+          "title": "特朗普：要让世界记住我是伟大总统",
+          "url": "https://www.toutiao.com/trending/7599076884019789878/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普版国防战略报告提台湾0次",
           "url": "https://www.toutiao.com/trending/7598633109889957942/",
           "source": "今日头条",
@@ -403,6 +433,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普外交风格与中美关系的未来",
+          "url": "https://www.toutiao.com/trending/7598942567439695923/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时22分]"
         },
         {
           "title": "深度解析特朗普365天赢学",
@@ -427,6 +468,28 @@
           "time_info": "[15时21分 ~ 15时22分]"
         },
         {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "谢寒冰：特朗普促成中国再次伟大",
           "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%AF%92%E5%86%B0%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E6%88%90%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%AC%A1%E4%BC%9F%E5%A4%A7",
           "source": "百度热搜",
@@ -447,28 +510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "特朗普：要让世界记住我是伟大总统",
-          "url": "https://www.toutiao.com/trending/7599076884019789878/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "特朗普外交风格与中美关系的未来",
-          "url": "https://www.toutiao.com/trending/7598942567439695923/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "特朗普：美国将取得格陵兰岛美军基地所在区域“主权”",
@@ -507,7 +548,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
@@ -587,6 +628,17 @@
           "time_info": "[14时32分 ~ 15时22分]"
         },
         {
+          "title": "伊朗官员：已为最坏情况做好准备",
+          "url": "https://www.toutiao.com/trending/7598489537325023268/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "专家：美对伊朗极限施压增加地区风险",
           "url": "https://www.toutiao.com/trending/7598905967417232939/",
           "source": "今日头条",
@@ -601,7 +653,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "市场消息：叙利亚石油公司开始在近期控制的油田采油，产出将运往霍姆斯和巴尼亚斯炼油厂。",
@@ -651,11 +703,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "沙特政府数据：沙特11月出口额增长10.0%，其中石油出口额增长5.4%。",
@@ -664,11 +717,23 @@
           "ranks": [
             5,
             10,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 18时22分]"
+        },
+        {
+          "title": "消息人士：里海石油管线财团（CPC）3号单点系泊终端（SPM-3）在维护后已启动，准备恢复原油装载。",
+          "url": "https://flash.jin10.com/detail/20260125174025774800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -713,8 +778,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -769,8 +834,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 18时22分]"
         }
       ]
     },
@@ -784,11 +849,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
