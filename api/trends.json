@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T00:31:28.812571+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T01:29:00.488233+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统与沙特王储通话。",
@@ -25,18 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "伊朗总统与沙特王储通电话。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3044874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
         },
@@ -45,11 +34,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
+        },
+        {
+          "title": "伊朗总统与沙特王储通电话。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3044874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "time_info": "[00时31分 ~ 01时29分]"
         },
         {
           "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
@@ -59,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         },
         {
           "title": "以女子看电视发现自己“死”在伊朗",
@@ -72,6 +74,111 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "伊朗总统与沙特王储通电话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3044899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "伊朗总统与沙特王储通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260128004951407800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "伊朗媒体称，伊朗总统在与沙特王储的电话通话中表示，德黑兰一直且仍然欢迎任何旨在防止战争的进程。",
+          "url": "https://flash.jin10.com/detail/20260128002744331800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
+          "url": "https://flash.jin10.com/detail/20260128010748956800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
+        },
+        {
+          "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
+          "url": "https://wallstreetcn.com/livenews/3044866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
+          "url": "https://flash.jin10.com/detail/20260127232506292800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
+          "url": "https://flash.jin10.com/detail/20260128002342619800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         }
       ]
     },
@@ -87,8 +194,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -97,7 +204,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
         },
@@ -108,48 +215,88 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "美元",
       "match_count": 3,
       "titles": [
         {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
+        },
+        {
+          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/3044896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3044859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
+          "url": "https://wallstreetcn.com/livenews/3044878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "time_info": "[00时31分 ~ 01时29分]"
         },
         {
-          "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
-          "url": "https://wallstreetcn.com/livenews/3044866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
-          "url": "https://flash.jin10.com/detail/20260127232506292800",
+          "title": "巴西石油公司高管：进军委内瑞拉可能是一种可选方案。",
+          "url": "https://flash.jin10.com/detail/20260128002941474800",
           "source": "金十数据",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时29分"
+        },
+        {
+          "title": "巴西国家石油公司将于2月将天然气平均价格下调7.8%。",
+          "url": "https://flash.jin10.com/detail/20260128002324780800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         }
       ]
     },
@@ -165,8 +312,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -176,47 +323,48 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
+          "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
+          "url": "https://flash.jin10.com/detail/20260128010307000800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
-          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3044859",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌：为手机推出强大的防盗保护功能。",
+          "url": "https://flash.jin10.com/detail/20260128010248348800",
+          "source": "金十数据",
           "ranks": [
-            17
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时29分"
         }
       ]
     },
@@ -232,25 +380,25 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时29分]"
         }
       ]
     },
     {
-      "keyword_group": "石油 汽油",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
-          "url": "https://wallstreetcn.com/livenews/3044878",
+          "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
+          "url": "https://wallstreetcn.com/livenews/3044891",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时29分"
         }
       ]
     }
