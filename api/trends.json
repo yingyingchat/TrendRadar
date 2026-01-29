@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:43:38.785973+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-01-29T14:46:19.632139+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 14时46分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -140,19 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时43分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -228,6 +229,19 @@
           "time_info": "[01时32分 ~ 02时37分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时46分]"
+        },
+        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -238,18 +252,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时58分 ~ 12时11分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时43分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -336,6 +338,18 @@
           "time_info": "[00时37分 ~ 01时32分]"
         },
         {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时46分]"
+        },
+        {
           "title": "鲍威尔：（鉴于特朗普的司法部发起刑事调查）拒绝置评国会山关键共和党人Thom Tillis发誓要阻挠美联储主席提名人的立场。 美联储独立性这种立法安排已经让美联储很好地服务于美国。 不相信美联储会（因为特朗普而）丧失独立性。 我的同僚们和我本人都强烈致力于维护独立性。",
           "url": "https://wallstreetcn.com/livenews/3045799",
           "source": "华尔街见闻-快讯",
@@ -391,17 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         },
         {
           "title": "报道：特朗普司法部针对鲍威尔的调查仍在继续，美联储尚未履行传票要求",
@@ -495,7 +498,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -560,6 +563,17 @@
           "time_info": "[06时28分 ~ 07时26分]"
         },
         {
+          "title": "伊朗接收俄罗斯装备",
+          "url": "https://www.toutiao.com/trending/7600325965138886662/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "伊朗总统宣布启动紧急状态",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -599,6 +613,18 @@
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.toutiao.com/trending/7600264339626885147/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时46分]"
+        },
+        {
+          "title": "伊朗副外长：做好200%的自卫准备",
           "url": "https://wallstreetcn.com/livenews/3045695",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -634,6 +660,18 @@
           "time_info": "[00时37分 ~ 01时32分]"
         },
         {
+          "title": "关键时刻 伊朗接收俄制武装直升机",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E4%BC%8A%E6%9C%97%E6%8E%A5%E6%94%B6%E4%BF%84%E5%88%B6%E6%AD%A6%E8%A3%85%E7%9B%B4%E5%8D%87%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时46分]"
+        },
+        {
           "title": "美媒：伊朗拒绝就民用铀浓缩和导弹项目妥协",
           "url": "https://wallstreetcn.com/livenews/3046076",
           "source": "华尔街见闻-快讯",
@@ -643,17 +681,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
-        },
-        {
-          "title": "伊朗副外长：做好200%的自卫准备",
-          "url": "https://www.toutiao.com/trending/7600264339626885147/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -678,17 +705,6 @@
           "time_info": "02时37分"
         },
         {
-          "title": "关键时刻 伊朗接收俄制武装直升机",
-          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E4%BC%8A%E6%9C%97%E6%8E%A5%E6%94%B6%E4%BF%84%E5%88%B6%E6%AD%A6%E8%A3%85%E7%9B%B4%E5%8D%87%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
           "title": "伊朗外交部长阿拉奇：德黑兰始终欢迎一项公平的核协议，该协议应确保伊朗的权利并保证不发展核武器。",
           "url": "https://flash.jin10.com/detail/20260129015303460800",
           "source": "金十数据",
@@ -698,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "以色列总理称若遭伊朗袭击必将回击",
+          "url": "https://www.toutiao.com/trending/7600028353815674922/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗武装部队已严阵以待，手指扣在扳机上，随时准备对任何“侵略”作出回应。",
@@ -791,11 +818,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 14时46分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -1011,17 +1039,6 @@
           "time_info": "[00时37分 ~ 09时58分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 13时43分]"
-        },
-        {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
           "url": "https://www.cls.cn/detail/2273420",
           "source": "财联社热门",
@@ -1029,8 +1046,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 14时46分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 14时46分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1077,8 +1106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时46分]"
         },
         {
           "title": "金价",
@@ -1121,7 +1150,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1140,7 +1169,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "雪佛龙将于3月份把委内瑞拉出口至美国的石油提升至（每天）30万桶。（路透）",
@@ -1153,6 +1182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时32分]"
+        },
+        {
+          "title": "卢克石油同意将其国际资产出售给凯雷。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "美国财长贝森特：委内瑞拉原油供应增加意味着汽油价格下降。",
@@ -1205,7 +1245,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1246,7 +1286,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
@@ -1280,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -1349,11 +1400,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时46分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
