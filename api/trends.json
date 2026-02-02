@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T20:59:13.348058+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-02-02T22:05:29.069930+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时49分 ~ 20时59分]"
+          "appearance_count": 7,
+          "time_info": "[17时49分 ~ 22时05分]"
         },
         {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时50分 ~ 20时59分]"
+          "appearance_count": 10,
+          "time_info": "[15时50分 ~ 22时05分]"
         },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -83,6 +83,18 @@
           "time_info": "[14时05分 ~ 17时49分]"
         },
         {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时05分]"
+        },
+        {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
           "url": "https://wallstreetcn.com/livenews/3047820",
           "source": "华尔街见闻-快讯",
@@ -109,18 +121,6 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 20时59分]"
-        },
-        {
           "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
           "source": "澎湃新闻",
@@ -132,17 +132,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 03时24分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "伊朗为何突然在核问题上松口",
@@ -204,17 +193,6 @@
           "time_info": "19时35分"
         },
         {
-          "title": "伊朗表示无意将任何浓缩核材料转移至其他国家",
-          "url": "https://wallstreetcn.com/livenews/3048368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
           "url": "https://news.ifeng.com/c/8qOoftoUdPj",
           "source": "凤凰网",
@@ -224,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
+          "url": "https://news.ifeng.com/c/8qQImZxB0ZO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "伊朗外长：敌方重型武器可以通过抵抗来击败。",
@@ -248,15 +237,16 @@
           "time_info": "19时35分"
         },
         {
-          "title": "伊朗武装部队总参谋长：已做好充分准备回击侵略者",
-          "url": "https://wallstreetcn.com/livenews/3048365",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时05分]"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
@@ -309,6 +299,18 @@
           "time_info": "[06时24分 ~ 07时25分]"
         },
         {
+          "title": "伊朗表示无意将任何浓缩核材料转移至其他国家",
+          "url": "https://wallstreetcn.com/livenews/3048368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时05分]"
+        },
+        {
           "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
           "url": "https://wallstreetcn.com/livenews/3048278",
           "source": "华尔街见闻-快讯",
@@ -321,6 +323,54 @@
           "time_info": "[17时49分 ~ 18时44分]"
         },
         {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时05分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：已做好充分准备回击侵略者",
+          "url": "https://wallstreetcn.com/livenews/3048365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时05分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.douyin.com/hot/2387489",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时05分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.toutiao.com/trending/7602220975286914602/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时05分]"
+        },
+        {
           "title": "武契奇预计伊朗将在48小时内遭袭",
           "url": "https://www.toutiao.com/trending/7602178880666157119/",
           "source": "今日头条",
@@ -331,41 +381,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时49分 ~ 18时44分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 20时59分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.douyin.com/hot/2387489",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 20时59分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.toutiao.com/trending/7602220975286914602/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 20时59分]"
         },
         {
           "title": "伊朗政府公布近期骚乱事件遇难者名单",
@@ -419,7 +434,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -452,7 +467,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -639,7 +654,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -661,7 +676,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -1001,7 +1016,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1023,7 +1038,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1045,7 +1060,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1310,7 +1325,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "石油为何富不了委内瑞拉",
@@ -1382,6 +1397,28 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "巴西国家石油局：巴西12月石油产量达401.5万桶/日，较上年增长17.4%。",
+          "url": "https://flash.jin10.com/detail/20260202214849117800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "巴西国家石油局：巴西石油产量在2025年创下377万桶/日的纪录，比上一年增长12.3%。",
+          "url": "https://flash.jin10.com/detail/20260202214822685800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "南非政府表示，2月份汽油零售价将每升下调65分。",
           "url": "https://flash.jin10.com/detail/20260202174137928800",
           "source": "金十数据",
@@ -1406,6 +1443,18 @@
           "time_info": "[15时50分 ~ 17时49分]"
         },
         {
+          "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
+          "url": "https://www.cls.cn/detail/2277683",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时05分]"
+        },
+        {
           "title": "墨西哥总统宣布将向古巴提供援助并推动恢复石油供应",
           "url": "https://flash.jin10.com/detail/20260202052753919800",
           "source": "金十数据",
@@ -1416,17 +1465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时25分]"
-        },
-        {
-          "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
-          "url": "https://www.cls.cn/detail/2277683",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
@@ -1463,6 +1501,17 @@
           "time_info": "14时05分"
         },
         {
+          "title": "航运数据显示，在贸易商销售的推动下，委内瑞拉1月份石油出口量回升至约80万桶/日，高于12月份的49.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260202212632220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "A股油气股大面积低开，通源石油、中曼石油、准油股份、石化油服、贝肯能源竞价跌停，科力股份、潜能恒信跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3047943",
           "source": "华尔街见闻-快讯",
@@ -1472,6 +1521,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "航运数据显示，1月份，美国是委内瑞拉石油的主要单一目的地，日均出口约28.4万桶",
+          "url": "https://flash.jin10.com/detail/20260202212612915800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "巴西家石油、天然气和生物燃料局：巴西2025年油气产量创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260202212257450800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
@@ -1542,7 +1613,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -1598,11 +1669,12 @@
           "url": "https://www.cls.cn/detail/2278016",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时05分]"
         },
         {
           "title": "市场消息：土耳其提高部分黄金、白银基金的最低价格限制。",
@@ -1637,11 +1709,12 @@
           "url": "https://wallstreetcn.com/livenews/3048366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时05分]"
         },
         {
           "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
