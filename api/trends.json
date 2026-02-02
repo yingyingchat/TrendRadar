@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T12:57:39.702072+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-02-02T14:05:19.647987+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -94,15 +94,16 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
           "source": "凤凰网",
           "ranks": [
-            4
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时06分 ~ 12时57分]"
+          "time_info": "[12时57分 ~ 14时05分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -117,6 +118,18 @@
           "time_info": "[07时24分 ~ 10时06分]"
         },
         {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 14时05分]"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://flash.jin10.com/detail/20260202040727434800",
           "source": "金十数据",
@@ -129,17 +142,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时27分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -165,6 +167,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时25分]"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时05分]"
         },
         {
           "title": "特朗普称希望与伊朗“能够达成协议”",
@@ -202,6 +216,18 @@
           "time_info": "[00时31分 ~ 03时25分]"
         },
         {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时05分]"
+        },
+        {
           "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
           "url": "https://news.ifeng.com/c/8qPOoB0E678",
           "source": "凤凰网",
@@ -237,28 +263,6 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://wallstreetcn.com/livenews/3047836",
           "source": "华尔街见闻-快讯",
@@ -287,15 +291,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
+          "url": "https://flash.jin10.com/detail/20260202134832302800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
@@ -303,11 +318,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 14时05分]"
         },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -408,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
@@ -513,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "以美高级军官商讨对伊朗防务安排",
+          "url": "https://wallstreetcn.com/livenews/3048078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         }
       ]
     },
@@ -529,8 +567,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 14时05分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -554,8 +592,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 14时05分]"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -573,11 +611,12 @@
           "url": "https://www.cls.cn/detail/2277020",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时05分]"
         },
         {
           "title": "金价",
@@ -585,33 +624,36 @@
           "source": "微博",
           "ranks": [
             19,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 12时57分]"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 14时05分]"
         },
         {
           "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
           "url": "https://www.zhihu.com/question/1999853811821463456",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时05分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时05分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -639,7 +681,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "石油为何富不了委内瑞拉",
@@ -648,11 +690,12 @@
           "ranks": [
             10,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 14时05分]"
         },
         {
           "title": "欧佩克+声明：欧佩克+联合部长级监督委员会（JMMC）重申了完全遵守石油产量目标的重要性。",
@@ -730,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "沪指午后跌幅扩大至2%，金属、石油天然气、化工等资源周期股、半导体板块领跌，全市场超3700只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3048099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "A股油气股大面积低开，通源石油、中曼石油、准油股份、石化油服、贝肯能源竞价跌停，科力股份、潜能恒信跌超10%。",
@@ -838,8 +892,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时05分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
