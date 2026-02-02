@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T15:51:04.075613+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-02-02T16:42:50.703063+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -102,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时42分]"
         },
         {
           "title": "如果特朗普下令美军入侵加拿大，会怎样？",
@@ -114,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时42分]"
         },
         {
           "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
@@ -125,8 +125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 16时42分]"
         },
         {
           "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
@@ -138,8 +138,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
+          "url": "https://flash.jin10.com/detail/20260202161737942800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -322,7 +333,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
@@ -334,8 +345,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时42分]"
         },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -362,6 +373,17 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 16时42分]"
+        },
+        {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
           "url": "https://wallstreetcn.com/livenews/3047820",
           "source": "华尔街见闻-快讯",
@@ -386,17 +408,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时05分 ~ 15时51分]"
         },
         {
           "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
@@ -436,6 +447,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时23分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗已召见欧洲国家所有驻伊大使发出书面抗议",
+          "url": "https://wallstreetcn.com/livenews/3048210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
@@ -499,6 +521,18 @@
           "time_info": "[06时24分 ~ 07时25分]"
         },
         {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 16时42分]"
+        },
+        {
           "title": "伊朗政府公布近期骚乱事件遇难者名单",
           "url": "https://news.ifeng.com/c/8qNpkce6tvU",
           "source": "凤凰网",
@@ -508,17 +542,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
         },
         {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
@@ -549,9 +572,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "伊朗方面表示，与美国谈判的框架将在未来几天内敲定。",
+          "url": "https://flash.jin10.com/detail/20260202160404546800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：地区战火将波及美国及其盟友",
+          "url": "https://wallstreetcn.com/livenews/3048192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "塞尔维亚总统武契奇预测伊朗48小时内将遭袭",
@@ -560,7 +605,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -601,7 +646,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -612,8 +657,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时42分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -638,8 +683,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时42分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -653,17 +698,6 @@
           "time_info": "[10时06分 ~ 14时05分]"
         },
         {
-          "title": "这次金价暴跌真的只是因为沃什吗",
-          "url": "https://www.toutiao.com/trending/7602102244296625670/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
-        },
-        {
           "title": "金价暴跌后回收变现火爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -675,15 +709,43 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
-          "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
-          "url": "https://wallstreetcn.com/livenews/3048186",
-          "source": "华尔街见闻-快讯",
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
           "ranks": [
-            5
+            8,
+            9,
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时42分]"
+        },
+        {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时42分]"
+        },
+        {
+          "title": "这次金价暴跌真的只是因为沃什吗",
+          "url": "https://www.toutiao.com/trending/7602102244296625670/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 16时42分]"
         },
         {
           "title": "金价",
@@ -700,30 +762,16 @@
           "time_info": "[10时06分 ~ 15时51分]"
         },
         {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
+          "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
+          "url": "https://wallstreetcn.com/livenews/3048186",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            6,
-            7
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时51分]"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时51分]"
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时42分]"
         },
         {
           "title": "金价暴跌，刚买的金饰能退吗？",
@@ -733,8 +781,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 16时42分]"
         },
         {
           "title": "黄金暴跌为何瑞银却上调金价目标",
@@ -744,8 +792,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 16时42分]"
+        },
+        {
+          "title": "李大霄直播解读金价震荡",
+          "url": "https://www.toutiao.com/trending/7601506327084600886/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -845,6 +904,18 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "多地92号汽油或逼近7元大关",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B092%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E9%80%BC%E8%BF%917%E5%85%83%E5%A4%A7%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 16时42分]"
+        },
+        {
           "title": "墨西哥总统宣布将向古巴提供援助并推动恢复石油供应",
           "url": "https://flash.jin10.com/detail/20260202052753919800",
           "source": "金十数据",
@@ -857,15 +928,16 @@
           "time_info": "[06时24分 ~ 07时25分]"
         },
         {
-          "title": "多地92号汽油或逼近7元大关",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B092%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E9%80%BC%E8%BF%917%E5%85%83%E5%A4%A7%E5%85%B3",
-          "source": "百度热搜",
+          "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3048176",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            13,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
+          "time_info": "[15时51分 ~ 16时42分]"
         },
         {
           "title": "墨西哥总统宣布将向古巴提供援助并推动恢复石油供应",
@@ -888,17 +960,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3048176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "A股油气股大面积低开，通源石油、中曼石油、准油股份、石化油服、贝肯能源竞价跌停，科力股份、潜能恒信跌超10%。",
@@ -1008,8 +1069,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 15时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 16时42分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -1036,7 +1097,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }
