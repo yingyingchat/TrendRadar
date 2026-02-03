@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T18:40:14.188561+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-02-03T19:34:50.915990+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时51分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[14时51分 ~ 19时34分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -39,11 +39,24 @@
           "ranks": [
             15,
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时42分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[15时42分 ~ 19时34分]"
+        },
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时34分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -58,17 +71,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时05分 ~ 16时37分]"
-        },
-        {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 18时40分]"
         },
         {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
@@ -115,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
@@ -348,7 +361,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -533,11 +546,12 @@
           "ranks": [
             19,
             16,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时51分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[14时51分 ~ 19时34分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -717,6 +731,30 @@
           "time_info": "[16时36分 ~ 16时37分]"
         },
         {
+          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260203182007876800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
+        },
+        {
+          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260203181952367800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
+        },
+        {
           "title": "伊朗官方媒体报道，伊朗首都一购物中心发生重大火灾。",
           "url": "https://flash.jin10.com/detail/20260203151731916800",
           "source": "金十数据",
@@ -726,28 +764,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260203182007876800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
-          "url": "https://flash.jin10.com/detail/20260203181952367800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "美国与伊朗将于周五在土耳其伊斯坦布尔会谈。（Axios）",
@@ -855,7 +871,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -881,44 +897,48 @@
           "url": "https://flash.jin10.com/detail/20260203183331813800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
         },
         {
           "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）这将是确保石油市场平衡的另一个因素。",
           "url": "https://flash.jin10.com/detail/20260203183324735800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
         },
         {
           "title": "俄罗斯副总理诺瓦克：（就印度可能削减俄罗斯石油进口）我们目前只看到了公开声明。",
           "url": "https://flash.jin10.com/detail/20260203183226098800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
         },
         {
           "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）我们看到石油供需平衡。",
           "url": "https://flash.jin10.com/detail/20260203183155595800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
         },
         {
           "title": "利比亚国家石油公司主席：到2030年初，我们将拥有可供出口至欧洲的天然气。",
@@ -1048,7 +1068,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1089,8 +1109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 18时40分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 19时34分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1114,6 +1134,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 02时43分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时34分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -1154,18 +1186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时29分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 18时40分]"
         },
         {
           "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
@@ -1345,8 +1365,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 19时34分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -1460,11 +1480,12 @@
           "url": "https://flash.jin10.com/detail/20260203181911181800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时34分]"
         }
       ]
     },
