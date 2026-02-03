@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:51:45.452943+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-02-03T14:52:15.784006+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 14时52分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -51,6 +51,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 14时52分]"
         },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
@@ -86,18 +99,6 @@
           "time_info": "10时05分"
         },
         {
-          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
-          "url": "https://www.cls.cn/detail/2278350",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时51分]"
-        },
-        {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2278428",
           "source": "财联社热门",
@@ -107,8 +108,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 14时52分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 14时52分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -147,16 +161,15 @@
           "time_info": "[00时40分 ~ 01时38分]"
         },
         {
-          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2001948735127643511",
-          "source": "知乎",
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时51分]"
+          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
@@ -437,7 +450,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
@@ -491,11 +504,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 14时52分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -559,17 +573,6 @@
           "time_info": "01时38分"
         },
         {
-          "title": "伊朗总统佩泽希齐扬3日在社交媒体上说，他已指示外交部长阿拉格齐秉持尊严、审慎和务实的原则同美国进行“公平公正谈判”。 (新华社)",
-          "url": "https://wallstreetcn.com/livenews/3048837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
           "title": "据纽约时报：根据伊朗和美国官员的消息，伊朗已表示愿意关闭或暂停其核计划，以此作为对美国的一项重大让步。",
           "url": "https://flash.jin10.com/detail/20260203070202120800",
           "source": "金十数据",
@@ -604,6 +607,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时38分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬3日在社交媒体上说，他已指示外交部长阿拉格齐秉持尊严、审慎和务实的原则同美国进行“公平公正谈判”。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3048837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 14时52分]"
+        },
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "美国与伊朗将于周五在土耳其伊斯坦布尔会谈。（Axios）",
@@ -661,6 +687,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "阿联酋总统外交顾问表示，核问题等关键议题需要与伊朗共同解决。",
+          "url": "https://flash.jin10.com/detail/20260203141639725800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "伊朗航空宣布恢复与土耳其、伊拉克重要航线",
           "url": "https://flash.jin10.com/detail/20260202232925326800",
           "source": "金十数据",
@@ -670,6 +707,144 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "阿联酋总统外交顾问表示，伊朗需要达成协议并重建其经济。",
+          "url": "https://flash.jin10.com/detail/20260203141559416800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "阿联酋总统外交顾问表示，伊朗需要达成协议。",
+          "url": "https://flash.jin10.com/detail/20260203141533913800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "利比亚国家石油公司主席：到2030年初，我们将拥有可供出口至欧洲的天然气。",
+          "url": "https://flash.jin10.com/detail/20260203142542883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "利比亚国家石油公司主席：我们已制定计划，在未来五年内将天然气产量提高至近1万亿标准立方英尺。",
+          "url": "https://flash.jin10.com/detail/20260203142534185800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "穆迪：印度全面转向非俄罗斯石油也可能导致其他地区供应紧张，推高油价，并最终导致更高的通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260203132429037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "印度官员宣称，美国将针对购买俄罗斯石油撤销25%的惩罚性关税。 印度同意，未来五年购买5000亿美元（美国产品）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "利比亚国家石油公司主席：约37家公司参与了招标，结果将于2月11日公布。",
+          "url": "https://flash.jin10.com/detail/20260203141950901800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "卓创资讯：截至2月2日收盘，国内第10个工作日参考原油变化率4.71%，汽、柴油零售限价每吨分别上调205、195元，升价92#汽油、95#汽油、0#柴油分别上调0.16、0.17、0.17元，调价窗口为2月3日24时，将达成2026年首次“二连涨”。",
+          "url": "https://wallstreetcn.com/livenews/3048791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "印度官员：与美国的贸易协定，解决了华盛顿方面关于削减印度在汽车等领域高额关税的要求。 与美国的贸易协定涵盖了部分农产品。 根据协议，印度承诺购买的美国商品包括石油、国防产品、电子产品、制药产品、电信产品以及飞机。 关于涉及更多领域的更全面协议的谈判仍将继续。",
+          "url": "https://wallstreetcn.com/livenews/3048813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "汇丰：将埃克森美孚石油(XOM.N)目标股价从125美元上调至135美元。",
+          "url": "https://flash.jin10.com/detail/20260203141922699800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "美国财政部发放与委内瑞拉相关的通用许可证。 允许3月20日开始某些与委内瑞拉石油公司PDVSA相关的活动。",
+          "url": "https://wallstreetcn.com/livenews/3048440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "金十图示：2026年02月03日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、石油和保险板块领跌，酿酒涨跌互现",
+          "url": "https://flash.jin10.com/detail/20260203113306399800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
@@ -677,17 +852,6 @@
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
-        {
-          "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时43分]"
-        },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
@@ -697,8 +861,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 14时52分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -709,8 +873,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 14时52分]"
+        },
+        {
+          "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -864,7 +1039,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -875,81 +1050,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石油 汽油",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "穆迪：印度全面转向非俄罗斯石油也可能导致其他地区供应紧张，推高油价，并最终导致更高的通货膨胀。",
-          "url": "https://flash.jin10.com/detail/20260203132429037800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "印度官员宣称，美国将针对购买俄罗斯石油撤销25%的惩罚性关税。 印度同意，未来五年购买5000亿美元（美国产品）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3048487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "卓创资讯：截至2月2日收盘，国内第10个工作日参考原油变化率4.71%，汽、柴油零售限价每吨分别上调205、195元，升价92#汽油、95#汽油、0#柴油分别上调0.16、0.17、0.17元，调价窗口为2月3日24时，将达成2026年首次“二连涨”。",
-          "url": "https://wallstreetcn.com/livenews/3048791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "印度官员：与美国的贸易协定，解决了华盛顿方面关于削减印度在汽车等领域高额关税的要求。 与美国的贸易协定涵盖了部分农产品。 根据协议，印度承诺购买的美国商品包括石油、国防产品、电子产品、制药产品、电信产品以及飞机。 关于涉及更多领域的更全面协议的谈判仍将继续。",
-          "url": "https://wallstreetcn.com/livenews/3048813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "美国财政部发放与委内瑞拉相关的通用许可证。 允许3月20日开始某些与委内瑞拉石油公司PDVSA相关的活动。",
-          "url": "https://wallstreetcn.com/livenews/3048440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "金十图示：2026年02月03日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、石油和保险板块领跌，酿酒涨跌互现",
-          "url": "https://flash.jin10.com/detail/20260203113306399800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         }
       ]
     },
@@ -966,8 +1069,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 14时52分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
