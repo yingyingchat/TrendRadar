@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:05:56.610545+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2026-02-04T23:43:43.428015+08:00",
+  "total_titles_processed": 2148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -91,6 +91,39 @@
           "time_info": "[00时53分 ~ 06时30分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时43分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时43分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时43分]"
+        },
+        {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
           "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
           "source": "凤凰网",
@@ -104,36 +137,14 @@
         },
         {
           "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -181,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
+          "url": "https://flash.jin10.com/detail/20260204233806408800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "哥伦比亚总统佩特罗：和美国总统特朗普讨论了出口委内瑞拉天然气的问题。",
@@ -310,6 +332,17 @@
           "time_info": "[00时53分 ~ 01时53分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
@@ -367,6 +400,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时36分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
         },
         {
           "title": "特朗普与爱泼斯坦聚会视频曝光",
@@ -541,7 +585,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -689,6 +733,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普回应爱泼斯坦案：我是清白的",
           "url": "https://www.toutiao.com/trending/7602412254818140203/",
           "source": "今日头条",
@@ -802,7 +857,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "美军击落伊朗无人机",
@@ -818,6 +873,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时28分 ~ 18时38分]"
+        },
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 23时43分]"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -848,21 +919,6 @@
           "time_info": "[13时48分 ~ 22时05分]"
         },
         {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 22时05分]"
-        },
-        {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
           "url": "https://news.ifeng.com/c/8qTVQYD7em2",
           "source": "凤凰网",
@@ -871,8 +927,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时05分]"
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 23时43分]"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 23时43分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -896,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "伊朗和沙特外交部长在电话中讨论了地区局势。",
+          "url": "https://flash.jin10.com/detail/20260204234058610800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
@@ -940,18 +1019,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 22时05分]"
         },
         {
           "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
@@ -1023,6 +1090,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时45分]"
+        },
+        {
+          "title": "美军：击落一架“挑衅性”接近美军航母的伊朗无人机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32527648",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
         },
         {
           "title": "伊朗称失联无人机曾传回图片",
@@ -1108,7 +1186,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1185,7 +1263,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1295,7 +1373,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1339,7 +1417,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1380,7 +1458,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1391,8 +1469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时00分 ~ 22时05分]"
+          "appearance_count": 17,
+          "time_info": "[10时00分 ~ 23时43分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -1404,8 +1482,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时48分 ~ 22时05分]"
+          "appearance_count": 13,
+          "time_info": "[13时48分 ~ 23时43分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1464,8 +1542,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时16分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 23时43分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1564,6 +1642,18 @@
           "time_info": "[06时30分 ~ 07时28分]"
         },
         {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时43分]"
+        },
+        {
           "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
           "url": "https://wallstreetcn.com/livenews/3049332",
           "source": "华尔街见闻-快讯",
@@ -1642,17 +1732,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1752,6 +1831,358 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "对华石油出口骤降，委大使答凤凰提问：合作不会受影响",
+          "url": "https://news.ifeng.com/c/8qSpodwGp7D",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "马拉松石油(MRO.N)高管表示，公司在一月底购买了两批委内瑞拉原油。",
+          "url": "https://flash.jin10.com/detail/20260204002948933800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "强掳马杜罗后的一个月里，美国如何步步攫取委内瑞拉石油利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32526287",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 23时43分]"
+        },
+        {
+          "title": "克里姆林宫：在印度和俄罗斯石油问题上尚未出现任何新进展。",
+          "url": "https://flash.jin10.com/detail/20260204181127597800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：由于严寒天气冲击的缘故，美国石油库存降幅创2016年以来（同期）最大。 美国上周EIA原油库存下降345.5万桶，彭博用户预计下降670万桶、分析师预期减少47.483万桶，之前一周下降229.5万桶。 美国石油协会（API）此前发布的行业版数据显示，美国上周API原油库存锐减1107.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3049992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "A股油气股再度拉升，洲际油气直线涨停，准油股份、通源石油、石化油服、山东墨龙、潜能恒信等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3049628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "美国1月30日当周EIA汽油库存变动 68.5万桶，预期 75.5万桶，前值 22.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3049991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "克里姆林宫：（被问及印度多元化石油供应的计划）意识到俄罗斯并非唯一的供应国。",
+          "url": "https://flash.jin10.com/detail/20260204181110245800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3049339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时30分]"
+        },
+        {
+          "title": "美国交通部批准向石油运输与存储公司Sentinel Midstream发放许可证，允许其在得克萨斯州建设深水石油出口港口项目。",
+          "url": "https://flash.jin10.com/detail/20260204041343094800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3049301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国至1月30日当周EIA车用汽油总产量引伸需求数据 911.1万桶/日，前值961.93万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260204233128905800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "墨西哥推进与美国之家的外交谈判，希望继续向古巴供应石油。 墨西哥国家石油公司PEMEX的CEO称，去年向古巴（出口）销售价值4.96亿美元的石油和燃料。",
+          "url": "https://wallstreetcn.com/livenews/3049980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "阿布扎比国家石油公司据悉计划发行不超过140亿元人民币点心债。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3049566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "美国至1月30日当周EIA战略石油储备库存 21.4万桶，前值51.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260204233010199800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "马来西亚国家石油公司：公司将在20年内从卡塔尔能源公司每年最多采购200万吨液化天然气。",
+          "url": "https://flash.jin10.com/detail/20260204112343867800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "委内瑞拉首席经济顾问：希望委内瑞拉以拥有最高石油产量水平之一的国家而闻名。",
+          "url": "https://flash.jin10.com/detail/20260204171246731800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "报道：美国拟发通用许可证，允许企业在委内瑞拉开采石油",
+          "url": "https://wallstreetcn.com/livenews/3049209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "马来西亚国家石油公司：马来西亚国家石油公司与卡塔尔能源签署20年液化天然气供应协议。",
+          "url": "https://flash.jin10.com/detail/20260204112217245800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
+          "title": "俄罗斯外交部：（回应印度购买俄罗斯石油事宜）这有利于两国，并有助于维护国际能源市场的稳定。",
+          "url": "https://flash.jin10.com/detail/20260204202348600800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "美国至1月30日当周EIA汽油产量 -56.5万桶/日，前值79.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260204233004037800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "马拉松石油(MRO.N)表示，其包括加里维尔在内的炼油厂能够迅速转产处理委内瑞拉原油。",
+          "url": "https://flash.jin10.com/detail/20260204000937618800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "俄罗斯外交部：（回应印度购买俄罗斯石油事宜）我们没有理由认为我们的印度朋友已经重新考虑其立场。",
+          "url": "https://flash.jin10.com/detail/20260204202256466800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "消息人士：美国政府正努力尽快向委内瑞拉颁发石油和天然气生产通用许可证。",
+          "url": "https://flash.jin10.com/detail/20260204021131908800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "俄罗斯财政部：1月份石油和天然气销售为国家预算带来3933亿卢布收入，低于12月份的4478亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260204170255631800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "市场消息：科威特国际石油公司与阿曼国家能源集团OQ签署协议，将在杜库姆开发石化综合体。",
+          "url": "https://flash.jin10.com/detail/20260204005909223800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国至1月30日当周EIA汽油库存 68.5万桶，预期138.9万桶，前值22.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260204233003356800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "挪威国家石油公司（Equinor）第四季度调整后税后营业收入为15.5亿美元，市场预期为15.9亿美元。 第四季度总收入为253.5亿美元，市场预期为224.7亿美元。 第四季度挪威勘探与生产调整后收入为78.3亿美元，同比下降15%，市场预期为78.2亿美元。 第四季度国际勘探与生产调整后收入为8.77亿美元，同比下降36%，市场预期为12亿美元。 第四季度美国勘探与生产调整后收入为10.5亿美元，同比增长9.2%，市场预期为10.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "美国至1月30日当周EIA新配方汽油库存 0.9万桶，前值-0.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260204233003353800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国至1月30日当周API汽油库存 473.6万桶，预期44.5万桶，前值-41.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260204053513056800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         }
       ]
     },
@@ -2020,258 +2451,6 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "对华石油出口骤降，委大使答凤凰提问：合作不会受影响",
-          "url": "https://news.ifeng.com/c/8qSpodwGp7D",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
-        },
-        {
-          "title": "马拉松石油(MRO.N)高管表示，公司在一月底购买了两批委内瑞拉原油。",
-          "url": "https://flash.jin10.com/detail/20260204002948933800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "克里姆林宫：在印度和俄罗斯石油问题上尚未出现任何新进展。",
-          "url": "https://flash.jin10.com/detail/20260204181127597800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "A股油气股再度拉升，洲际油气直线涨停，准油股份、通源石油、石化油服、山东墨龙、潜能恒信等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3049628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "克里姆林宫：（被问及印度多元化石油供应的计划）意识到俄罗斯并非唯一的供应国。",
-          "url": "https://flash.jin10.com/detail/20260204181110245800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3049339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时30分]"
-        },
-        {
-          "title": "强掳马杜罗后的一个月里，美国如何步步攫取委内瑞拉石油利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32526287",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 22时05分]"
-        },
-        {
-          "title": "美国交通部批准向石油运输与存储公司Sentinel Midstream发放许可证，允许其在得克萨斯州建设深水石油出口港口项目。",
-          "url": "https://flash.jin10.com/detail/20260204041343094800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3049301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "阿布扎比国家石油公司据悉计划发行不超过140亿元人民币点心债。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3049566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "马来西亚国家石油公司：公司将在20年内从卡塔尔能源公司每年最多采购200万吨液化天然气。",
-          "url": "https://flash.jin10.com/detail/20260204112343867800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "委内瑞拉首席经济顾问：希望委内瑞拉以拥有最高石油产量水平之一的国家而闻名。",
-          "url": "https://flash.jin10.com/detail/20260204171246731800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "报道：美国拟发通用许可证，允许企业在委内瑞拉开采石油",
-          "url": "https://wallstreetcn.com/livenews/3049209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "马来西亚国家石油公司：马来西亚国家石油公司与卡塔尔能源签署20年液化天然气供应协议。",
-          "url": "https://flash.jin10.com/detail/20260204112217245800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "俄罗斯外交部：（回应印度购买俄罗斯石油事宜）这有利于两国，并有助于维护国际能源市场的稳定。",
-          "url": "https://flash.jin10.com/detail/20260204202348600800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "马拉松石油(MRO.N)表示，其包括加里维尔在内的炼油厂能够迅速转产处理委内瑞拉原油。",
-          "url": "https://flash.jin10.com/detail/20260204000937618800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "俄罗斯外交部：（回应印度购买俄罗斯石油事宜）我们没有理由认为我们的印度朋友已经重新考虑其立场。",
-          "url": "https://flash.jin10.com/detail/20260204202256466800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "消息人士：美国政府正努力尽快向委内瑞拉颁发石油和天然气生产通用许可证。",
-          "url": "https://flash.jin10.com/detail/20260204021131908800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "俄罗斯财政部：1月份石油和天然气销售为国家预算带来3933亿卢布收入，低于12月份的4478亿卢布。",
-          "url": "https://flash.jin10.com/detail/20260204170255631800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "市场消息：科威特国际石油公司与阿曼国家能源集团OQ签署协议，将在杜库姆开发石化综合体。",
-          "url": "https://flash.jin10.com/detail/20260204005909223800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "挪威国家石油公司（Equinor）第四季度调整后税后营业收入为15.5亿美元，市场预期为15.9亿美元。 第四季度总收入为253.5亿美元，市场预期为224.7亿美元。 第四季度挪威勘探与生产调整后收入为78.3亿美元，同比下降15%，市场预期为78.2亿美元。 第四季度国际勘探与生产调整后收入为8.77亿美元，同比下降36%，市场预期为12亿美元。 第四季度美国勘探与生产调整后收入为10.5亿美元，同比增长9.2%，市场预期为10.4亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3049595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "美国至1月30日当周API汽油库存 473.6万桶，预期44.5万桶，前值-41.5万桶。",
-          "url": "https://flash.jin10.com/detail/20260204053513056800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 11,
       "titles": [
@@ -2426,8 +2605,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时28分 ~ 22时05分]"
+          "appearance_count": 18,
+          "time_info": "[07时28分 ~ 23时43分]"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
