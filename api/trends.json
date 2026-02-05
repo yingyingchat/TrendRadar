@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T10:02:39.912703+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-02-05T12:48:00.183166+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 12时48分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -63,11 +63,12 @@
             15,
             9,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时45分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时45分 ~ 12时48分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -81,6 +82,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时47分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时48分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -105,15 +117,15 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -314,7 +326,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -374,6 +386,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "特朗普降息言论难抵金银抛售潮 流动性匮乏放大波动",
+          "url": "https://flash.jin10.com/detail/20260205113340203800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -383,6 +406,275 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
+        },
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时02分]"
+        },
+        {
+          "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
+          "url": "https://wallstreetcn.com/livenews/3050078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时33分]"
+        },
+        {
+          "title": "伊朗外长：伊美谈判将于6日在阿曼举行",
+          "url": "https://wallstreetcn.com/livenews/3050084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时33分]"
+        },
+        {
+          "title": "美国官员证实，伊朗与美国将于周五在阿曼举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260205040545234800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时33分]"
+        },
+        {
+          "title": "伊朗外长：与美国的核谈判定于当地时间周五上午10点左右在马斯喀特举行。",
+          "url": "https://flash.jin10.com/detail/20260205034933657800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时33分]"
+        },
+        {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时48分]"
+        },
+        {
+          "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
+          "url": "https://news.ifeng.com/c/8qTBVSJTlkn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "伊朗消息人士：美方泄露谈判取消表明其缺乏诚意",
+          "url": "https://wallstreetcn.com/livenews/3050065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时35分]"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
+        },
+        {
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260205011321847800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "据伊朗官方媒体：伊朗外长阿拉格齐将在阿曼阐明德黑兰就与美国谈判的官方立场。",
+          "url": "https://flash.jin10.com/detail/20260205033849384800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "伊朗高级官员：与美国在阿曼的会谈只涉及核问题，导弹计划不在谈判桌上。",
+          "url": "https://flash.jin10.com/detail/20260205000326169800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
+          "url": "https://flash.jin10.com/detail/20260205031941337800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗谈判还必须解决抗议活动和代理组织问题。",
+          "url": "https://flash.jin10.com/detail/20260204235139061800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
+          "url": "https://flash.jin10.com/detail/20260204234340449800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗存在严重的美元短缺问题。",
+          "url": "https://flash.jin10.com/detail/20260204234331988800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "伊朗高级官员：美国执意就“非核”问题进行讨论，这可能会危及在阿曼举行的会谈。德黑兰“已做好充分准备，只就核问题与美国举行会谈”。",
+          "url": "https://flash.jin10.com/detail/20260205014818035800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗谈判的地点仍在商定中。",
+          "url": "https://flash.jin10.com/detail/20260204234208690800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：与伊朗的谈判若要取得有意义的成果，就必须包括弹道导弹议题。",
+          "url": "https://flash.jin10.com/detail/20260204234146798800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "伊朗和沙特外交部长在电话中讨论了地区局势。",
+          "url": "https://flash.jin10.com/detail/20260204234058610800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "伊朗消息人士：美方泄露取消谈判消息表明其缺乏诚意",
+          "url": "https://flash.jin10.com/detail/20260205043821955800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -441,6 +733,18 @@
           "time_info": "[00时47分 ~ 10时02分]"
         },
         {
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时48分]"
+        },
+        {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
           "url": "https://wallstreetcn.com/livenews/3050135",
           "source": "华尔街见闻-快讯",
@@ -450,18 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
-          "url": "https://www.cls.cn/detail/2280969",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 10时02分]"
         },
         {
           "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
@@ -612,7 +904,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -652,266 +944,20 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 22,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 17,
       "titles": [
         {
-          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
-          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
-          "source": "凤凰网",
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时27分]"
-        },
-        {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时02分]"
-        },
-        {
-          "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
-          "url": "https://wallstreetcn.com/livenews/3050078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            30
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时38分 ~ 05时33分]"
+          "time_info": "[10时02分 ~ 12时48分]"
         },
-        {
-          "title": "伊朗外长：伊美谈判将于6日在阿曼举行",
-          "url": "https://wallstreetcn.com/livenews/3050084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时33分]"
-        },
-        {
-          "title": "美国官员证实，伊朗与美国将于周五在阿曼举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260205040545234800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时33分]"
-        },
-        {
-          "title": "伊朗外长：与美国的核谈判定于当地时间周五上午10点左右在马斯喀特举行。",
-          "url": "https://flash.jin10.com/detail/20260205034933657800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时33分]"
-        },
-        {
-          "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
-          "url": "https://news.ifeng.com/c/8qTBVSJTlkn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "伊朗消息人士：美方泄露谈判取消表明其缺乏诚意",
-          "url": "https://wallstreetcn.com/livenews/3050065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时35分]"
-        },
-        {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260205011321847800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "据伊朗官方媒体：伊朗外长阿拉格齐将在阿曼阐明德黑兰就与美国谈判的官方立场。",
-          "url": "https://flash.jin10.com/detail/20260205033849384800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "伊朗高级官员：与美国在阿曼的会谈只涉及核问题，导弹计划不在谈判桌上。",
-          "url": "https://flash.jin10.com/detail/20260205000326169800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
-          "url": "https://flash.jin10.com/detail/20260205031941337800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗谈判还必须解决抗议活动和代理组织问题。",
-          "url": "https://flash.jin10.com/detail/20260204235139061800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
-          "url": "https://flash.jin10.com/detail/20260204234340449800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国财长贝森特：伊朗存在严重的美元短缺问题。",
-          "url": "https://flash.jin10.com/detail/20260204234331988800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "伊朗高级官员：美国执意就“非核”问题进行讨论，这可能会危及在阿曼举行的会谈。德黑兰“已做好充分准备，只就核问题与美国举行会谈”。",
-          "url": "https://flash.jin10.com/detail/20260205014818035800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗谈判的地点仍在商定中。",
-          "url": "https://flash.jin10.com/detail/20260204234208690800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：与伊朗的谈判若要取得有意义的成果，就必须包括弹道导弹议题。",
-          "url": "https://flash.jin10.com/detail/20260204234146798800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "伊朗和沙特外交部长在电话中讨论了地区局势。",
-          "url": "https://flash.jin10.com/detail/20260204234058610800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "伊朗消息人士：美方泄露取消谈判消息表明其缺乏诚意",
-          "url": "https://flash.jin10.com/detail/20260205043821955800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
-      "titles": [
         {
           "title": "提醒：谷歌母公司Alphabet电话会结束。",
           "url": "https://wallstreetcn.com/livenews/3050134",
@@ -922,17 +968,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -1007,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时27分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -1105,7 +1151,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "强掳马杜罗后的一个月里，美国如何步步攫取委内瑞拉石油利益",
@@ -1116,11 +1162,12 @@
             12,
             13,
             15,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 12时48分]"
         },
         {
           "title": "美国财长贝森特：我们将引入外部审计师来监控流向委内瑞拉的石油资金。",
@@ -1140,7 +1187,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1175,7 +1222,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1211,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "印尼能源部官员：印尼计划于2028年对汽油强制实施10%的生物乙醇含量标准。",
+          "url": "https://flash.jin10.com/detail/20260205114140386800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "墨西哥推进与美国之家的外交谈判，希望继续向古巴供应石油。 墨西哥国家石油公司PEMEX的CEO称，去年向古巴（出口）销售价值4.96亿美元的石油和燃料。",
@@ -1313,11 +1371,12 @@
             12,
             10,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 12时48分]"
         }
       ]
     },
