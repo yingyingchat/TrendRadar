@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:41:35.267263+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-02-06T17:42:53.230843+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,23 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 17时42分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时41分]"
+          "time_info": "[12时21分 ~ 17时42分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -30,20 +45,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时21分 ~ 15时47分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时41分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -63,9 +64,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -311,7 +312,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -360,6 +361,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "特朗普转发李小龙武打视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
           "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
@@ -402,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "据伊朗国家电视台报道：特朗普高级顾问库什纳也将出席伊美会谈。",
+          "url": "https://flash.jin10.com/detail/20260206164225309800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "特朗普：与其延长 不如制定美俄核军控新条约",
@@ -448,6 +471,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
           "url": "https://flash.jin10.com/detail/20260206020251009800",
           "source": "金十数据",
@@ -484,7 +518,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -500,6 +534,21 @@
           "time_info": "[00时47分 ~ 07时23分]"
         },
         {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时42分]"
+        },
+        {
           "title": "美国伊朗谈判今日举行",
           "url": "https://www.douyin.com/hot/2391128",
           "source": "抖音",
@@ -512,20 +561,6 @@
           "time_info": "[12时21分 ~ 15时47分]"
         },
         {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时41分]"
-        },
-        {
           "title": "中方阐明在伊朗问题上的原则立场",
           "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
           "source": "凤凰网",
@@ -534,8 +569,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时42分]"
         },
         {
           "title": "贝森特：看到伊朗啥样了吧，我们干的",
@@ -545,8 +580,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 16时41分]"
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时42分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -621,7 +656,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -698,6 +733,18 @@
           "time_info": "[05时28分 ~ 06时26分]"
         },
         {
+          "title": "伊朗外交部：抵制美国“任何过分的要求或冒险行为”",
+          "url": "https://wallstreetcn.com/livenews/3051265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
+        },
+        {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
           "url": "https://wallstreetcn.com/livenews/3050845",
           "source": "华尔街见闻-快讯",
@@ -743,17 +790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
-        },
-        {
-          "title": "伊朗外交部：抵制美国“任何过分的要求或冒险行为”",
-          "url": "https://wallstreetcn.com/livenews/3051265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -833,6 +869,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "如何看待伊朗导弹号称能击沉美航母",
+          "url": "https://www.toutiao.com/trending/7603646111869308457/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
           "url": "https://flash.jin10.com/detail/20260206025617070800",
           "source": "金十数据",
@@ -891,7 +938,7 @@
     },
     {
       "keyword_group": "币圈 比特币",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
@@ -912,8 +959,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 17时42分]"
+        },
+        {
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 17时42分]"
         },
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -925,18 +984,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 06时26分]"
-        },
-        {
-          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
-          "url": "https://wallstreetcn.com/articles/3765079",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时41分]"
         },
         {
           "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
@@ -971,11 +1018,12 @@
             20,
             17,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时46分 ~ 16时41分]"
+          "appearance_count": 13,
+          "time_info": "[02时46分 ~ 17时42分]"
         },
         {
           "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
@@ -985,8 +1033,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时42分]"
         },
         {
           "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
@@ -997,8 +1045,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时42分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -1083,6 +1131,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "加密市场24小时58万人爆仓！“大空头”：比特币恐重演2022年崩盘模式",
+          "url": "https://www.cls.cn/detail/2282592",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "比特币重挫破 6.5 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
           "url": "https://www.zhihu.com/question/2002848288005718086",
           "source": "知乎",
@@ -1116,6 +1175,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "黄金白银比特币暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%AF%94%E7%89%B9%E5%B8%81%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "经济学家警告比特币持续暴跌风险",
           "url": "https://www.toutiao.com/trending/7603358148941843974/",
           "source": "今日头条",
@@ -1141,7 +1211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -1235,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -1551,11 +1632,12 @@
           "url": "https://flash.jin10.com/detail/20260206163550587800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -1677,11 +1759,12 @@
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 17时42分]"
         }
       ]
     },
