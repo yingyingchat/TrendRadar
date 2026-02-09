@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:31:42.695767+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-09T10:08:46.753073+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -126,11 +126,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时08分]"
         },
         {
           "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
@@ -179,11 +180,12 @@
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时08分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -225,11 +227,12 @@
           "ranks": [
             14,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时08分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -307,8 +310,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时08分]"
         }
       ]
     }
