@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T21:13:10.061514+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-02-10T22:58:48.148162+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -64,11 +64,12 @@
           "url": "https://news.ifeng.com/c/8qdLiMlCmog",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 22时58分]"
         },
         {
           "title": "据华尔街日报：美国总统特朗普将在大规模监管撤销中推翻具有里程碑意义的气候裁决。",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
+          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
@@ -306,6 +318,28 @@
           "time_info": "03时14分"
         },
         {
+          "title": "特朗普表面祝贺高市私下大发雷霆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "比亚迪起诉特朗普政府：退钱！",
+          "url": "https://wallstreetcn.com/livenews/3053101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
           "url": "https://flash.jin10.com/detail/20260210020706988800",
           "source": "金十数据",
@@ -342,7 +376,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -353,8 +387,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 21时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 22时58分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -389,9 +423,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -466,6 +511,18 @@
           "time_info": "[05时39分 ~ 06时36分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 22时58分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 甲骨文涨超9%",
           "url": "https://flash.jin10.com/detail/20260210050104456800",
           "source": "金十数据",
@@ -502,17 +559,6 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
-          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2286272",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 21时13分]"
-        },
-        {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3052510",
           "source": "华尔街见闻-快讯",
@@ -525,13 +571,24 @@
           "time_info": "[05时39分 ~ 06时36分]"
         },
         {
+          "title": "美股开盘，道指涨0.11%，标普500指数涨0.13%，纳指涨0.1%。标普全球(SPGI.N)跌5.7%，2026年利润展望低于市场预期。指数提供商和分析公司股票跟跌，穆迪(MCO.N)跌6.89%。华纳兄弟探索公司(WBD.O)涨2.1%，派拉蒙新增收购额外补偿费用。",
+          "url": "https://flash.jin10.com/detail/20260210223027072800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美银警告美股原材料板块出现泡沫化价格波动",
           "url": "https://flash.jin10.com/detail/20260210204541121800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -542,7 +599,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -556,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "网络股指数ETF涨0.92%，可选消费ETF涨0.67%，全球科技股指数ETF涨0.45%，科技行业ETF涨0.31%，在美股盘初领跑行业ETF，生物科技指数ETF则跌0.2%，全球航空业ETF跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "台积电美股盘前涨2.5%。台积电1月销售额同比增长36.8%。",
@@ -586,7 +654,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -600,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "派拉蒙维持美股30美元收购华纳兄弟探索的报价不变，增加往外补偿费",
+          "url": "https://wallstreetcn.com/livenews/3053092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美股延续涨势，纳指上涨1%。",
@@ -627,7 +706,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -660,9 +739,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "谷歌母公司Alphabet发行创历史纪录的瑞郎债券，融资超过30亿瑞郎。 谷歌A跌幅扩大至2.7%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3053118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -682,7 +772,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -693,7 +783,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -748,7 +838,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -770,9 +860,159 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "日本石油天然气和金属国家公司：日本1月液化天然气现货合同价格为每百万英热单位11.30美元；日本1月液化天然气现货到岸价格为11.20美元/百万英热单位。",
+          "url": "https://flash.jin10.com/detail/20260210121620188800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "壳牌CEO：我们近期无需收购任何石油资产。",
+          "url": "https://flash.jin10.com/detail/20260210173605258800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "夜盘期货开盘，低硫燃油、液化石油气涨逾1%，燃油、原油、烧碱等上涨；沪锡、焦煤、玻璃、沪银等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3053056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 布伦特4月原油期货收涨0.99美元，涨幅1.45%，报69.04美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3052489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时39分]"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，低硫燃料油、液化石油气、丙烯涨超1%，SC原油涨近1%。下跌方面，沪锡、焦煤、玻璃跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260210210001464800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、半导体、石油、消费电子等多个板块走势分化，保险、酿酒行业全线下跌",
+          "url": "https://flash.jin10.com/detail/20260210113504720800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "英国石油临时CEO：2025年供应、贸易与航运业务连续第六年为回报率贡献约4%的平均增幅。",
+          "url": "https://flash.jin10.com/detail/20260210171409380800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "美国能源部长拟访问委内瑞拉，称推翻马杜罗政权不是为了石油",
+          "url": "https://www.cls.cn/detail/2285127",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "欧盟文件显示，欧盟提议在新一轮制裁方案中将俄罗斯上市石油公司巴什内夫特列入制裁名单。",
+          "url": "https://flash.jin10.com/detail/20260210010724909800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国贸易代表格里尔：我们必须评估美墨加协定。 与印度讨论了来自委内瑞拉的石油。 印尼贸易协议将是下一个重大协议。",
+          "url": "https://wallstreetcn.com/livenews/3053035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "美国贸易代表格里尔：已就来自委内瑞拉的石油与印度进行了商谈。",
+          "url": "https://flash.jin10.com/detail/20260210201751067800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "英国石油公司上游业务主管：公司不急于为巴西布梅朗吉油田（Bumerangue）寻找合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260210214416013800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "英国石油公司CFO：暂停股票回购体现严格的财务纪律。",
+          "url": "https://flash.jin10.com/detail/20260210214104815800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
@@ -854,7 +1094,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -905,134 +1145,6 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "日本石油天然气和金属国家公司：日本1月液化天然气现货合同价格为每百万英热单位11.30美元；日本1月液化天然气现货到岸价格为11.20美元/百万英热单位。",
-          "url": "https://flash.jin10.com/detail/20260210121620188800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "壳牌CEO：我们近期无需收购任何石油资产。",
-          "url": "https://flash.jin10.com/detail/20260210173605258800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "夜盘期货开盘，低硫燃油、液化石油气涨逾1%，燃油、原油、烧碱等上涨；沪锡、焦煤、玻璃、沪银等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3053056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 布伦特4月原油期货收涨0.99美元，涨幅1.45%，报69.04美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3052489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时39分]"
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约涨跌不一，低硫燃料油、液化石油气、丙烯涨超1%，SC原油涨近1%。下跌方面，沪锡、焦煤、玻璃跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260210210001464800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "金十图示：2026年02月10日（周二）富时中国A50指数成分股午盘收盘行情一览：银行、半导体、石油、消费电子等多个板块走势分化，保险、酿酒行业全线下跌",
-          "url": "https://flash.jin10.com/detail/20260210113504720800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "英国石油临时CEO：2025年供应、贸易与航运业务连续第六年为回报率贡献约4%的平均增幅。",
-          "url": "https://flash.jin10.com/detail/20260210171409380800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "美国能源部长拟访问委内瑞拉，称推翻马杜罗政权不是为了石油",
-          "url": "https://www.cls.cn/detail/2285127",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "欧盟文件显示，欧盟提议在新一轮制裁方案中将俄罗斯上市石油公司巴什内夫特列入制裁名单。",
-          "url": "https://flash.jin10.com/detail/20260210010724909800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "美国贸易代表格里尔：我们必须评估美墨加协定。 与印度讨论了来自委内瑞拉的石油。 印尼贸易协议将是下一个重大协议。",
-          "url": "https://wallstreetcn.com/livenews/3053035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国贸易代表格里尔：已就来自委内瑞拉的石油与印度进行了商谈。",
-          "url": "https://flash.jin10.com/detail/20260210201751067800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1043,11 +1155,12 @@
           "ranks": [
             20,
             16,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 21时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 22时58分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
@@ -1070,6 +1183,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3052498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时39分]"
+        },
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260210044510192800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时36分]"
+        },
+        {
+          "title": "新兴市场货币指数刷新日高，美元走软。",
+          "url": "https://wallstreetcn.com/livenews/3053114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
@@ -1139,36 +1293,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3052498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时39分]"
-        },
-        {
-          "title": "美元指数9日下跌",
-          "url": "https://flash.jin10.com/detail/20260210044510192800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时36分]"
         }
       ]
     },
