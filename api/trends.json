@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:05:02.674841+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-02-24T23:04:26.154985+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 21时05分]"
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时04分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 21时05分]"
+          "appearance_count": 9,
+          "time_info": "[16时48分 ~ 23时04分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -78,6 +78,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时57分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时04分]"
         },
         {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
@@ -109,25 +124,12 @@
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 21时05分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 21时05分]"
+          "appearance_count": 9,
+          "time_info": "[16时48分 ~ 23时04分]"
         },
         {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
@@ -646,6 +648,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "七国集团领导人表示，我们继续支持特朗普总统为实现上述目标所作的努力，即启动和平进程并促使各方开展直接对话。",
+          "url": "https://flash.jin10.com/detail/20260224224253376800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
           "url": "https://wallstreetcn.com/livenews/3057568",
           "source": "华尔街见闻-快讯",
@@ -712,6 +725,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "白宫官员：特朗普政府正设法将新版临时关税从10%提高至15%。",
+          "url": "https://wallstreetcn.com/livenews/3058191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
           "url": "https://flash.jin10.com/detail/20260224043714344800",
           "source": "金十数据",
@@ -721,6 +745,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "白宫官员：特朗普政府正致力于将临时性全球关税税率从10%提高至15%",
+          "url": "https://flash.jin10.com/detail/20260224224122860800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
@@ -781,7 +827,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -837,11 +883,12 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时57分 ~ 21时05分]"
+          "appearance_count": 23,
+          "time_info": "[00时57分 ~ 23时04分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -865,8 +912,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 23时04分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -912,22 +959,24 @@
             13,
             9,
             1,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 21时05分]"
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时04分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
           "url": "https://www.douyin.com/hot/2410571",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时49分 ~ 21时05分]"
+          "appearance_count": 7,
+          "time_info": "[18时49分 ~ 23时04分]"
         },
         {
           "title": "伊朗副总统表示，伊朗希望建立从克尔曼沙赫到伊拉克巴格达的货物运输走廊。",
@@ -1030,9 +1079,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "伊朗空军一直升机坠毁2人死亡",
@@ -1101,13 +1161,24 @@
           "time_info": "15时26分"
         },
         {
+          "title": "美国国务卿卢比奥将于周二向国会高层议员汇报伊朗局势。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3058187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "黎巴嫩官员表示，黎巴嫩方面担心，如果与伊朗的局势进一步恶化，以色列可能会对该国的基础设施发动攻击。",
           "url": "https://flash.jin10.com/detail/20260224195929987800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
@@ -1115,7 +1186,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1126,8 +1197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 23时04分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -1140,8 +1211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 23时04分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -1247,9 +1318,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "美股盘前芯片板块拉升，AMD拿下大单暴涨15%，金银回落，基本金属拉升，离岸人民币升破6.88",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -1330,7 +1412,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1341,7 +1423,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1352,9 +1434,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -1418,7 +1511,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
@@ -1435,11 +1528,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时49分 ~ 21时05分]"
+          "appearance_count": 7,
+          "time_info": "[18时49分 ~ 23时04分]"
         },
         {
           "title": "消息人士：科威特石油公司正与黑石集团、布鲁克菲尔德公司和EIG公司就一项可能价值70亿美元的管道项目进行谈判。",
