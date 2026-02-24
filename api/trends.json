@@ -1,119 +1,11 @@
 {
-  "generated_at": "2026-02-25T01:11:19.427095+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-02-25T03:01:59.951446+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
-        },
-        {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
-        },
-        {
-          "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
-          "url": "https://flash.jin10.com/detail/20260225004034013800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
-        },
-        {
-          "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
-          "url": "https://wallstreetcn.com/livenews/3058233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
-          "url": "https://wallstreetcn.com/livenews/3058232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
-          "url": "https://flash.jin10.com/detail/20260225002755971800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -123,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
+          "url": "https://wallstreetcn.com/livenews/3058301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
           "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
@@ -155,11 +58,12 @@
           "url": "https://www.douyin.com/hot/2410571",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -170,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -182,19 +86,42 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
           "url": "https://www.douyin.com/hot/2410332",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3058288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "市场消息：知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加当地时间下午3点向“八人小组”进行的伊朗问题简报会。",
+          "url": "https://flash.jin10.com/detail/20260225021001091800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
           "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
@@ -206,12 +133,199 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
+          "url": "https://wallstreetcn.com/livenews/3058276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗外交部长：德黑兰将在日内瓦恢复与美国会谈，旨在尽快达成一项公平公正的协议。",
+          "url": "https://flash.jin10.com/detail/20260225015805598800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗外交部长：我们面临一个历史性机遇，有望达成一项前所未有的协议，解决彼此关切并实现共同利益。",
+          "url": "https://flash.jin10.com/detail/20260225015102991800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗外交部长：与美国达成协议“只有在外交被置于优先地位”的情况下才触手可及。",
+          "url": "https://flash.jin10.com/detail/20260225015035672800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
+          "url": "https://flash.jin10.com/detail/20260225004034013800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时01分]"
+        },
+        {
+          "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
+          "url": "https://wallstreetcn.com/livenews/3058233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时11分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
+          "url": "https://wallstreetcn.com/livenews/3058232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时11分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260225022141993800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
+          "url": "https://flash.jin10.com/detail/20260225002755971800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
+          "url": "https://wallstreetcn.com/livenews/3058275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "特朗普政府被1000多家企业起诉",
+          "url": "https://www.toutiao.com/trending/7609548645095964718/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -221,8 +335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -232,8 +346,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -243,19 +357,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
           "url": "https://wallstreetcn.com/livenews/3058269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时01分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -277,14 +392,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "德债收益率在美股盘初短暂地拉升",
+          "url": "https://wallstreetcn.com/livenews/3058277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "【数据看盘】多路资金联手抢筹深南电路，顶级游资扎堆通源石油",
@@ -294,14 +420,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时01分]"
+        },
+        {
+          "title": "西方石油公司首席执行官：在油价维持在每桶60至65美元的区间内，美国的石油产量可以保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260225022104993800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "西方石油公司首席执行官：油价需达到70美元才能推动行业增产。",
+          "url": "https://flash.jin10.com/detail/20260225022051251800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -314,6 +462,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时11分]"
+        },
+        {
+          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
+          "url": "https://wallstreetcn.com/livenews/3058274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     }
