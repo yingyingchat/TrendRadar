@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T18:59:34.724872+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-02-25T19:40:51.082076+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时11分 ~ 18时59分]"
+          "appearance_count": 19,
+          "time_info": "[01时11分 ~ 19时40分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -83,6 +83,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 19时40分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 19时40分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -131,29 +154,6 @@
           "time_info": "[15时14分 ~ 16时49分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 18时59分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 18时59分]"
-        },
-        {
           "title": "特朗普打还是不打，只是时间问题了",
           "url": "https://news.ifeng.com/c/8r1bJIeSigy",
           "source": "凤凰网",
@@ -164,6 +164,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时05分 ~ 14时01分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 19时40分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -268,17 +282,17 @@
           "time_info": "[04时44分 ~ 08时03分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
             8,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时49分 ~ 18时59分]"
+          "time_info": "[18时05分 ~ 19时40分]"
         },
         {
           "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
@@ -303,18 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 18时59分]"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -797,6 +799,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "市场消息：特朗普政府已下令美国外交官游说反对监管美国科技公司处理外国人数据的行为。",
+          "url": "https://flash.jin10.com/detail/20260225190515560800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
           "url": "https://wallstreetcn.com/livenews/3058315",
           "source": "华尔街见闻-快讯",
@@ -944,8 +957,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 18时59分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 19时40分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -980,11 +993,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 18时59分]"
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 19时40分]"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1046,6 +1060,18 @@
           "time_info": "[08时03分 ~ 12时53分]"
         },
         {
+          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
+          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 19时40分]"
+        },
+        {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
           "url": "https://wallstreetcn.com/livenews/3058301",
           "source": "华尔街见闻-快讯",
@@ -1068,18 +1094,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 05时43分]"
-        },
-        {
-          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
-          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 18时59分]"
         },
         {
           "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
@@ -1135,7 +1149,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -1253,7 +1267,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -1328,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时14分 ~ 18时59分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
+          "url": "https://flash.jin10.com/detail/20260225193717302800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
@@ -1462,6 +1487,17 @@
           "time_info": "[05时43分 ~ 06时34分]"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "科技股反弹提振美股 亚洲股市望接力强劲开盘",
           "url": "https://flash.jin10.com/detail/20260225072639170800",
           "source": "金十数据",
@@ -1498,7 +1534,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "【数据看盘】多路资金联手抢筹深南电路，顶级游资扎堆通源石油",
@@ -1522,6 +1558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们正在评估通过乌克兰敖德萨向欧盟国家进口石油的方案，但需要更多信息。",
+          "url": "https://flash.jin10.com/detail/20260225193849020800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "伊拉克石油部长：伊拉克西库尔纳2号油田目前日产量为45万桶，雪佛龙公司接管该油田后，日产量有望达到75万至80万桶。",
@@ -1560,6 +1607,18 @@
           "time_info": "[05时43分 ~ 06时34分]"
         },
         {
+          "title": "【数据看盘】多家机构和游资激烈博弈通源石油，量化联手一线游资抢筹东岳硅材",
+          "url": "https://www.cls.cn/detail/2294864",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时40分]"
+        },
+        {
           "title": "美国从委内瑞拉接收超8000万桶石油",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%8E%A5%E6%94%B6%E8%B6%858000%E4%B8%87%E6%A1%B6%E7%9F%B3%E6%B2%B9%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1582,15 +1641,15 @@
           "time_info": "06时34分"
         },
         {
-          "title": "【数据看盘】多家机构和游资激烈博弈通源石油，量化联手一线游资抢筹东岳硅材",
-          "url": "https://www.cls.cn/detail/2294864",
-          "source": "财联社热门",
+          "title": "伊拉克石油部：伊拉克1月份石油总收入为64.85亿美元。",
+          "url": "https://flash.jin10.com/detail/20260225192942488800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "19时40分"
         },
         {
           "title": "西方石油公司首席执行官：在油价维持在每桶60至65美元的区间内，美国的石油产量可以保持稳定。",
@@ -1602,6 +1661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊拉克石油部：1月份石油总出口量为1.07616亿桶。",
+          "url": "https://flash.jin10.com/detail/20260225192545348800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "西方石油公司首席执行官：油价需达到70美元才能推动行业增产。",
@@ -1724,8 +1794,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 19时40分]"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -1793,8 +1863,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数DXY突破98，日内涨0.10%。",
+          "url": "https://flash.jin10.com/detail/20260225193029245800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
         {
           "title": "周二（2月24日）纽约尾盘，ICE美元指数涨0.14%，报97,843点，日内交投区间为97.695-97.986点。 彭博美元指数涨0.03%，报1189.77点，日内交投区间为1188.71-1192.00点。",
           "url": "https://wallstreetcn.com/livenews/3058322",
