@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:40:51.082076+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-02-25T21:04:15.723661+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时11分 ~ 19时40分]"
+          "appearance_count": 21,
+          "time_info": "[01时11分 ~ 21时04分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -71,6 +71,29 @@
           "time_info": "[10时05分 ~ 16时49分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 21时04分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 21时04分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -85,27 +108,18 @@
           "time_info": "[00时37分 ~ 08时03分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3
+            12,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 19时40分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时49分 ~ 21时04分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -166,18 +180,17 @@
           "time_info": "[10时05分 ~ 14时01分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
             8,
-            6,
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 21时04分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -282,19 +295,6 @@
           "time_info": "[04时44分 ~ 08时03分]"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 19时40分]"
-        },
-        {
           "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
           "url": "https://flash.jin10.com/detail/20260225121648684800",
           "source": "金十数据",
@@ -389,6 +389,17 @@
           "time_info": "[05时43分 ~ 06时34分]"
         },
         {
+          "title": "特朗普：我们赢得太多了",
+          "url": "https://www.douyin.com/hot/2411181",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
           "title": "特朗普国情咨文演讲大骂：这些人疯了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
           "source": "百度热搜",
@@ -434,6 +445,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时34分]"
+        },
+        {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "美议员称宁愿瞎也不想听特朗普演说",
@@ -805,7 +827,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -945,7 +967,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗大规模军演 试射多种导弹",
@@ -954,11 +976,12 @@
           "ranks": [
             4,
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时52分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[12时52分 ~ 21时04分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -1048,6 +1071,18 @@
           "time_info": "[00时37分 ~ 18时59分]"
         },
         {
+          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
+          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 21时04分]"
+        },
+        {
           "title": "在伊朗中国人：华联会已准备撤离方案",
           "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
           "source": "百度热搜",
@@ -1058,18 +1093,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时03分 ~ 12时53分]"
-        },
-        {
-          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
-          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 19时40分]"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -1094,6 +1117,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 05时43分]"
+        },
+        {
+          "title": "德国外交部发言人就即将在日内瓦举行的伊核谈判表示，我们期待伊朗抓住机遇，以建设性方式参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202647910800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "据官方媒体报道，伊朗谈判代表团已离开德黑兰，前往日内瓦参加第三轮核谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202053665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
@@ -1267,7 +1312,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -1350,7 +1395,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1475,6 +1520,18 @@
           "time_info": "[05时43分 ~ 06时34分]"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时04分]"
+        },
+        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
@@ -1485,17 +1542,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时34分]"
-        },
-        {
-          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3058828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "科技股反弹提振美股 亚洲股市望接力强劲开盘",
@@ -1520,6 +1566,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
+          "url": "https://wallstreetcn.com/livenews/3058852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "德债收益率在美股盘初短暂地拉升",
           "url": "https://wallstreetcn.com/livenews/3058277",
           "source": "华尔街见闻-快讯",
@@ -1534,7 +1591,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "【数据看盘】多路资金联手抢筹深南电路，顶级游资扎堆通源石油",
@@ -1566,7 +1623,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1595,6 +1652,19 @@
           "time_info": "[14时01分 ~ 18时59分]"
         },
         {
+          "title": "【数据看盘】多家机构和游资激烈博弈通源石油，量化联手一线游资抢筹东岳硅材",
+          "url": "https://www.cls.cn/detail/2294864",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 21时04分]"
+        },
+        {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3058352",
           "source": "华尔街见闻-快讯",
@@ -1607,18 +1677,6 @@
           "time_info": "[05时43分 ~ 06时34分]"
         },
         {
-          "title": "【数据看盘】多家机构和游资激烈博弈通源石油，量化联手一线游资抢筹东岳硅材",
-          "url": "https://www.cls.cn/detail/2294864",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时40分]"
-        },
-        {
           "title": "美国从委内瑞拉接收超8000万桶石油",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%8E%A5%E6%94%B6%E8%B6%858000%E4%B8%87%E6%A1%B6%E7%9F%B3%E6%B2%B9%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1628,6 +1686,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时05分 ~ 18时06分]"
+        },
+        {
+          "title": "消息人士：哈萨克斯坦在2月1日至24日期间的石油及凝析油产量增加至178万桶/日，而1月份的平均产量为127万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260225202010760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国至2月20日当周API汽油库存 -153.5万桶，预期-59.1万桶，前值-31.2万桶。",
@@ -1647,7 +1716,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1669,7 +1738,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1716,6 +1785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "消息人士：哈萨克斯坦田吉兹油田的石油产量恢复因里海管道联盟（CPC）原油管道出口中断而放缓。",
+          "url": "https://flash.jin10.com/detail/20260225195905117800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -1834,7 +1914,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
@@ -1858,6 +1938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "分析师：美债收益率加速攀升",
+          "url": "https://flash.jin10.com/detail/20260225200106256800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -1872,7 +1963,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1886,6 +1977,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         }
       ]
     },
