@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T17:09:54.297139+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-04-29T19:29:39.560709+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时01分 ~ 14时23分]"
+        },
+        {
+          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
+          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 19时29分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -83,15 +95,17 @@
           "time_info": "[00时51分 ~ 08时02分]"
         },
         {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
           "ranks": [
-            2
+            6,
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 17时09分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 19时29分]"
         },
         {
           "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
@@ -127,17 +141,16 @@
           "time_info": "00时51分"
         },
         {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            17,
-            11
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 17时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 19时29分]"
         },
         {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
@@ -167,18 +180,6 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 17时09分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            2,
             21
           ],
           "is_new": false,
@@ -257,6 +258,17 @@
           "time_info": "[00时51分 ~ 02时17分]"
         },
         {
+          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时29分]"
+        },
+        {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
           "url": "https://wallstreetcn.com/articles/3771035",
           "source": "华尔街见闻",
@@ -279,17 +291,6 @@
           "time_info": "14时23分"
         },
         {
-          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "美军：在对伊朗港口封锁行动中已要求39艘船只掉头",
           "url": "https://wallstreetcn.com/livenews/3095946",
           "source": "华尔街见闻-快讯",
@@ -299,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "印度财政部报告：预计伊朗危机不会对金融稳定产生不利影响。",
+          "url": "https://flash.jin10.com/detail/20260429191305200800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美媒：伊朗或向巴基斯坦提交调整版方案",
@@ -447,7 +459,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -484,11 +496,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 17时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 19时29分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -497,9 +510,31 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时29分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "19时29分"
+        },
+        {
+          "title": "查尔斯国王给特朗普送了口钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
@@ -573,8 +608,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 19时29分]"
         },
         {
           "title": "特朗普再次无视英国王室规矩",
@@ -664,7 +699,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -807,7 +842,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -869,6 +904,279 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "报道：阿联酋宣布5月1日起退出OPEC和OPEC+，将逐步提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771148",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 19时29分]"
+        },
+        {
+          "title": "阿联酋宣布退出石油输出国组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071521",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 19时29分]"
+        },
+        {
+          "title": "阿联酋退出石油输出国组织",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 08时02分]"
+        },
+        {
+          "title": "阿联酋退出石油输出国组织",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            14,
+            7,
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 08时02分]"
+        },
+        {
+          "title": "阿联酋为何退出石油输出国组织",
+          "url": "https://www.toutiao.com/trending/7633508445018849316/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 17时09分]"
+        },
+        {
+          "title": "香港推出措施应对燃料价格问题。 香港将推出柴油补贴计划。 香港将推出液化石油气燃料补贴措施。",
+          "url": "https://wallstreetcn.com/livenews/3096587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "中国石油：一季度净利润483.33亿元，同比增长1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3096432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "阿联酋为何退出石油输出国组织",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E8%81%94%E9%85%8B%E4%B8%BA%E4%BD%95%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 11时55分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，合成橡胶、硅铁涨超2%，工业硅、液化石油气（LPG）、沪镍、燃油、瓶片、集运欧线、多晶硅涨超1%。跌幅方面，沪银、沪金、铂、玻璃跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260429113056200800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "美国至4月24日当周API汽油库存 -847.2万桶，预期-209.3万桶，前值-516.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260429043632847800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "官方数据显示，圭亚那3月份石油日产量平均为91万桶。",
+          "url": "https://flash.jin10.com/detail/20260429030318646800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "行业周报：美国上周API汽油库存锐减将近850万桶",
+          "url": "https://wallstreetcn.com/livenews/3096009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "中曼石油：第一季度净利润3165.51万元，同比下降86.22%",
+          "url": "https://wallstreetcn.com/livenews/3096410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC首席执行官与卡塔尔能源大臣探讨阿联酋与卡塔尔在能源领域的合作方向。",
+          "url": "https://flash.jin10.com/detail/20260429011514494800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "数据显示，阿联酋富查伊拉的石油库存降至新低，达到600万桶。",
+          "url": "https://flash.jin10.com/detail/20260429163300678800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
+          "url": "https://flash.jin10.com/detail/20260429025700770800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
+          "url": "https://flash.jin10.com/detail/20260429025354754800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司（ADNOC）：已将其基准穆尔班（Murban）原油5月份的官方售价（OSP）定为每桶110.75美元，较4月份每桶69.45美元的官方售价大幅上调。",
+          "url": "https://wallstreetcn.com/livenews/3095973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3096003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "埃尼集团Eni与委内瑞拉石油部、石油公司PDVSA达成协议，将在Junin 5石油项目重启活动。",
+          "url": "https://wallstreetcn.com/livenews/3095971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "俄罗斯财政部长：（关于阿联酋退出欧佩克）这意味着阿联酋将尽可能多地生产石油；油价将会下跌。",
+          "url": "https://flash.jin10.com/detail/20260429162805220800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "两名伊拉克石油部门官员称，伊拉克不打算退出OPEC、或OPEC+，需要通过强大的联盟来稳定石油价格。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3095900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3095965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 23,
       "titles": [
@@ -918,8 +1226,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时59分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[06时59分 ~ 19时29分]"
         },
         {
           "title": "OpenAI“朋友圈”遭市场重估！",
@@ -964,8 +1272,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 17时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 19时29分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -1022,7 +1330,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1139,270 +1447,8 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "报道：阿联酋宣布5月1日起退出OPEC和OPEC+，将逐步提高石油产量",
-          "url": "https://wallstreetcn.com/articles/3771148",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 17时09分]"
-        },
-        {
-          "title": "阿联酋宣布退出石油输出国组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071521",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 17时09分]"
-        },
-        {
-          "title": "阿联酋退出石油输出国组织",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 08时02分]"
-        },
-        {
-          "title": "阿联酋退出石油输出国组织",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            14,
-            7,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 08时02分]"
-        },
-        {
-          "title": "阿联酋为何退出石油输出国组织",
-          "url": "https://www.toutiao.com/trending/7633508445018849316/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 17时09分]"
-        },
-        {
-          "title": "中国石油：一季度净利润483.33亿元，同比增长1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3096432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "阿联酋为何退出石油输出国组织",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E8%81%94%E9%85%8B%E4%B8%BA%E4%BD%95%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时55分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少，合成橡胶、硅铁涨超2%，工业硅、液化石油气（LPG）、沪镍、燃油、瓶片、集运欧线、多晶硅涨超1%。跌幅方面，沪银、沪金、铂、玻璃跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260429113056200800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "美国至4月24日当周API汽油库存 -847.2万桶，预期-209.3万桶，前值-516.5万桶。",
-          "url": "https://flash.jin10.com/detail/20260429043632847800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "官方数据显示，圭亚那3月份石油日产量平均为91万桶。",
-          "url": "https://flash.jin10.com/detail/20260429030318646800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "行业周报：美国上周API汽油库存锐减将近850万桶",
-          "url": "https://wallstreetcn.com/livenews/3096009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "中曼石油：第一季度净利润3165.51万元，同比下降86.22%",
-          "url": "https://wallstreetcn.com/livenews/3096410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC首席执行官与卡塔尔能源大臣探讨阿联酋与卡塔尔在能源领域的合作方向。",
-          "url": "https://flash.jin10.com/detail/20260429011514494800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "数据显示，阿联酋富查伊拉的石油库存降至新低，达到600万桶。",
-          "url": "https://flash.jin10.com/detail/20260429163300678800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
-          "url": "https://flash.jin10.com/detail/20260429025700770800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
-          "url": "https://flash.jin10.com/detail/20260429025354754800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司（ADNOC）：已将其基准穆尔班（Murban）原油5月份的官方售价（OSP）定为每桶110.75美元，较4月份每桶69.45美元的官方售价大幅上调。",
-          "url": "https://wallstreetcn.com/livenews/3095973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3096003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "埃尼集团Eni与委内瑞拉石油部、石油公司PDVSA达成协议，将在Junin 5石油项目重启活动。",
-          "url": "https://wallstreetcn.com/livenews/3095971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "俄罗斯财政部长：（关于阿联酋退出欧佩克）这意味着阿联酋将尽可能多地生产石油；油价将会下跌。",
-          "url": "https://flash.jin10.com/detail/20260429162805220800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "两名伊拉克石油部门官员称，伊拉克不打算退出OPEC、或OPEC+，需要通过强大的联盟来稳定石油价格。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3095900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3095965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -1474,6 +1520,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
           "url": "https://wallstreetcn.com/livenews/3096006",
           "source": "华尔街见闻-快讯",
@@ -1521,7 +1578,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -1539,22 +1596,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时29分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
           "url": "https://www.cls.cn/detail/2359433",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时29分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -1566,6 +1625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
@@ -1590,11 +1660,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 19时29分]"
         },
         {
           "title": "金价换手中枢下移至这一水平，今晚鲍威尔将决定下一站！",
@@ -1677,8 +1748,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 17时09分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 19时29分]"
         }
       ]
     },
