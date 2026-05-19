@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:01:32.974726+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-19T16:35:48.221771+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -68,6 +68,17 @@
           "time_info": "[00时22分 ~ 13时01分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
+        },
+        {
           "title": "特朗普称将推迟对伊朗发动军事打击",
           "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
@@ -80,15 +91,15 @@
           "time_info": "[08时05分 ~ 13时01分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时35分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -103,6 +114,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 06时02分]"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：可获得的折扣药物数量将增加七倍。TrumpRx网站将增加超过600种仿制药。",
@@ -141,17 +163,6 @@
           "time_info": "[02时51分 ~ 08时06分]"
         },
         {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时01分]"
-        },
-        {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
           "url": "https://www.toutiao.com/trending/7641079190293430308/",
           "source": "今日头条",
@@ -164,6 +175,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
         },
         {
           "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
@@ -199,17 +222,6 @@
           "time_info": "[13时00分 ~ 13时01分]"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2374803",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
           "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
           "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
           "source": "澎湃新闻",
@@ -230,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普按下暂停键，原油多头为何还没撤？｜原油头条",
+          "url": "https://flash.jin10.com/detail/20260519162211728800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "特朗普将在白宫为沃什主持就职，市场紧盯：他会听总统的话降息吗？",
@@ -287,6 +310,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "特朗普对古巴动武意愿急升，军事选项摆上白宫桌面",
+          "url": "https://flash.jin10.com/detail/20260519161458780800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国民主党：特朗普不能在IRS和解案中“既当裁判又当运动员”",
           "url": "https://wallstreetcn.com/livenews/3105514",
           "source": "华尔街见闻-快讯",
@@ -340,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普将于12月14日至15日在迈阿密召开领导人峰会。",
@@ -533,8 +578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 13时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 16时35分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -558,8 +603,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 13时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时51分 ~ 16时35分]"
         },
         {
           "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
@@ -571,8 +616,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 13时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时51分 ~ 16时35分]"
         },
         {
           "title": "美方被曝将暂停对伊朗的石油制裁",
@@ -638,7 +683,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -654,6 +699,40 @@
           "time_info": "[00时22分 ~ 06时02分]"
         },
         {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
+        },
+        {
           "title": "伊朗披露穆杰塔巴受伤细节",
           "url": "https://www.toutiao.com/trending/7640468019504857124/",
           "source": "今日头条",
@@ -665,39 +744,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 06时02分]"
-        },
-        {
-          "title": "伊朗最高领袖重申将考虑开辟新战线",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "伊朗最高领袖重申将考虑开辟新战线",
@@ -978,8 +1024,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时02分 ~ 13时01分]"
+          "appearance_count": 6,
+          "time_info": "[06时02分 ~ 16时35分]"
         },
         {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
@@ -990,8 +1036,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
@@ -999,11 +1045,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时35分]"
         },
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -1178,7 +1225,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "WTI 6月原油期货收涨3.24美元，涨幅3.07%，报108.66美元/桶。 NYMEX 6月天然气期货收报3.0240美元/百万英热单位。 NYMEX 6月汽油期货收报3.7607美元/加仑，NYMEX 6月取暖油期货收报4.1145美元/加仑。",
@@ -1225,13 +1272,35 @@
           "time_info": "02时51分"
         },
         {
+          "title": "康菲石油高管表示，卡塔尔液化天然气北田东部和北田南部的合资项目可能会推迟数月而非数年。",
+          "url": "https://flash.jin10.com/detail/20260519161426397800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "日本首相高市早苗：日本和韩国将开始能源合作，包括液化天然气和石油产品的互换安排。",
+          "url": "https://flash.jin10.com/detail/20260519161039076800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国夏威夷檀香山一港口发生石油泄漏事故",
           "url": "https://wallstreetcn.com/livenews/3105777",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -1297,7 +1366,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -1305,7 +1374,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美债收益率破5%有何影响",
@@ -1319,26 +1388,50 @@
           "time_info": "[00时22分 ~ 08时06分]"
         },
         {
+          "title": "美国银行调查：若美债大幅波动 30年期收益率或升至6%以上",
+          "url": "https://wallstreetcn.com/livenews/3105918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
           "url": "https://www.cls.cn/detail/2374855",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
           "url": "https://wallstreetcn.com/articles/3772572",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
+        },
+        {
+          "title": "3月外国投资者美债持仓下降 管涛：地缘冲突、能源供给冲击的自然反应，4月或回升",
+          "url": "https://www.cls.cn/detail/2374826",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -1471,18 +1564,30 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
           "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 16时35分]"
+        },
+        {
+          "title": "近期金价持续回调的原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%87%91%E4%BB%B7%E6%8C%81%E7%BB%AD%E5%9B%9E%E8%B0%83%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美暂缓对伊袭击，为何金价反弹仍有气无力？｜黄金头条",
@@ -1491,7 +1596,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -1522,6 +1627,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     }
