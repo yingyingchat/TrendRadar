@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-26T13:03:30.102585+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-05-26T17:55:14.915334+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 77,
       "titles": [
+        {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 17时55分]"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 17时55分]"
+        },
+        {
+          "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
+          "url": "https://news.ifeng.com/c/8tRUm9hPRif",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
         {
           "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
           "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
@@ -19,13 +53,35 @@
           "time_info": "[00时27分 ~ 08时05分]"
         },
         {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://www.cls.cn/detail/2381630",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
+          "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
+          "url": "https://news.ifeng.com/c/8tRe4GWXi93",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
           "title": "伊朗最高领袖就医情况曝光",
           "url": "https://news.ifeng.com/c/8tQQymaYbMG",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -51,9 +107,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗副安全局长访问俄罗斯进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260526174854928800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "伊朗官员：武装力量处于最高戒备，若敌人犯错必将回应",
@@ -67,15 +134,15 @@
           "time_info": "08时05分"
         },
         {
-          "title": "击落敌方无人机，伊朗：使用了新武器",
-          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
-          "source": "凤凰网",
+          "title": "【伊朗媒体否认伊美达成谅解备忘录的说法】伊朗媒体否认伊美达成谅解备忘录的说法。伊朗伊斯兰共和国广播电视台26日报道，部分外国媒体报道称，伊朗与美国达成14点谅解备忘录，这“纯属捏造，毫无根据”。报道说，有媒体数小时前称已获得伊美谅解备忘录的最终草案，其中涉及开放霍尔木兹海峡、启动核问题谈判、解冻伊朗被冻结资金等问题，但这些说法均不属实。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "17时55分"
         },
         {
           "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
@@ -89,24 +156,13 @@
           "time_info": "06时08分"
         },
         {
-          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
-          "url": "https://wallstreetcn.com/articles/3773097",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
           "title": "美军发动“自卫性”空袭伊朗，细节披露",
           "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -242,6 +298,39 @@
           "time_info": "[04时22分 ~ 06时08分]"
         },
         {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
+          "title": "伊朗称击落一架美军无人机",
+          "url": "https://www.toutiao.com/trending/7644108014995164681/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
+          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
+          "url": "https://wallstreetcn.com/articles/3773115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
           "title": "伊朗总统下令：恢复互联网至今年1月大规模断网前状态",
           "url": "https://wallstreetcn.com/livenews/3109011",
           "source": "华尔街见闻-快讯",
@@ -335,6 +424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 04时22分]"
+        },
+        {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "美媒：美国和伊朗正努力解决在核问题及制裁方面的措辞分歧",
@@ -444,7 +544,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -499,7 +599,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -568,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "伊媒：伊朗坚持在协议宣布之初即可马上使用一半伊朗被冻结资金",
+          "url": "https://flash.jin10.com/detail/20260526173204237800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
@@ -658,6 +769,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡里巴夫（对卡塔尔）的访问“总体良好”，并推动了与美国的谈判进展。",
+          "url": "https://flash.jin10.com/detail/20260526172818935800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "消息人士称，火箭弹袭击了伊拉克埃尔比勒以北的伊朗反对派营地，造成两名战斗人员受伤。",
           "url": "https://flash.jin10.com/detail/20260526034624782800",
           "source": "金十数据",
@@ -713,6 +835,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰议会议长卡利巴夫访问卡塔尔是为了就如何落实伊朗对其（被冻结）资金的要求达成协议。",
+          "url": "https://flash.jin10.com/detail/20260526172547297800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "伊朗称中国推动美伊停火谈判进程",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%8A%A8%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -722,6 +855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗最高领袖称伊朗及抵抗阵线取胜",
+          "url": "https://wallstreetcn.com/livenews/3109299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥与俄罗斯外长拉夫罗夫就俄罗斯-乌克兰冲突、双边关系及伊朗局势进行了交流。",
@@ -738,7 +882,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -769,9 +913,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 17时55分]"
         },
         {
           "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
@@ -791,9 +935,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 17时55分]"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -832,16 +988,15 @@
           "time_info": "[06时08分 ~ 08时05分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
+          "title": "创纪录！特朗普最新民调曝光",
+          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
+          "source": "凤凰网",
           "ranks": [
-            10,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时03分]"
+          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -897,7 +1052,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -971,7 +1126,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "杰富瑞：将马拉松石油(MRO.N)目标价从279美元上调至296美元。",
@@ -980,9 +1135,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "石油大省闹“独立”，加拿大总理发出警告",
+          "url": "https://news.ifeng.com/c/8tRDOb1IzG9",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 17时55分]"
         },
         {
           "title": "乌克兰：袭击俄罗斯Bryansk（布良斯克州）地区的一个石油仓库。",
@@ -996,17 +1163,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "石油大省闹“独立”，加拿大总理发出警告",
-          "url": "https://news.ifeng.com/c/8tRDOb1IzG9",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
           "title": "乌克兰军方：袭击了布良斯克地区的俄罗斯石油仓库。",
           "url": "https://flash.jin10.com/detail/20260525230918167800",
           "source": "金十数据",
@@ -1016,6 +1172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "南向资金今日净卖出9.68亿元。港股通（沪）方面，中芯国际、腾讯控股分别获净卖出12.68亿港元、8.39亿港元；中国海洋石油净买入额居首，金额为9.56亿港元；港股通（深）方面，阿里巴巴-W、中国海洋石油分别获净卖出11.2亿港元、9.94亿港元；中芯国际净买入额居首，金额为19.24亿港元。",
+          "url": "https://flash.jin10.com/detail/20260526173209454800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "加拿大总理卡尼：提出类似“（石油重镇）Alberta省可能在10月份让当地选民决定是否独立”这样的问题是没有帮助的。",
@@ -1093,6 +1260,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价跳空高开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 08时05分]"
+        },
+        {
+          "title": "多家投行下调金价预判",
+          "url": "https://www.douyin.com/hot/2513019",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
+          "title": "分析师：金价阻力最小的路径依然是下行",
+          "url": "https://flash.jin10.com/detail/20260526174510610800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1139,24 +1346,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价跳空高开",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1165,11 +1354,12 @@
           "url": "https://www.zhihu.com/question/2033335202307647295",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 17时55分]"
         }
       ]
     },
