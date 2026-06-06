@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T14:52:46.309582+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-06-06T17:26:08.164146+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 07时09分]"
+        },
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -50,7 +61,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -155,6 +166,19 @@
           "time_info": "[05时25分 ~ 07时09分]"
         },
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
+        },
+        {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
           "source": "澎湃新闻",
@@ -191,16 +215,16 @@
           "time_info": "[11时23分 ~ 14时52分]"
         },
         {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            14,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时52分]"
+          "time_info": "[14时52分 ~ 17时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
@@ -423,17 +447,6 @@
           "time_info": "07时09分"
         },
         {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
           "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
           "url": "https://flash.jin10.com/detail/20260606031919745800",
           "source": "金十数据",
@@ -580,8 +593,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
@@ -606,15 +630,37 @@
           "time_info": "07时09分"
         },
         {
-          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
-          "url": "https://wallstreetcn.com/livenews/3115430",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗学生通讯社：在过去一个月内，巴基斯坦内政部长已两次前往德黑兰进行双边和区域磋商。",
+          "url": "https://flash.jin10.com/detail/20260606170003477800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "17时26分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606165323312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：如果国际原子能机构希望成为外交解决方案的一部分，就必须避免将技术报告变成政治施压的工具。",
+          "url": "https://flash.jin10.com/detail/20260606164755821800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗称美军第五舰队总部遭打击，美方否认",
@@ -623,7 +669,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -634,9 +680,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构正利用美国和以色列对伊朗核设施发动袭击所造成的后果，来制造有关伊朗核计划的“模糊性”。",
+          "url": "https://flash.jin10.com/detail/20260606164742931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
@@ -651,6 +708,18 @@
           "time_info": "[03时54分 ~ 05时25分]"
         },
         {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时26分]"
+        },
+        {
           "title": "风水轮流转，轮到伊朗威胁美国了",
           "url": "https://news.ifeng.com/c/8tjAgk0yryi",
           "source": "凤凰网",
@@ -660,6 +729,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 14时52分]"
+        },
+        {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时26分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时26分]"
         },
         {
           "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
@@ -686,6 +779,17 @@
           "time_info": "[11时23分 ~ 14时52分]"
         },
         {
+          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
           "title": "伊朗革命卫队称中东地区美军基地遭袭",
           "url": "https://wallstreetcn.com/livenews/3115402",
           "source": "华尔街见闻-快讯",
@@ -709,26 +813,26 @@
           "time_info": "07时09分"
         },
         {
-          "title": "白宫：伊朗国足已获得签证",
-          "url": "https://wallstreetcn.com/livenews/3115427",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构在某些核设施失去监督是由于发生军事攻击，而非伊朗缺乏合作。",
+          "url": "https://flash.jin10.com/detail/20260606164614805800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "17时26分"
         },
         {
-          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
-          "url": "https://wallstreetcn.com/livenews/3115423",
+          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
+          "url": "https://wallstreetcn.com/livenews/3115437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "17时26分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
@@ -784,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "伊朗边防指挥官阿里·阿克巴尔·贾维丹：昨晚，一支企图进入伊朗境内并袭击边防基地的恐怖组织小组与边防军发生了激烈交火，经过激烈的火力对抗，边防军成功对恐怖组织造成了重大损失，6名武装恐怖分子已被击毙，",
+          "url": "https://flash.jin10.com/detail/20260606162327329800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
@@ -921,8 +1036,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 17时26分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 17时26分]"
+        },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
@@ -936,30 +1075,6 @@
           "time_info": "[01时54分 ~ 14时52分]"
         },
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 14时52分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 14时52分]"
-        },
-        {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
@@ -967,8 +1082,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -992,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时09分]"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -1106,6 +1232,199 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持NYMEX WTI原油净多头头寸增加8,497手合约，至124,259手合约。 所持布伦特与WTI原油净多头头寸减少16,448手合约，至365,352手合约，创15周新低。 所持NYMEX汽油净多头头寸增至67,957手合约，创10周新高。 所持NYMEX柴油净多头头寸增至12,160手合约，创五周新高。 所持NYMEX天然气净多头头寸增至23,333手合约，创逾两年新高。",
+          "url": "https://wallstreetcn.com/livenews/3115317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：将俄罗斯排除在全球石油供应链之外是不可能的。",
+          "url": "https://flash.jin10.com/detail/20260606164625135800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯的石油产量在欧佩克+协议限制期间下降了150万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260606163340295800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "美国6月5日当周石油钻井数 431，前值 429。",
+          "url": "https://wallstreetcn.com/livenews/3115274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：霍尔木兹海峡的长期紧张局势显然会削弱长期石油需求。",
+          "url": "https://flash.jin10.com/detail/20260606162742427800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：根据Rystad Energy公司数据，美国石油和天然气公司今年可能获得超过600亿美元的额外利润。",
+          "url": "https://flash.jin10.com/detail/20260606162715130800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：在制裁下，俄罗斯减少了石油产量，而大多数欧佩克+成员在欧佩克+协议期间增加了产量。",
+          "url": "https://flash.jin10.com/detail/20260606162647044800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 布伦特8月原油期货收跌1.94美元，跌幅2.04%，报93.09美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3115301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：如果对俄罗斯实施额外制裁，我们将对美国加州加油站的汽油价格拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260606161451277800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：没有人能阻止我们将俄罗斯的石油发送给我们的战略伙伴。",
+          "url": "https://flash.jin10.com/detail/20260606161422991800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：如果危机得到解决，2027年下半年石油市场可能会回归基本面。",
+          "url": "https://flash.jin10.com/detail/20260606161032563800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "美国能源部长Wright：美国考虑在加州储备石油。 已尝试与加利福尼亚州州长纽森展开合作，从而应对该州面临的石油精炼困局（炼油瓶颈）。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3115364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "美国至6月5日当周石油钻井总数 431口，前值429口。",
+          "url": "https://flash.jin10.com/detail/20260606010123285800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦警告称，霍尔木兹海峡关闭后，全球其他航道，如马六甲海峡、巴布曼德海峡和直布罗陀海峡，也可能面临中断威胁。",
+          "url": "https://flash.jin10.com/detail/20260606160138308800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "俄罗斯石油公司首席执行官谢钦：无法将俄罗斯排除在全球石油供应链之外。",
+          "url": "https://flash.jin10.com/detail/20260606154047951800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "俄罗斯2025年Surgutneftegaz石油产量5470万吨。（国际文传电讯社）",
+          "url": "https://wallstreetcn.com/livenews/3115254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "俄罗斯石油公司首席执行官谢钦：霍尔木兹海峡长期紧张局势显然会削弱石油的长期需求。",
+          "url": "https://flash.jin10.com/detail/20260606153726538800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
@@ -1194,81 +1513,20 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持NYMEX WTI原油净多头头寸增加8,497手合约，至124,259手合约。 所持布伦特与WTI原油净多头头寸减少16,448手合约，至365,352手合约，创15周新低。 所持NYMEX汽油净多头头寸增至67,957手合约，创10周新高。 所持NYMEX柴油净多头头寸增至12,160手合约，创五周新高。 所持NYMEX天然气净多头头寸增至23,333手合约，创逾两年新高。",
-          "url": "https://wallstreetcn.com/livenews/3115317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国6月5日当周石油钻井数 431，前值 429。",
-          "url": "https://wallstreetcn.com/livenews/3115274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 布伦特8月原油期货收跌1.94美元，跌幅2.04%，报93.09美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3115301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国能源部长Wright：美国考虑在加州储备石油。 已尝试与加利福尼亚州州长纽森展开合作，从而应对该州面临的石油精炼困局（炼油瓶颈）。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3115364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "美国至6月5日当周石油钻井总数 431口，前值429口。",
-          "url": "https://flash.jin10.com/detail/20260606010123285800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "俄罗斯2025年Surgutneftegaz石油产量5470万吨。（国际文传电讯社）",
-          "url": "https://wallstreetcn.com/livenews/3115254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
         {
           "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
           "url": "https://wallstreetcn.com/livenews/3115341",
@@ -1325,11 +1583,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -1421,8 +1680,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
         },
         {
           "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
