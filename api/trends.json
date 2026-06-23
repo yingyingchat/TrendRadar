@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-06-23T13:01:45.132756+08:00",
-  "total_titles_processed": 763,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-06-23T16:35:05.550001+08:00",
+  "total_titles_processed": 970,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -18,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时26分 ~ 13时01分]"
+          "appearance_count": 8,
+          "time_info": "[03时26分 ~ 16时35分]"
         },
         {
           "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
@@ -58,6 +56,21 @@
           "time_info": "[03时26分 ~ 08时05分]"
         },
         {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18,
+            15,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时26分 ~ 16时35分]"
+        },
+        {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
           "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
           "source": "凤凰网",
@@ -85,11 +98,12 @@
           "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时35分]"
         },
         {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
@@ -99,20 +113,6 @@
             20,
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时26分 ~ 13时01分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            18,
-            15,
-            22
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -141,27 +141,17 @@
           "time_info": "06时02分"
         },
         {
-          "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 06时02分]"
-        },
-        {
           "title": "伊朗队在洛杉矶更衣室留下感谢信",
           "url": "https://www.toutiao.com/trending/7654111669110669353/",
           "source": "今日头条",
           "ranks": [
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[03时26分 ~ 16时35分]"
         },
         {
           "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
@@ -171,8 +161,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时35分]"
+        },
+        {
+          "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "伊朗向中方通报伊美谈判最新情况",
@@ -197,6 +198,28 @@
           "time_info": "03时26分"
         },
         {
+          "title": "伊朗驻日内瓦联合国大使：如果以色列以任何形式违反谅解备忘录，包括攻击黎巴嫩及黎巴嫩真主党，伊朗将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260623161735647800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：有关霍尔木兹海峡的主要谈判将在伊朗和阿曼之间进行，随后与谅解备忘录各方进行平行讨论。",
+          "url": "https://flash.jin10.com/detail/20260623161620131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "万斯否认被伊朗高级官员冷落",
           "url": "https://flash.jin10.com/detail/20260623023201780800",
           "source": "金十数据",
@@ -206,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：谅解备忘录各方正努力在启动核问题谈判之前落实其所有条款。",
+          "url": "https://flash.jin10.com/detail/20260623161553954800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "伊朗外交部：伊美达成协议文件",
@@ -241,6 +275,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗称目前尚未拟定国际原子能机构检查核设施的计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
           "url": "https://flash.jin10.com/detail/20260623044927151800",
           "source": "金十数据",
@@ -272,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：霍尔木兹海峡目前开放且不收费用，但60天后情况将取决于谈判进展。",
+          "url": "https://flash.jin10.com/detail/20260623161138254800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
@@ -307,6 +363,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "伊朗总统：与美谈判效果取决于对商定义务的承诺和执行",
+          "url": "https://flash.jin10.com/detail/20260623160940901800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "伊朗总统致敬伊朗国家队",
           "url": "https://flash.jin10.com/detail/20260623021030986800",
           "source": "金十数据",
@@ -324,9 +391,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：德黑兰的导弹和防御能力不会成为与任何一方谈判的议题。",
+          "url": "https://flash.jin10.com/detail/20260623160835398800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "伊朗说将按现行机制继续与国际原子能机构合作",
@@ -406,6 +484,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗驻日内瓦联合国大使：昨日技术层面会谈非常顺利，未来数日将就解除对伊制裁和伊朗核活动设立两个工作组。",
+          "url": "https://flash.jin10.com/detail/20260623160314525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "伊朗原油重返市场预期升温 油价回归平静",
           "url": "https://flash.jin10.com/detail/20260623063758383800",
           "source": "金十数据",
@@ -442,7 +531,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -454,6 +543,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时26分 ~ 08时05分]"
+        },
+        {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -490,6 +590,17 @@
           "time_info": "[12时59分 ~ 13时01分]"
         },
         {
+          "title": "特朗普点名英意德差劲",
+          "url": "https://news.ifeng.com/c/8uC00MLRSEF",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
           "url": "https://www.cls.cn/detail/2406197",
           "source": "财联社热门",
@@ -500,6 +611,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "特朗普政府将石油钻探保证金削减95%",
@@ -519,7 +641,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -667,6 +789,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "鲁比奥开启“高难度海湾之行”：既要力挺特朗普，更要稳住中东盟友",
+          "url": "https://flash.jin10.com/detail/20260623160153876800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "特朗普称伊朗将同意接受重大武器核查",
           "url": "https://wallstreetcn.com/livenews/3122966",
           "source": "华尔街见闻-快讯",
@@ -681,7 +814,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -692,8 +825,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时35分]"
         },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -711,11 +844,23 @@
           "url": "https://www.cls.cn/detail/2406236",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时35分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260623161955563800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -728,6 +873,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时26分 ~ 08时05分]"
+        },
+        {
+          "title": "美股盘前：半导体股大跌，英特尔跌约7%，SpaceX跌近5%",
+          "url": "https://wallstreetcn.com/livenews/3123298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
@@ -750,6 +906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘前跌2.3%，此前三个交易日该股已累跌约23%。",
+          "url": "https://flash.jin10.com/detail/20260623160425351800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "IBM美股盘后涨2.4%。",
@@ -788,7 +955,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
@@ -799,8 +966,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时35分]"
         },
         {
           "title": "金价又又又崩了",
@@ -810,8 +977,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时35分]"
         },
         {
           "title": "国际金价“高台跳水” 金饰价格降了",
@@ -825,13 +992,24 @@
           "time_info": "[12时59分 ~ 13时01分]"
         },
         {
+          "title": "金价狂泻30%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260623121000175800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -842,7 +1020,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -850,8 +1028,19 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美伊首轮谈判结束：暂时解除石油制裁，核问题和海峡僵局未解",
+          "url": "https://news.ifeng.com/c/8uBqgNJH09e",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
         {
           "title": "委内瑞拉央行：2026年第一季度石油出口收入升至54.9亿美元。",
           "url": "https://flash.jin10.com/detail/20260623025055363800",
@@ -919,11 +1108,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时35分]"
         },
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -974,6 +1164,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 08时05分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         }
       ]
     },
@@ -1034,26 +1253,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时26分 ~ 08时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时35分]"
         }
       ]
     }
