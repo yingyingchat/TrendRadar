@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:11:37.840390+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-07-03T23:11:05.147322+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -33,6 +33,20 @@
           "time_info": "[10时51分 ~ 17时58分]"
         },
         {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 23时11分]"
+        },
+        {
           "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
           "url": "https://wallstreetcn.com/livenews/3128266",
           "source": "华尔街见闻-快讯",
@@ -44,17 +58,27 @@
           "time_info": "07时06分"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            16,
-            15
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 20时11分]"
+          "appearance_count": 3,
+          "time_info": "[20时11分 ~ 23时11分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -88,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -283,7 +296,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -442,6 +455,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "美国总统特朗普：我认为人工智能比互联网更重要。",
           "url": "https://flash.jin10.com/detail/20260703053823269800",
           "source": "金十数据",
@@ -478,7 +502,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
@@ -505,6 +529,19 @@
           "time_info": "[10时51分 ~ 14时32分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 23时11分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
           "url": "https://wallstreetcn.com/livenews/3128216",
           "source": "华尔街见闻-快讯",
@@ -529,16 +566,15 @@
           "time_info": "[10时51分 ~ 17时58分]"
         },
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 20时11分]"
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -676,18 +712,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时11分 ~ 23时11分]"
         },
         {
           "title": "伊朗正寻求向日本出售石油，但潜在买家希望获得更长的制裁豁免期",
@@ -696,9 +733,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "市场消息：由沙特副外交大臣率领的沙特代表团也出席了伊朗前最高领袖哈梅内伊的葬礼。",
+          "url": "https://flash.jin10.com/detail/20260703223802779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "伊朗革命卫队总司令现身",
@@ -730,7 +778,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -810,13 +858,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国反垄断机构：正密切监控石油市场有无价格操纵行为",
+          "url": "https://flash.jin10.com/detail/20260703223956802800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国官员敦促各州打击石油价格欺诈行为。",
+          "url": "https://flash.jin10.com/detail/20260703223640298800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
         {
           "title": "美国7月3日当周石油钻井数 445，前值 440。",
           "url": "https://wallstreetcn.com/livenews/3128166",
@@ -840,6 +921,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 05时05分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国称正在监测石油市场以防止价格操纵。",
+          "url": "https://flash.jin10.com/detail/20260703223430825800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美国正为了价格问题而监控石油市场。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3128757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "惠誉评级：多米尼加共和国税制改革减轻了石油冲击的财政影响。",
@@ -976,7 +1079,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -1094,7 +1197,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
