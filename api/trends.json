@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T08:04:53.414938+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-07-06T13:11:09.841248+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -31,6 +31,18 @@
           "time_info": "[01时09分 ~ 08时04分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 13时11分]"
+        },
+        {
           "title": "特朗普又把自己加上了“总统山”",
           "url": "https://news.ifeng.com/c/8uW6iftDRFS",
           "source": "凤凰网",
@@ -43,24 +55,24 @@
           "time_info": "[01时09分 ~ 08时04分]"
         },
         {
+          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
+          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
           "title": "特朗普对哈梅内伊葬礼感到“震惊”",
           "url": "https://wallstreetcn.com/livenews/3129042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -139,6 +151,17 @@
           "time_info": "[04时59分 ~ 06时08分]"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
           "title": "据悉特朗普致电普京与泽连斯基，力求重启陷入停滞的和平谈判，并主动提出在土耳其北约峰会之前，协助斡旋俄乌问题的解决方案。",
           "url": "https://flash.jin10.com/detail/20260706014701554800",
           "source": "金十数据",
@@ -215,7 +238,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -237,7 +260,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -248,7 +271,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -314,7 +337,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -333,7 +356,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -345,6 +368,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 13时11分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
@@ -367,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -461,15 +484,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "伊朗已故最高领袖送葬仪式在德黑兰举行",
+          "url": "https://wallstreetcn.com/livenews/3129145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "英国石油公司考虑退出日本北部海上风电项目",
@@ -528,12 +562,67 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 06时08分]"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：ADNOC TRADING将继续作为交易活动的交易对手方，现有客户对接方式保持不变。",
+          "url": "https://flash.jin10.com/detail/20260706123711923800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：扩大客户对ADNOC与XRG在供应、贸易和运输领域多元化液化天然气（LNG）业务组合的获取渠道。",
+          "url": "https://flash.jin10.com/detail/20260706123627456800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：将AADNOC GAS与XRG的液化天然气营销业务整合至ADNOC TRADING旗下，打造统一整合的商业平台。",
+          "url": "https://flash.jin10.com/detail/20260706123553028800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：该平台将打造一家全球领先的液化天然气（LNG）龙头企业，目标到2035年合计可销售液化天然气产能达到4700万吨/年。",
+          "url": "https://flash.jin10.com/detail/20260706123512498800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：推出全球液化天然气营销与交易平台。",
+          "url": "https://flash.jin10.com/detail/20260706123410636800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -560,13 +649,35 @@
           "time_info": "[01时09分 ~ 08时04分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
           "url": "https://www.cls.cn/detail/2417191",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -577,7 +688,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
@@ -593,11 +704,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 08时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 13时11分]"
         }
       ]
     }
