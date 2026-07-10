@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T12:51:35.386875+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-07-10T16:22:23.225420+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -32,13 +32,24 @@
           "time_info": "[00时27分 ~ 08时04分]"
         },
         {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时22分]"
+        },
+        {
           "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
           "url": "https://news.ifeng.com/c/8udgruF8e0q",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -65,15 +76,16 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时22分]"
         },
         {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
@@ -85,18 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时51分]"
         },
         {
           "title": "周五亚太盘初，WTI原油期货低开0.4%，报71.81美元/桶，投资者权衡伊朗风险。",
@@ -178,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "以总理称杀死伊朗20名核专家，粉碎伊朗弹道导弹生产计划",
+          "url": "https://wallstreetcn.com/livenews/3131846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "据伊朗媒体：哈马斯发言人哈齐姆·卡西姆在以色列的一次暗杀企图中幸免于难。",
@@ -340,7 +351,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -381,7 +392,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -441,17 +452,6 @@
           "time_info": "[00时27分 ~ 08时04分]"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
           "url": "https://flash.jin10.com/detail/20260709234930221800",
           "source": "金十数据",
@@ -473,6 +473,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时22分]"
         },
         {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
@@ -499,15 +522,15 @@
           "time_info": "[04时46分 ~ 06时22分]"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "16时22分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -549,7 +572,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -560,7 +583,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -631,6 +654,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "特朗普周五将参加闭门政策会议，或与伊朗局势有关",
+          "url": "https://flash.jin10.com/detail/20260710155506777800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
           "url": "https://wallstreetcn.com/livenews/3131518",
           "source": "华尔街见闻-快讯",
@@ -667,8 +701,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时22分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -679,8 +713,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时22分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -724,8 +758,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时22分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
@@ -810,18 +844,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时22分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -868,6 +903,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
+          "url": "https://www.zhihu.com/question/2058849029027632241",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
           "url": "https://flash.jin10.com/detail/20260710040229258800",
           "source": "金十数据",
@@ -888,6 +934,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "国际能源署：全球石油需求的复苏正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260710160300129800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "WTI 8月原油期货收跌1.44美元，跌幅1.96%，报72.08美元/桶。 中东Abu Dhabi Murban原油期货跌3.13%，报71.27美元/桶。 NYMEX 8月天然气期货收报3.0120美元/百万英热单位。 NYMEX 8月汽油期货收报3.0387美元/加仑，NYMEX 8月取暖油期货收报3.5716美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3131511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        },
+        {
+          "title": "IEA月报：全球石油供应在六月反弹410万桶/日，达到9880万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260710160123066800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "IEA月报：预计全球石油需求到2027年将增加190万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260710160104502800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "玻利维亚能源部长：下周将成立工作组研究巴西石油公司重新进入玻利维亚的事宜。",
+          "url": "https://flash.jin10.com/detail/20260709233833331800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "IEA月报：全球石油供应将在2026年下降370万桶/日（之前预测为下降390万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260710160049384800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "市场消息：国际能源署署长比罗尔敦促欧盟重新审视其在北极钻探石油和天然气的禁令。",
+          "url": "https://flash.jin10.com/detail/20260710155859311800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -962,34 +1091,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "石油 汽油",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "WTI 8月原油期货收跌1.44美元，跌幅1.96%，报72.08美元/桶。 中东Abu Dhabi Murban原油期货跌3.13%，报71.27美元/桶。 NYMEX 8月天然气期货收报3.0120美元/百万英热单位。 NYMEX 8月汽油期货收报3.0387美元/加仑，NYMEX 8月取暖油期货收报3.5716美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3131511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "玻利维亚能源部长：下周将成立工作组研究巴西石油公司重新进入玻利维亚的事宜。",
-          "url": "https://flash.jin10.com/detail/20260709233833331800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
