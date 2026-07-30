@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-30T21:57:56.070858+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-07-30T23:53:10.169528+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时07分 ~ 23时53分]"
+        },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
@@ -21,18 +33,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 13时40分]"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时07分 ~ 21时57分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -108,6 +108,21 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 23时53分]"
+        },
+        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -164,20 +179,6 @@
           "time_info": "[06时01分 ~ 07时07分]"
         },
         {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 21时57分]"
-        },
-        {
           "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
           "url": "https://news.ifeng.com/c/8vAy9S9JapS",
           "source": "凤凰网",
@@ -187,6 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 16时24分]"
+        },
+        {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -262,7 +274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -339,7 +351,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -380,7 +392,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -471,7 +483,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -486,6 +498,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 13时40分]"
+        },
+        {
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "Meta美股盘后跌幅扩大至10%。",
@@ -517,7 +540,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -528,7 +551,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -605,7 +628,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -616,7 +639,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -671,7 +694,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -696,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "美股存储芯片指数涨超17%，SK海力士ADR涨15.85%，美光科技股价上涨15%，闪迪上涨21.15%，西部数据上涨16.87%，希捷科技上涨15.84%。",
+          "url": "https://wallstreetcn.com/livenews/3142532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
@@ -723,7 +757,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
@@ -733,8 +767,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 23时53分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -744,8 +778,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 23时53分]"
+        },
+        {
+          "title": "【美军称没有美国飞机在伊朗最近的袭击中被摧毁】美军中央司令部30日在社交媒体上发文称，在伊朗最近的袭击中，没有美国飞机被摧毁或损坏。“所有导弹和无人机均被拦截或未能到达目标区域。” 伊朗伊斯兰革命卫队此前发表声明称，为回应美国的袭击，革命卫队袭击了约旦阿兹拉克美军基地，摧毁3架F-35战斗机，并严重损坏另外3架战机。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3142562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "伊朗声称击中美军F-35战机",
@@ -827,6 +872,40 @@
           "time_info": "[00时21分 ~ 06时01分]"
         },
         {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 23时53分]"
+        },
+        {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时53分]"
+        },
+        {
+          "title": "伊朗称打击约旦美军基地并摧毁3架F-35战机",
+          "url": "https://news.ifeng.com/c/8vBe6gl56CN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时53分]"
+        },
+        {
           "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2065729116125521259",
           "source": "知乎",
@@ -850,6 +929,18 @@
           "time_info": "[00时21分 ~ 04时13分]"
         },
         {
+          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时53分]"
+        },
+        {
           "title": "美媒称美军正在对伊朗进行空袭",
           "url": "https://www.toutiao.com/trending/7668100922215501318/",
           "source": "今日头条",
@@ -861,16 +952,15 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
-          "source": "澎湃新闻",
+          "title": "伊朗称袭击科威特的美空军基地",
+          "url": "https://www.toutiao.com/trending/7668304219085999652/",
+          "source": "今日头条",
           "ranks": [
-            16,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时57分]"
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "美称伊朗发射导弹袭击驻中东美军",
@@ -885,26 +975,15 @@
           "time_info": "[06时01分 ~ 07时07分]"
         },
         {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
+          "title": "据伊朗迈赫尔通讯社：也门萨那传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260730230116479800",
+          "source": "金十数据",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "伊朗称打击约旦美军基地并摧毁3架F-35战机",
-          "url": "https://news.ifeng.com/c/8vBe6gl56CN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "23时53分"
         },
         {
           "title": "以色列官员：伊朗仍在镐山进行铀浓缩",
@@ -916,17 +995,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
-          "url": "https://www.toutiao.com/trending/7668276655902690879/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：当地时间周四上午袭击了约旦的美军基地。",
@@ -990,7 +1058,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -1034,9 +1102,92 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 汽油",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英国首相伯纳姆：英国不会无视北海石油。 将对北海石油采取务实态度。",
+          "url": "https://wallstreetcn.com/livenews/3142513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "沙特二季度的石油收入为1851亿里亚尔。",
+          "url": "https://flash.jin10.com/detail/20260730214710393800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少，焦煤跌超2%，焦炭跌近2%，低硫燃料油（LU）、纯碱、液化石油气（LPG）、铁矿石、纸浆、纯苯跌超1%。涨幅方面，瓶片涨超1%，20号胶、对二甲苯涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260730230015057800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "市场消息：消息人士称，俄罗斯7月份通过西部港口的石油出口预计将比6月份下降约4%，因乌克兰的攻击减少了黑海装船量。",
+          "url": "https://flash.jin10.com/detail/20260730230001511800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美国中央司令部：霍尔木兹海峡对国际通行保持开放，美国军方为船只的安全航行提供支持。自5月以来，中央司令部部队已在海峡协助了约1000艘船只和5亿桶石油的通行。",
+          "url": "https://flash.jin10.com/detail/20260729233655306800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "市场消息：消息人士称，乌克兰周三对俄罗斯卢克石油的彼尔姆炼油厂发动无人机袭击，导致火灾。",
+          "url": "https://flash.jin10.com/detail/20260730182853993800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美国7月24日当周EIA汽油库存变动 0.7万桶，前值 76.5万桶。",
+          "url": "https://wallstreetcn.com/livenews/3141769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     },
@@ -1086,11 +1237,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 23时53分]"
         },
         {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
@@ -1117,67 +1269,6 @@
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英国首相伯纳姆：英国不会无视北海石油。 将对北海石油采取务实态度。",
-          "url": "https://wallstreetcn.com/livenews/3142513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "沙特二季度的石油收入为1851亿里亚尔。",
-          "url": "https://flash.jin10.com/detail/20260730214710393800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "美国中央司令部：霍尔木兹海峡对国际通行保持开放，美国军方为船只的安全航行提供支持。自5月以来，中央司令部部队已在海峡协助了约1000艘船只和5亿桶石油的通行。",
-          "url": "https://flash.jin10.com/detail/20260729233655306800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "市场消息：消息人士称，乌克兰周三对俄罗斯卢克石油的彼尔姆炼油厂发动无人机袭击，导致火灾。",
-          "url": "https://flash.jin10.com/detail/20260730182853993800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美国7月24日当周EIA汽油库存变动 0.7万桶，前值 76.5万桶。",
-          "url": "https://wallstreetcn.com/livenews/3141769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -1192,8 +1283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时07分 ~ 21时57分]"
+          "appearance_count": 9,
+          "time_info": "[07时07分 ~ 23时53分]"
         },
         {
           "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
@@ -1232,8 +1323,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌Deepmind推出Gemini Robotics 2机器人AI模型",
+          "url": "https://flash.jin10.com/detail/20260730230757965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
+          "url": "https://wallstreetcn.com/livenews/3142550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
         {
           "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
           "url": "https://wallstreetcn.com/livenews/3141787",
