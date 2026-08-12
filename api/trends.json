@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T21:07:31.970172+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-08-12T22:56:16.370106+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -197,6 +197,28 @@
           "time_info": "[03时01分 ~ 04时04分]"
         },
         {
+          "title": "伊朗：目前使用武器都是自主研发的",
+          "url": "https://www.toutiao.com/trending/7672229042539888694/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "伊朗总统向多名新任军事指挥官致贺信",
+          "url": "https://www.toutiao.com/trending/7671934926010744875/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
           "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
           "url": "https://wallstreetcn.com/livenews/3148217",
           "source": "华尔街见闻-快讯",
@@ -335,7 +357,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -420,7 +442,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -467,8 +489,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 21时07分]"
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 22时56分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗只会空谈，不会采取行动。美国对霍尔木兹海峡拥有完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260812223154751800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普：美国完全控制霍尔木兹海峡。 伊朗只会空谈，没有实际行动。 认为我们将继续完全控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3148690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 22时56分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -484,6 +539,18 @@
           "time_info": "[05时45分 ~ 07时39分]"
         },
         {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 22时56分]"
+        },
+        {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
           "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
           "source": "凤凰网",
@@ -493,17 +560,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 12时07分]"
-        },
-        {
-          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
-          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 21时07分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -542,22 +598,22 @@
           "time_info": "[05时45分 ~ 06时41分]"
         },
         {
+          "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
+          "url": "https://news.ifeng.com/c/8vXFYlujdhz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
           "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
           "url": "https://www.cls.cn/detail/2452049",
           "source": "财联社热门",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -573,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "特朗普考虑削减资本利得税以提升共和党支持率",
+          "url": "https://wallstreetcn.com/livenews/3148682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
@@ -698,8 +765,270 @@
       ]
     },
     {
+      "keyword_group": "石油 汽油",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "美国至8月7日当周EIA车用汽油总产量引伸需求数据 981.69万桶/日，前值983.83万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812223039777800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国8月7日当周EIA汽油库存变动 -96.8万桶，预期 -110万桶，前值 -164.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3148687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "利比亚国家石油公司：扎维耶炼油厂恢复运营后遭无人机袭击，目标为燃料储罐。",
+          "url": "https://flash.jin10.com/detail/20260812010050564800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "WTI 9月原油期货收涨1.07美元，涨幅1.30%，报83.20美元/桶。 布伦特10月原油期货收涨1.19美元，涨幅1.36%，报88.91美元/桶。 中东Abu Dhabi Murban原油期货涨3.83%，报88.15美元/桶。 NYMEX 9月天然气期货收报2.7670美元/百万英热单位。 NYMEX 9月汽油期货收报3.1366美元/加仑，NYMEX 9月取暖油期货收报4.2525美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3148205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 04时04分]"
+        },
+        {
+          "title": "霍尔木兹海峡僵局阻碍供应恢复 IEA下调全球石油需求预期",
+          "url": "https://www.cls.cn/detail/2452629",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "利比亚国家石油公司：消防员扑灭Zawiya炼油厂的所有火情。",
+          "url": "https://wallstreetcn.com/livenews/3148198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 04时04分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3148242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
+        },
+        {
+          "title": "美国至8月7日当周EIA战略石油储备库存 -611.5万桶，前值-284.1万桶。",
+          "url": "https://flash.jin10.com/detail/20260812223011532800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "利比亚国家石油公司董事会主席：利比亚Zawiya炼油厂再次遭到无人机袭击。 该炼油厂柴油储油罐遇袭。 此次袭击引发小规模火情。 但该炼油厂仍然处于运营状态。",
+          "url": "https://wallstreetcn.com/livenews/3148173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "乌克兰袭击俄罗斯炼油厂 俄罗斯首次从印度远程进口汽油",
+          "url": "https://flash.jin10.com/detail/20260812113428303800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美国至8月7日当周EIA汽油库存 -96.8万桶，预期-119.9万桶，前值-164.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260812223003973800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国能源信息署目前认为，近期对途经曼德海峡运送沙特石油的船只的威胁并未导致石油产量中断。",
+          "url": "https://flash.jin10.com/detail/20260812005459932800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "美国至8月7日当周EIA新配方汽油库存 -0.3万桶，前值0万桶。",
+          "url": "https://flash.jin10.com/detail/20260812223003773800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "据媒体报道：俄罗斯经北极航道向亚洲的石油出口开局表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/3148168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一。燃料油涨超4%，多晶硅涨超3%，低硫燃料油（LU）、碳酸锂涨近3%，合成橡胶、液化石油气（LPG）、焦煤涨超2%。跌幅方面，钯跌超1%，生猪、尿素跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260812113034389800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美国能源部长Wright：目前离开霍尔木兹海峡的石油七日平均量已升至每日近900万桶。",
+          "url": "https://wallstreetcn.com/livenews/3148167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "据两名消息人士称，俄罗斯奥尔斯克石油公司炼油厂在8月11日遭遇无人机袭击后暂停生产。",
+          "url": "https://flash.jin10.com/detail/20260812173717646800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "美国至8月7日当周EIA汽油产量 -0.1万桶/日，前值-30.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812223003483800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国政府将今年布伦特原油价格预期上调5美元，略微上调明年石油产量预期",
+          "url": "https://wallstreetcn.com/livenews/3148165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "利比亚国家石油公司宣布，扎维亚炼油厂燃料罐的火灾已得到控制。",
+          "url": "https://flash.jin10.com/detail/20260812013814204800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美国至8月7日当周API汽油库存 -153.1万桶，预期-157.8万桶，前值15.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260812043525508800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "OPEC月报：将2026年全球石油需求增长预测下调至每日58万桶（此前预测为每日78万桶）。 OPEC+原油产量（包括前成员国阿联酋）2026年7月平均为每日3766万桶，较6月增加约142万桶/日，主要得益于海湾产油国的增产。 将2027年全球石油需求增长预测上调至每日216万桶（此前预测为每日194万桶）。",
+          "url": "https://wallstreetcn.com/livenews/3148618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "IEA月报：石油市场面临每日180万桶的供应缺口",
+          "url": "https://wallstreetcn.com/livenews/3148519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -862,7 +1191,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -873,7 +1202,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -884,7 +1213,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -900,200 +1229,190 @@
           "time_info": "19时45分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超2%，全球科技股ETF涨近2%，能源业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3148615",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
+        },
+        {
+          "title": "美国7月通胀表现温和！美股盘初：纳指涨0.9%，光通信股、存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3148656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
     {
-      "keyword_group": "石油 汽油",
-      "match_count": 16,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
       "titles": [
         {
-          "title": "利比亚国家石油公司：扎维耶炼油厂恢复运营后遭无人机袭击，目标为燃料储罐。",
-          "url": "https://flash.jin10.com/detail/20260812010050564800",
-          "source": "金十数据",
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
           "ranks": [
-            5
+            19,
+            18,
+            14,
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时07分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时04分 ~ 22时56分]"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 07时39分]"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 12时07分]"
+        },
+        {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时08分"
-        },
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
         {
-          "title": "WTI 9月原油期货收涨1.07美元，涨幅1.30%，报83.20美元/桶。 布伦特10月原油期货收涨1.19美元，涨幅1.36%，报88.91美元/桶。 中东Abu Dhabi Murban原油期货涨3.83%，报88.15美元/桶。 NYMEX 9月天然气期货收报2.7670美元/百万英热单位。 NYMEX 9月汽油期货收报3.1366美元/加仑，NYMEX 9月取暖油期货收报4.2525美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3148205",
+          "title": "谷歌将在美洲新增三条海底光缆系统",
+          "url": "https://wallstreetcn.com/livenews/3148264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
+            3,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时04分]"
+          "time_info": "[06时41分 ~ 07时39分]"
         },
         {
-          "title": "利比亚国家石油公司：消防员扑灭Zawiya炼油厂的所有火情。",
-          "url": "https://wallstreetcn.com/livenews/3148198",
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            26
+            12,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 04时04分]"
         },
         {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3148242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时41分]"
-        },
-        {
-          "title": "利比亚国家石油公司董事会主席：利比亚Zawiya炼油厂再次遭到无人机袭击。 该炼油厂柴油储油罐遇袭。 此次袭击引发小规模火情。 但该炼油厂仍然处于运营状态。",
-          "url": "https://wallstreetcn.com/livenews/3148173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "乌克兰袭击俄罗斯炼油厂 俄罗斯首次从印度远程进口汽油",
-          "url": "https://flash.jin10.com/detail/20260812113428303800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国能源信息署目前认为，近期对途经曼德海峡运送沙特石油的船只的威胁并未导致石油产量中断。",
-          "url": "https://flash.jin10.com/detail/20260812005459932800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "据媒体报道：俄罗斯经北极航道向亚洲的石油出口开局表现强劲。",
-          "url": "https://wallstreetcn.com/livenews/3148168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌不一。燃料油涨超4%，多晶硅涨超3%，低硫燃料油（LU）、碳酸锂涨近3%，合成橡胶、液化石油气（LPG）、焦煤涨超2%。跌幅方面，钯跌超1%，生猪、尿素跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260812113034389800",
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国能源部长Wright：目前离开霍尔木兹海峡的石油七日平均量已升至每日近900万桶。",
-          "url": "https://wallstreetcn.com/livenews/3148167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "据两名消息人士称，俄罗斯奥尔斯克石油公司炼油厂在8月11日遭遇无人机袭击后暂停生产。",
-          "url": "https://flash.jin10.com/detail/20260812173717646800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "美国政府将今年布伦特原油价格预期上调5美元，略微上调明年石油产量预期",
-          "url": "https://wallstreetcn.com/livenews/3148165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "利比亚国家石油公司宣布，扎维亚炼油厂燃料罐的火灾已得到控制。",
-          "url": "https://flash.jin10.com/detail/20260812013814204800",
-          "source": "金十数据",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
         {
-          "title": "美国至8月7日当周API汽油库存 -153.1万桶，预期-157.8万桶，前值15.6万桶。",
-          "url": "https://flash.jin10.com/detail/20260812043525508800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "OPEC月报：将2026年全球石油需求增长预测下调至每日58万桶（此前预测为每日78万桶）。 OPEC+原油产量（包括前成员国阿联酋）2026年7月平均为每日3766万桶，较6月增加约142万桶/日，主要得益于海湾产油国的增产。 将2027年全球石油需求增长预测上调至每日216万桶（此前预测为每日194万桶）。",
-          "url": "https://wallstreetcn.com/livenews/3148618",
+          "title": "谷歌提高新款手机价格，因内存“严重”短缺",
+          "url": "https://wallstreetcn.com/livenews/3148673",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时07分"
+          "time_info": "22时56分"
         },
         {
-          "title": "IEA月报：石油市场面临每日180万桶的供应缺口",
-          "url": "https://wallstreetcn.com/livenews/3148519",
+          "title": "谷歌发布PIXEL 11、11 PRO、11 PRO XL和11 PRO折叠屏手机",
+          "url": "https://wallstreetcn.com/livenews/3148672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
+          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "03时01分"
         }
       ]
     },
@@ -1173,122 +1492,41 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "keyword_group": "美债",
+      "match_count": 3,
       "titles": [
         {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
+          "title": "美国通胀数据并未解开华尔街的疑问 美债市场认为9月加息概率约五成",
+          "url": "https://wallstreetcn.com/livenews/3148669",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            18,
-            14,
-            9,
-            2
+            19
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 12时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
+          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
+          "url": "https://wallstreetcn.com/livenews/3148186",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 21时07分]"
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 07时39分]"
-        },
-        {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时07分]"
-        },
-        {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌将在美洲新增三条海底光缆系统",
-          "url": "https://wallstreetcn.com/livenews/3148264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时39分]"
-        },
-        {
-          "title": "谷歌：Gemini月活用户数超过10亿",
-          "url": "https://wallstreetcn.com/livenews/3148199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时04分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
-          "url": "https://flash.jin10.com/detail/20260812014236644800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
-          "url": "https://flash.jin10.com/detail/20260812012754420800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "19时45分"
         }
       ]
     },
@@ -1333,30 +1571,30 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
-          "url": "https://wallstreetcn.com/livenews/3148186",
-          "source": "华尔街见闻-快讯",
+          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
+          "url": "https://www.cls.cn/detail/2452735",
+          "source": "财联社热门",
           "ranks": [
-            22
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
-          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
-          "url": "https://wallstreetcn.com/livenews/3148572",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年08月12日（周三）上海金早盘价为955.49元/克，较国际金价(957.21元/克)，低1.72元/克",
+          "url": "https://flash.jin10.com/detail/20260812110126650800",
+          "source": "金十数据",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "12时07分"
         }
       ]
     },
@@ -1375,23 +1613,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 03时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月12日（周三）上海金早盘价为955.49元/克，较国际金价(957.21元/克)，低1.72元/克",
-          "url": "https://flash.jin10.com/detail/20260812110126650800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         }
       ]
     }
