@@ -1,22 +1,217 @@
 {
-  "generated_at": "2026-08-14T04:41:20.484846+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-08-14T07:40:30.504471+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
+        },
+        {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 04时41分]"
+        },
+        {
+          "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
+          "url": "https://flash.jin10.com/detail/20260814071558616800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：巴勒斯坦消息人士称，以色列军队对加沙东部的多个地点发动了攻击。",
+          "url": "https://flash.jin10.com/detail/20260814071431945800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美国能源部长赖特：我们对伊朗的制裁扼杀了其经济，使其在地区的影响力减弱。对其经济的压制最终将导致伊朗政权崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814070112323800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。 每天有800万至900万桶石油经由霍尔木兹海峡运输。 伊朗正试图以全球经济为要挟。 美国护送和运送货物的能力正在增强。 霍尔木兹海峡石油运输量将继续增加。",
+          "url": "https://wallstreetcn.com/livenews/3149346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
+          "url": "https://flash.jin10.com/detail/20260814023025307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗官员重申霍尔木兹海峡处于关闭状态",
+          "url": "https://wallstreetcn.com/livenews/3149303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "伊朗外交部再次谴责美以违反国际人道法",
+          "url": "https://wallstreetcn.com/livenews/3149273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗划“红线” 美军组特遣队 海峡博弈再度升级",
+          "url": "https://wallstreetcn.com/livenews/3149343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美防长称可无限期封锁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3149271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国能源部长赖特：伊朗正试图以全球经济为要挟。",
+          "url": "https://flash.jin10.com/detail/20260814064748613800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "伊朗外交部再次谴责美以违反国际人道法",
+          "url": "https://flash.jin10.com/detail/20260814020208321800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗革命卫队：真相要到战场上去看",
+          "url": "https://flash.jin10.com/detail/20260814031916413800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3149244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
+          "url": "https://wallstreetcn.com/livenews/3149241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -24,22 +219,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -49,8 +234,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -71,11 +268,12 @@
           "ranks": [
             3,
             9,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -84,22 +282,37 @@
           "ranks": [
             5,
             13,
-            12
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            23,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -113,18 +326,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时00分 ~ 04时41分]"
-        },
-        {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时15分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -158,139 +359,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
         },
         {
-          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
-          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
-        },
-        {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
-        },
-        {
-          "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
-          "url": "https://flash.jin10.com/detail/20260814023025307800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "伊朗官员重申霍尔木兹海峡处于关闭状态",
-          "url": "https://wallstreetcn.com/livenews/3149303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "伊朗外交部再次谴责美以违反国际人道法",
-          "url": "https://wallstreetcn.com/livenews/3149273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3149271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "伊朗外交部再次谴责美以违反国际人道法",
-          "url": "https://flash.jin10.com/detail/20260814020208321800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "伊朗革命卫队：真相要到战场上去看",
-          "url": "https://flash.jin10.com/detail/20260814031916413800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3149244",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek官网撤公告疑似回滚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
-          "url": "https://wallstreetcn.com/livenews/3149241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "07时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -321,7 +406,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -343,7 +428,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -365,9 +450,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "美股收盘：三大股指收涨 存储概念走强",
@@ -376,7 +472,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -387,7 +483,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -406,29 +502,42 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
           "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
           "url": "https://news.ifeng.com/c/8vYQf5wseR7",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -442,24 +551,13 @@
           "time_info": "01时01分"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
-        },
-        {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
           "url": "https://flash.jin10.com/detail/20260814040533982800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -510,13 +608,24 @@
           "time_info": "[01时00分 ~ 01时01分]"
         },
         {
+          "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
+          "url": "https://flash.jin10.com/detail/20260814065155550800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
           "url": "https://wallstreetcn.com/livenews/3149298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -524,7 +633,7 @@
     },
     {
       "keyword_group": "石油 汽油",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "委内瑞拉石油部长称，该国与BP、阿联酋XRG及卡塔尔UCC就委内瑞拉洛兰气田签署协议。",
@@ -560,13 +669,46 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国能源部长赖特：美国正在与每一艘船进行沟通和协调，霍尔木兹海峡的石油运输将持续增加，美国的护航和运输能力也在提升。",
+          "url": "https://flash.jin10.com/detail/20260814064747989800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美国能源部长赖特：每天有800万至900万桶石油通过霍尔木兹海峡，美国也掌握每日经由霍尔木兹海峡进出的船舶数量。",
+          "url": "https://flash.jin10.com/detail/20260814064743747800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司称两艘船只在霍尔木兹海峡遭袭",
+          "url": "https://wallstreetcn.com/livenews/3149337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "英国石油公司：与XRG、阿联酋阿布扎比国家石油公司ADNOC的国际能源投资公司和UCC石油天然气控股公司合作，各方持有相等的工作权益份额。",
           "url": "https://flash.jin10.com/detail/20260814031602496800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -577,7 +719,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -588,7 +730,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -599,9 +741,103 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美联储古尔斯比：许多通胀驱动因素来自关税，然后是石油价格，我们希望这些是一次性上涨。",
+          "url": "https://flash.jin10.com/detail/20260814061236649800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
+          "url": "https://flash.jin10.com/detail/20260814000639384800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "OpenAI在不到一年内任命新首席营收官",
+          "url": "https://wallstreetcn.com/livenews/3149247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260814000628612800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
+          "url": "https://wallstreetcn.com/livenews/3149264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "OpenAI任命达利·拉季奇为首席营收官。",
+          "url": "https://flash.jin10.com/detail/20260814000501554800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "OpenAI在不到一年内任命新首席营收官。",
+          "url": "https://flash.jin10.com/detail/20260813235531398800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     },
@@ -616,7 +852,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -678,78 +914,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
-          "url": "https://flash.jin10.com/detail/20260814000639384800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官",
-          "url": "https://wallstreetcn.com/livenews/3149247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260814000628612800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://wallstreetcn.com/livenews/3149264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "OpenAI任命达利·拉季奇为首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260814000501554800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260813235531398800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -763,8 +927,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 07时40分]"
+        },
+        {
+          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
+          "url": "https://www.zhihu.com/question/2071179550575124530",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 07时40分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -773,18 +949,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-          "url": "https://www.zhihu.com/question/2071179550575124530",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -801,7 +966,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -812,7 +977,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
